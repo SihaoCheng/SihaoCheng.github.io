@@ -41,11 +41,11 @@ Department of Astronomy
 Advisor: Prof. [Eric Peng (彭逸西)](http://kiaa.pku.edu.cn/faculty/eric-peng)
 
 ## My publications
-**Cheng, S.**, Cummings, J. D., Ménard, B., & Toonen, S., _Double-White-Dwarf Merger Products among High-Mass White Dwarfs_, [2019, arXiv e-prints, arXiv:1910.09558](https://ui.adsabs.harvard.edu/abs/2019arXiv191009558C/abstract)
+**Cheng, S.**, Cummings, J. D., Ménard, B., & Toonen, S., _Double-White-Dwarf Merger Products among High-Mass White Dwarfs_, 2019, [arXiv e-prints, arXiv:1910.09558](https://ui.adsabs.harvard.edu/abs/2019arXiv191009558C/abstract)
 
-**Cheng, S.**, Cummings, J. D., Ménard, B., _A Cooling Anomaly of High-mass White Dwarfs_, [2019, ApJ, 886, 100](https://ui.adsabs.harvard.edu/abs/2019ApJ...886..100C/abstract)
+**Cheng, S.**, Cummings, J. D., Ménard, B., _A Cooling Anomaly of High-mass White Dwarfs_, 2019, [ApJ, 886, 100](https://ui.adsabs.harvard.edu/abs/2019ApJ...886..100C/abstract)
 
-**Cheng, S.**, Cheng, S., _Meteor spectral observation with DSLR, normal lens and prism_, [2011, JIMO, 39, 39](https://ui.adsabs.harvard.edu/abs/2011JIMO...39...39C/abstract)
+**Cheng, S.**, Cheng, S., _Meteor spectral observation with DSLR, normal lens and prism_, 2011, [JIMO, 39, 39](https://ui.adsabs.harvard.edu/abs/2011JIMO...39...39C/abstract)
 
 ## Contacts
 s.cheng@jhu.edu
