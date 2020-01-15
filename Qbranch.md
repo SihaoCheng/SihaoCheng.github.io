@@ -1,3 +1,5 @@
+layout: page
+title: "Q branch of white dwarfs"
 permalink: /Qbranch/
 
 
