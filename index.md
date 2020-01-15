@@ -1,4 +1,4 @@
-# Sihao Cheng (程 思浩)'s home page
+# Sihao Cheng (程 思浩)
 
 <img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/SihaoCheng.jpg?raw=true" width="200" />
 
