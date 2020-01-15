@@ -21,3 +21,14 @@ Using the velocity distribution, we estimate fm in five mass bins.
 ![](https://pages.jh.edu/~scheng40/DWDmerger/images/merger_rate_Oct18.png)
 <br>
 Then, we calculate the double-WD merger rate as a function of the total mass of the two white dwarfs. Our estimates add significant precision and mass resolution to our knowledge of the merger rate.
+
+## Contacts
+s.cheng@jhu.edu
+<br>
++1 443 207 1532
+<br>
+Bloomberg 506
+<br>
+3400 N. Charles St., Johns Hopkins University
+<br>
+Baltimore, MD21218, USA
