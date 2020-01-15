@@ -3,22 +3,22 @@ theme: jekyll-theme-minimal
 # Website settings
 title: Sihao Cheng
 description: Sihao Cheng's Homepage
-keywords: Jiaxuan, Astronomy, Physics, Mathematics, Galaxy, Cosmology, Music
-baseurl: /Homepage  # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: https://astrojacobli.github.io/Homepage # url should be 'http://<github_username>.github.io/homepage' as before
+keywords: #Jiaxuan, Astronomy, Physics, Mathematics, Galaxy, Cosmology, Music
+baseurl: #/Homepage  # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+url: #https://sihaocheng.github.io/ # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
-img_path: /Homepage/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
+img_path: #/Homepage/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 deploy:
   type: github
   repository: https://gitcafe.com/<your_username>/<your_username>.git
   branch: gitcafe-pages
 
-languages:
-  - locale: 'en'
-    flag: 'static/img/flags/United-States.png'
-  - locale: 'zh'
-    flag: 'static/img/flags/China.png'
+# languages:
+#   - locale: 'en'
+#     flag: 'static/img/flags/United-States.png'
+#   - locale: 'zh'
+#     flag: 'static/img/flags/China.png'
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
