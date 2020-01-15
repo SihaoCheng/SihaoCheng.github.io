@@ -1,6 +1,4 @@
-layout: page
-title: "Q branch of white dwarfs"
-permalink: /Qbranch/
+
 
 
 # A Cooling Anamaly of High-Mass White Dwarfs
