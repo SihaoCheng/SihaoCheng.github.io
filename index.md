@@ -1,8 +1,10 @@
 ## Sihao Cheng (程 思浩)'s home page
 
-You can use the [editor on GitHub](https://github.com/SihaoCheng/SihaoCheng.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am Sihao Cheng, a third-year graduate student of astrophysics at the Johns Hopkins Univerisity ([JHU](https://physics-astronomy.jhu.edu)). I love physics, math, classical music, kendo, and anime.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Research
+
+I am interested in solving astrophysical questions with statistical analysis of survey data. Using data from the [_Gaia_](https://www.cosmos.esa.int/web/gaia/home) space mission, I have been working on explaining an unexpected slowing-down of [white dwarf](https://en.wikipedia.org/wiki/White_dwarf) cooling and on double-white-dwarf mergers, which is related to [type-Ia supernovae](https://en.wikipedia.org/wiki/Type_Ia_supernova). I am also working on developing a statistical tool to extract more information from the [filament structures](https://en.wikipedia.org/wiki/Observable_universe#Large-scale_structure) of the universe.
 
 ### Markdown
 
