@@ -41,9 +41,9 @@ Department of Astronomy
 Advisor: Prof. [Eric Peng (彭逸西)](http://kiaa.pku.edu.cn/faculty/eric-peng)
 
 ## My publications
-*Cheng, S.*, Cummings, J., Ménard, B., _A Cooling Anomaly of High-mass White Dwarfs_, 2019, ApJ, 886, 100
-<br>
-*Cheng, S.*, Cummings, J. D., Ménard, B., & Toonen, S., _Double-White-Dwarf Merger Products among High-Mass White Dwarfs_, 2019, arXiv e-prints, arXiv:1910.09558
+**Cheng, S.**, Cummings, J., Ménard, B., _A Cooling Anomaly of High-mass White Dwarfs_, 2019, ApJ, 886, 100
+
+**Cheng, S.**, Cummings, J. D., Ménard, B., & Toonen, S., _Double-White-Dwarf Merger Products among High-Mass White Dwarfs_, 2019, arXiv e-prints, arXiv:1910.09558
 
 ## Contacts
 s.cheng@jhu.edu
