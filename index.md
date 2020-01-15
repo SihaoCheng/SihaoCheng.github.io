@@ -31,7 +31,7 @@ Department of Physics and Astronomy
 <br>
 Advisor: Prof. [Brice Ménard](https://physics-astronomy.jhu.edu/directory/brice-menard/)
 
-### [Peking University](http://astro.pku.edu.cn/)([北京大学](http://astro.pku.edu.cn/))
+### [Peking University](http://astro.pku.edu.cn/) ([北京大学](http://astro.pku.edu.cn/))
 <img src="https://pages.jh.edu/~scheng40/images/PKU.png" width="400" />
 <br>
 Department of Astronomy
