@@ -20,15 +20,35 @@ Two white dwarfs orbiting each other may merge. We use the amount of merger prod
 
 ## My education
 
-<img src="https://pages.jh.edu/~scheng40/images/JHU.jpg" width="400" />
 ### [Johns Hopkins University](https://physics-astronomy.jhu.edu/)
-Department of Physics and Astronomy, 
+<img src="https://pages.jh.edu/~scheng40/images/JHU.jpg" width="400" />
+<br>
+Department of Physics and Astronomy
+<br>
 2019-present, Ph.D. candidate
+<br>
 2017-2019, M.A.
-
+<br>
 Advisor: Prof. [Brice Ménard](https://physics-astronomy.jhu.edu/directory/brice-menard/)
 
 ### [Peking University](http://astro.pku.edu.cn/)([北京大学](http://astro.pku.edu.cn/))
-Department of Astronomy, 2012-2016, B.S.
-
+<img src="https://pages.jh.edu/~scheng40/images/PKU.png" width="400" />
+<br>
+Department of Astronomy
+<br>
+2012-2016, B.S.
+<br>
 Advisor: Prof. [Eric Peng (彭逸西)](http://kiaa.pku.edu.cn/faculty/eric-peng)
+
+## My publications
+
+## Contacts
+s.cheng@jhu.edu
+<br>
++1 443 207 1532
+<br>
+Bloomberg 506
+<br>
+3400 N. Charles St., Johns Hopkins University
+<br>
+Baltimore, MD21218, USA
