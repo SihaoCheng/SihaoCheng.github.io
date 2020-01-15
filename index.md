@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Sihao Cheng (程 思浩)'s home page
 
 You can use the [editor on GitHub](https://github.com/SihaoCheng/SihaoCheng.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
