@@ -11,6 +11,7 @@ We discovered anomaly in the cooling process of high-mass white dwarf stars. The
 [WD_Q.csv](https://pages.jh.edu/~scheng40/Qbranch/WD_Q.csv)
 <br>
 [WD_late.csv](https://pages.jh.edu/~scheng40/Qbranch/WD_late.csv)
+<br>
 and an explanation of the columns: [column.txt](https://pages.jh.edu/~scheng40/Qbranch/columns.txt)
 
 ## Observations from Gaia
