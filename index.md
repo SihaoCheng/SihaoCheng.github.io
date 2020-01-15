@@ -9,7 +9,7 @@ I am interested in solving astrophysical questions with statistical analysis of 
 
 
 ### The double-white-dwarf merger rate
-<img src="https://pages.jh.edu/~scheng40/DWDmerger/images/merger_rate1.png" width="300" />
+<img src="https://pages.jh.edu/~scheng40/DWDmerger/images/merger_rate1.png" width="500" />
 <br>
 Two white dwarfs orbiting each other may merge. We use the amount of merger products among high-mass white dwarfs to estimate the merger rate. Our estimates add significant precision and mass resolution to previous estimates. Visit [this page](https://sihaocheng.github.io/DWDmerger) and [our paper](https://arxiv.org/abs/1910.09558) for details about our method and results.
 
