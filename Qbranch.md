@@ -43,7 +43,7 @@ Recovering the number-density enhancement and the age (and therefore velocity) e
 <br>
 With a simplified calculation, we found that the effective zone of 22Ne settling matches the Q branch very well on the H--R diagram. We look forward to numerical results from detailed white dwarf models.
 
-# Contacts
+## Contacts
 s.cheng@jhu.edu
 <br>
 +1 443 207 1532
