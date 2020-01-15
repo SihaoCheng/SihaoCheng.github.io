@@ -14,7 +14,7 @@ I am interested in solving astrophysical questions with statistical analysis of 
 Two white dwarfs orbiting each other may merge. We use the amount of merger products among high-mass white dwarfs to estimate the merger rate. Our estimates add significant precision and mass resolution to previous estimates. Visit [this page](https://sihaocheng.github.io/DWDmerger) and [our paper](https://arxiv.org/abs/1910.09558) for details about our method and results.
 
 ### An anomaly of white dwarf cooling
-![](https://pages.jh.edu/~scheng40/Qbranch/images/gif_two_color.gif)
+<img src="https://pages.jh.edu/~scheng40/Qbranch/images/gif_two_color.gif" width="500" />
 <br>
 We discovered a cooling anomaly in 6% of high-mass white dwarf stars, which creates the "Q branch" feature on the Hertzsprung-Russell diagram of white dwarfs. The gradual settling of the neutron-rich 22Ne in these white dwarfs may provide the energy required by this anomaly. Visit [this page](https://sihaocheng.github.io/Qbranch) and [our paper](https://arxiv.org/abs/1905.12710) for details about this cooling anomaly and more animations.
 
