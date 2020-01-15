@@ -1,6 +1,5 @@
----
 permalink: /Qbranch/
----
+
 
 # A Cooling Anamaly of High-Mass White Dwarfs
 
