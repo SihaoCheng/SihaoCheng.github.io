@@ -2,8 +2,8 @@ theme: jekyll-theme-minimal
 
 # Website settings
 title: Sihao Cheng
-description: 
-keywords: astronomy, physics, cosmology, survey, white dwarf
+description: homepage
+keywords: #astronomy, physics, cosmology, survey, white dwarf
 baseurl: #/Homepage  # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: #https://sihaocheng.github.io/ # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
