@@ -14,7 +14,7 @@ I am interested in solving astrophysical problems with statistical analysis of s
 
 In addition to white dwarfs, I also work on observational cosmology. Using a new statistical tool called wavelet scattering transform to analyse the [density field of the universe](https://en.wikipedia.org/wiki/Observable_universe#Large-scale_structure) through its [weak lensing](https://en.wikipedia.org/wiki/Weak_gravitational_lensing) effect, we could probably extract more cosmological information than traditional methods.
 
-# My education
+# Education
 ## [Johns Hopkins University](https://physics-astronomy.jhu.edu/)
 Department of Physics and Astronomy
 <br>
@@ -35,7 +35,7 @@ Advisor: Prof. [Eric Peng (彭逸西)](http://kiaa.pku.edu.cn/faculty/eric-peng)
 <br>
 <a href="http://astro.pku.edu.cn/"><img src="https://pages.jh.edu/~scheng40/images/PKU.png" width="400" /></a>
 
-# My publications
+# Publications
 **Cheng, S.**, Cummings, J. D., Ménard, B., & Toonen, S., _Double-White-Dwarf Merger Products among High-Mass White Dwarfs_, 2019, [arXiv e-prints, arXiv:1910.09558](https://ui.adsabs.harvard.edu/abs/2019arXiv191009558C/abstract)
 
 **Cheng, S.**, Cummings, J. D., Ménard, B., _A Cooling Anomaly of High-mass White Dwarfs_, 2019, [ApJ, 886, 100](https://ui.adsabs.harvard.edu/abs/2019ApJ...886..100C/abstract)
