@@ -12,7 +12,7 @@ I am interested in solving astrophysical problems with statistical analysis of s
 <a href="https://sihaocheng.github.io/Qbranch"><img src="https://pages.jh.edu/~scheng40/Qbranch/images/WD_HR.png" width="315" /></a>
 <a href="https://sihaocheng.github.io/DWDmerger"><img src="https://pages.jh.edu/~scheng40/DWDmerger/images/merger_rate1.png" width="300" /></a>
 
-In addition, I also work on observational cosmology. Using a new statistical tool called wavelet scattering transform to analyse the [density field of the universe](https://en.wikipedia.org/wiki/Observable_universe#Large-scale_structure) through its [weak lensing](https://en.wikipedia.org/wiki/Weak_gravitational_lensing) effect, we could probably extract more cosmological information than traditional methods.
+In addition to white dwarfs, I also work on observational cosmology. Using a new statistical tool called wavelet scattering transform to analyse the [density field of the universe](https://en.wikipedia.org/wiki/Observable_universe#Large-scale_structure) through its [weak lensing](https://en.wikipedia.org/wiki/Weak_gravitational_lensing) effect, we could probably extract more cosmological information than traditional methods.
 
 # My education
 ## [Johns Hopkins University](https://physics-astronomy.jhu.edu/)
