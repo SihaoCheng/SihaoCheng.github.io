@@ -14,12 +14,12 @@ I am also working on developing a statistical tool to extract more information f
 ## The double-white-dwarf merger rate
 Two white dwarfs orbiting each other may merge. We use the amount of merger products among high-mass white dwarfs to estimate the merger rate. Our estimates add significant precision and mass resolution to previous estimates. Visit [this page](https://sihaocheng.github.io/DWDmerger) and [our paper](https://arxiv.org/abs/1910.09558) for details about our method and results.
 <br>
-<a href="https://sihaocheng.github.io/Qbranch"><img src="https://pages.jh.edu/~scheng40/DWDmerger/images/merger_rate1.png" width="500" /></a>
+<a href="https://sihaocheng.github.io/DWDmerger"><img src="https://pages.jh.edu/~scheng40/DWDmerger/images/merger_rate1.png" width="500" /></a>
 
 ## An anomaly of white dwarf cooling
 We discovered a cooling anomaly in 6% of high-mass white dwarf stars, which creates the "Q branch" feature on the Hertzsprung-Russell diagram of white dwarfs. The gradual settling of the neutron-rich 22Ne in these white dwarfs may provide the energy required by this anomaly. Visit [this page](https://sihaocheng.github.io/Qbranch) and [our paper](https://arxiv.org/abs/1905.12710) for details about this cooling anomaly and more animations.
 <br>
-<img src="https://pages.jh.edu/~scheng40/Qbranch/images/WD_HR.png" width="500" />
+<a href="https://sihaocheng.github.io/Qbranch"><img src="https://pages.jh.edu/~scheng40/Qbranch/images/WD_HR.png" width="500" /></a>
 
 # My education
 ## [Johns Hopkins University](https://physics-astronomy.jhu.edu/)
@@ -31,7 +31,7 @@ Department of Physics and Astronomy
 <br>
 Advisor: Prof. [Brice Ménard](https://physics-astronomy.jhu.edu/directory/brice-menard/)
 <br>
-<img src="https://pages.jh.edu/~scheng40/images/JHU.jpg" width="400" />
+<a href="https://physics-astronomy.jhu.edu/"><img src="https://pages.jh.edu/~scheng40/images/JHU.jpg" width="400" /></a>
 
 ## [Peking University](http://astro.pku.edu.cn/) ([北京大学](http://astro.pku.edu.cn/))
 Department of Astronomy
@@ -40,7 +40,7 @@ Department of Astronomy
 <br>
 Advisor: Prof. [Eric Peng (彭逸西)](http://kiaa.pku.edu.cn/faculty/eric-peng)
 <br>
-<img src="https://pages.jh.edu/~scheng40/images/PKU.png" width="400" />
+<a href="http://astro.pku.edu.cn/"><img src="https://pages.jh.edu/~scheng40/images/PKU.png" width="400" /></a>
 
 # My publications
 **Cheng, S.**, Cummings, J. D., Ménard, B., & Toonen, S., _Double-White-Dwarf Merger Products among High-Mass White Dwarfs_, 2019, [arXiv e-prints, arXiv:1910.09558](https://ui.adsabs.harvard.edu/abs/2019arXiv191009558C/abstract)
