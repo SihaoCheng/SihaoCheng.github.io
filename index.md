@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/SihaoCheng.jpg?raw=true" width="200" />
 
 I am a third-year graduate student of astrophysics at the Johns Hopkins Univerisity ([JHU](https://physics-astronomy.jhu.edu)). I love physics, math, classical music, kendo, and anime.
