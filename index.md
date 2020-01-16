@@ -25,8 +25,6 @@ We discovered a cooling anomaly in 6% of high-mass white dwarf stars, which crea
 
 # My education
 ## [Johns Hopkins University](https://physics-astronomy.jhu.edu/)
-<img src="https://pages.jh.edu/~scheng40/images/JHU.jpg" width="400" />
-<br>
 Department of Physics and Astronomy
 <br>
 2019-present, Ph.D. candidate
@@ -34,15 +32,17 @@ Department of Physics and Astronomy
 2017-2019, M.A.
 <br>
 Advisor: Prof. [Brice Ménard](https://physics-astronomy.jhu.edu/directory/brice-menard/)
+<br>
+<img src="https://pages.jh.edu/~scheng40/images/JHU.jpg" width="400" />
 
 ## [Peking University](http://astro.pku.edu.cn/) ([北京大学](http://astro.pku.edu.cn/))
-<img src="https://pages.jh.edu/~scheng40/images/PKU.png" width="400" />
-<br>
 Department of Astronomy
 <br>
 2012-2016, B.S.
 <br>
 Advisor: Prof. [Eric Peng (彭逸西)](http://kiaa.pku.edu.cn/faculty/eric-peng)
+<br>
+<img src="https://pages.jh.edu/~scheng40/images/PKU.png" width="400" />
 
 # My publications
 **Cheng, S.**, Cummings, J. D., Ménard, B., & Toonen, S., _Double-White-Dwarf Merger Products among High-Mass White Dwarfs_, 2019, [arXiv e-prints, arXiv:1910.09558](https://ui.adsabs.harvard.edu/abs/2019arXiv191009558C/abstract)
