@@ -28,15 +28,15 @@ White dwarfs cool down from the bright, blue end to the faint, red end of their 
 
 
 ## Extra-delayed cooling
-![](https://pages.jh.edu/~scheng40/Qbranch/images/gif_extra_delayed_pop.gif)
-<br>
 We find that for some white dwarfs, they must experience a very severe slowing-down of cooling rate, which makes them pile-up on the Q branch. This effect create both an over-dense region on the plot and an older age than the normal cooling (upon and after the pile-up).
+<br>
+<img src="https://pages.jh.edu/~scheng40/Qbranch/images/gif_extra_delayed_pop.gif" width="500" />
+<br>
+Recovering the number-density enhancement and the age (and therefore velocity) excess.
 <br>
 <img src="https://pages.jh.edu/~scheng40/Qbranch/images/gif_both_pops.gif" width="500" />
 <br>
 <img src="https://pages.jh.edu/~scheng40/Qbranch/images/gif_age.gif" width="500" />
-<br>
-Recovering the number-density enhancement and the age (and therefore velocity) excess.
 
 ## The physics behind this cooling anomaly
 With a simplified calculation, we found that the effective zone of 22Ne settling matches the Q branch very well on the H--R diagram. We look forward to numerical results from detailed white dwarf models.
