@@ -2,10 +2,12 @@
 @import "rouge-github";
 @import url('https://fonts.googleapis.com/css?family=Arvo:400,700,400italic');
 
+// // 660px, // 270px, // 500px
+
 body {
   background-color: #fff;
   padding:40px;
-  font: 16px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 15px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
   font-weight:400;
   line-height:1.9;
@@ -13,7 +15,7 @@ body {
 
 h1 {
   color:#222;
-  margin:30px 0 20px;
+  margin:28px 0 20px;
 }
 
 h2, h3, h4, h5, h6 {
@@ -79,7 +81,7 @@ a:hover small {
 }
 
 .wrapper {
-  width:960px; // 660px
+  width:900px; // 660px
   margin:0 auto;
 }
 
@@ -128,7 +130,7 @@ img {
 }
 
 header {
-  width:200px; // 270px
+  width:190px; // 270px
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -141,7 +143,7 @@ ul.downloads {
   background: #f4f4f4;
   border-radius:5px;
   border:1px solid #e0e0e0;
-  width:200px; // 270px
+  width:190px; // 270px
 }
 
 .downloads li {
@@ -195,7 +197,7 @@ strong {
 }
 
 section {
-  width:670px; // 500px
+  width:590px; // 500px
   float:right;
   padding-bottom:50px;
 }
@@ -212,7 +214,7 @@ hr {
 }
 
 footer {
-  width:200px; // 270px
+  width:190px; // 270px
   float:left;
   position:fixed;
   bottom:50px;
