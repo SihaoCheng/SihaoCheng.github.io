@@ -9,8 +9,9 @@ I am a third-year graduate student of astrophysics at the Johns Hopkins Univeris
 # Research
 I am interested in solving astrophysical problems with statistical analysis of survey data. Using data from the [_Gaia_](https://www.cosmos.esa.int/web/gaia/home) space mission, I discovered some [white dwarfs](https://en.wikipedia.org/wiki/White_dwarf) with extremely low cooling rate and some as double-white-dwarf merger products, which is related to [type-Ia supernovae](https://en.wikipedia.org/wiki/Type_Ia_supernova) explosion. While working on white dwarfs, I built a python 3 package [`WD_models`](https://github.com/SihaoCheng/WD_models) containing tools to transform between white dwarf photometry and physical properties, based on existing white dwarf models. My work has led to two papers, one of which was highlighted by astrobites and [AAS](https://aasnova.org/2019/11/19/the-slowly-cooling-white-dwarfs-who-say-ne/).
 <br>
-<a href="https://sihaocheng.github.io/DWDmerger"><img src="https://pages.jh.edu/~scheng40/DWDmerger/images/merger_rate1.png" width="200" /></a>
-<a href="https://sihaocheng.github.io/Qbranch"><img src="https://pages.jh.edu/~scheng40/Qbranch/images/WD_HR.png" width="210" /></a>
+<a href="https://sihaocheng.github.io/Qbranch"><img src="https://pages.jh.edu/~scheng40/Qbranch/images/WD_HR.png" width="315" /></a>       
+<a href="https://sihaocheng.github.io/DWDmerger"><img src="https://pages.jh.edu/~scheng40/DWDmerger/images/merger_rate1.png" width="300" /></a>
+
 
 I am also working on developing a statistical tool to extract more information from the [filament structures](https://en.wikipedia.org/wiki/Observable_universe#Large-scale_structure) of the universe. Using a new set of statistical descriptors, called wavelet scattering transform coefficients, of the observable [weak lensing](https://en.wikipedia.org/wiki/Weak_gravitational_lensing) maps, we could extract more cosmological information so as to obtain a better constraint on the total amount of matter and the density fluctuation of the universe.
 
