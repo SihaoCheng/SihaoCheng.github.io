@@ -2,8 +2,8 @@ theme: jekyll-theme-dinky
 
 # Website settings
 title: Sihao Cheng
-description: Sihao Cheng's Homepage
-keywords: #Jiaxuan, Astronomy, Physics, Mathematics, Galaxy, Cosmology, Music
+description: 程思浩
+keywords: astronomy, physics, cosmology, survey, white dwarf
 baseurl: #/Homepage  # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: #https://sihaocheng.github.io/ # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
@@ -14,21 +14,21 @@ deploy:
   repository: https://gitcafe.com/<your_username>/<your_username>.git
   branch: gitcafe-pages
 
-# languages:
-#   - locale: 'en'
-#     flag: 'static/img/flags/United-States.png'
-#   - locale: 'zh'
-#     flag: 'static/img/flags/China.png'
+languages:
+  - locale: 'en'
+    flag: 'static/img/flags/United-States.png'
+  - locale: 'zh'
+    flag: 'static/img/flags/China.png'
 
 # author -- index page "about me" section
-author:  # change following line to your infomation.
+author: Sihao Cheng (程思浩) # change following line to your infomation.
   name: 程思浩  # Be used at blog posts' author.
   first_name: Sihao  # Be used at index page about me section.
   last_name: Cheng # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: SihaoCheng # Leave blank if you don't have now
   linkedin_id:  # Leave blank if you don't have now
-  facebook_username:   # Leave blank if you don't have now
+  facebook_username: Sihao Cheng  # Leave blank if you don't have now
   weibo_username:   # Leave blank if you don't have now
   email: s.cheng@jhu.edu  # Leave blank if you don't have now
   cv:  #/JIAXUAN_CV.pdf # A online CV can be printed as PDF, leave blank if you don't have now
@@ -47,7 +47,7 @@ author:  # change following line to your infomation.
 # analytics
 ## google analytics
 # ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
-   id: 106001791
+#    id: 106001791
 
 ## google optimize
 go:
