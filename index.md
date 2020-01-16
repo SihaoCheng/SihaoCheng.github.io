@@ -1,63 +1,27 @@
-<header class="site-header">
-
- <div class="wrapper">
- <!-- <a class="site-title" href="/">Jiaxuan Li 李嘉轩</a> -->
-  <nav class="site-nav">
-   <a href="#" class="menu-icon menu.open">
-    <svg viewBox="0 0 18 15">
-     <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
-     <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
-     <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
-    </svg>
-   </a>  
-
-   <div class="trigger"><h1>Main Navigation</h1>
-    <ul class="menu">    
-     <li><a href="/about/" class="page-link">About</a></li>
-     <li><a href="/cv/" class="page-link">CV</a></li>
-     <li><a href="/research/" class="page-link">Research</a></li>
-     <li><a href="/blog/" class="page-link">Blog</a></li>
-     <li><a href="/miscellany/" class="page-link">Miscellany</a>
-      <ul class="sub-menu">
-      <li><a href="/miscellany/art/">Art</a></li>
-      <li><a href="/miscellany/cooking/">Cooking</a></li>
-      <li><a href="/miscellany/photography">Photography</a></li>
-      <li><a href="/miscellany/links">Links</a></li>
-      </ul>
-     </li>
-    </ul>
-   </div>  
-  </nav>
- </div>
-</header>
-
-
-# Sihao Cheng (程 思浩)
-
 <img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/SihaoCheng.jpg?raw=true" width="200" />
 
 I am a third-year graduate student of astrophysics at the Johns Hopkins Univerisity ([JHU](https://physics-astronomy.jhu.edu)). I love physics, math, classical music, kendo, and anime.
 
-## Research
+# Research
 I am interested in solving astrophysical questions with statistical analysis of survey data. Using data from the [_Gaia_](https://www.cosmos.esa.int/web/gaia/home) space mission, I have been working on explaining an unexpected slowing-down of [white dwarf](https://en.wikipedia.org/wiki/White_dwarf) cooling and on double-white-dwarf mergers, which is related to [type-Ia supernovae](https://en.wikipedia.org/wiki/Type_Ia_supernova). While working on white dwarfs, I built a python 3 package [`WD_models`](https://github.com/SihaoCheng/WD_models) containing tools to calculate white dwarf photometry and other physical properties based on cooling and atmosphere models.
 
 I am also working on developing a statistical tool to extract more information from the [filament structures](https://en.wikipedia.org/wiki/Observable_universe#Large-scale_structure) of the universe. Using a new set of statistical descriptors, called wavelet scattering transform coefficients, on the observable [weak lensing](https://en.wikipedia.org/wiki/Weak_gravitational_lensing) maps, we could extract more cosmological information so as to obtain a better constraint on the total amount of matter and the density fluctuation of the universe.
 
 
 
-### The double-white-dwarf merger rate
+## The double-white-dwarf merger rate
 <img src="https://pages.jh.edu/~scheng40/DWDmerger/images/merger_rate1.png" width="500" />
 <br>
 Two white dwarfs orbiting each other may merge. We use the amount of merger products among high-mass white dwarfs to estimate the merger rate. Our estimates add significant precision and mass resolution to previous estimates. Visit [this page](https://sihaocheng.github.io/DWDmerger) and [our paper](https://arxiv.org/abs/1910.09558) for details about our method and results.
 
-### An anomaly of white dwarf cooling
+## An anomaly of white dwarf cooling
 <img src="https://pages.jh.edu/~scheng40/Qbranch/images/gif_two_color.gif" width="500" />
 <br>
 We discovered a cooling anomaly in 6% of high-mass white dwarf stars, which creates the "Q branch" feature on the Hertzsprung-Russell diagram of white dwarfs. The gradual settling of the neutron-rich 22Ne in these white dwarfs may provide the energy required by this anomaly. Visit [this page](https://sihaocheng.github.io/Qbranch) and [our paper](https://arxiv.org/abs/1905.12710) for details about this cooling anomaly and more animations.
 
 
-## My education
-### [Johns Hopkins University](https://physics-astronomy.jhu.edu/)
+# My education
+## [Johns Hopkins University](https://physics-astronomy.jhu.edu/)
 <img src="https://pages.jh.edu/~scheng40/images/JHU.jpg" width="400" />
 <br>
 Department of Physics and Astronomy
@@ -68,7 +32,7 @@ Department of Physics and Astronomy
 <br>
 Advisor: Prof. [Brice Ménard](https://physics-astronomy.jhu.edu/directory/brice-menard/)
 
-### [Peking University](http://astro.pku.edu.cn/) ([北京大学](http://astro.pku.edu.cn/))
+## [Peking University](http://astro.pku.edu.cn/) ([北京大学](http://astro.pku.edu.cn/))
 <img src="https://pages.jh.edu/~scheng40/images/PKU.png" width="400" />
 <br>
 Department of Astronomy
@@ -77,14 +41,14 @@ Department of Astronomy
 <br>
 Advisor: Prof. [Eric Peng (彭逸西)](http://kiaa.pku.edu.cn/faculty/eric-peng)
 
-## My publications
+# My publications
 **Cheng, S.**, Cummings, J. D., Ménard, B., & Toonen, S., _Double-White-Dwarf Merger Products among High-Mass White Dwarfs_, 2019, [arXiv e-prints, arXiv:1910.09558](https://ui.adsabs.harvard.edu/abs/2019arXiv191009558C/abstract)
 
 **Cheng, S.**, Cummings, J. D., Ménard, B., _A Cooling Anomaly of High-mass White Dwarfs_, 2019, [ApJ, 886, 100](https://ui.adsabs.harvard.edu/abs/2019ApJ...886..100C/abstract)
 
 **Cheng, S.**, Cheng, S., _Meteor spectral observation with DSLR, normal lens and prism_, 2011, [JIMO, 39, 39](https://ui.adsabs.harvard.edu/abs/2011JIMO...39...39C/abstract)
 
-## Contacts
+# Contacts
 s.cheng@jhu.edu
 <br>
 +1 443 207 1532
