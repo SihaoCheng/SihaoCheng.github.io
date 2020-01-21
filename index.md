@@ -6,7 +6,7 @@ layout: default
 
 I am a graduate student of astrophysics at the Johns Hopkins Univerisity ([JHU](https://physics-astronomy.jhu.edu)). I love physics, math, philosophy, classical music, kendo, and anime.
 
-# Research
+<h1 id="Research">Research</h1>
 I like to view astrophysical problems from both perspectives of physics and statistics in survey data. I am broadly interested in stars, galactic dynamics, and cosmology.
 
 Last year, I was mainly involved with a project about [white dwarfs](https://en.wikipedia.org/wiki/White_dwarf), the destiny of most stars in the universe. Using data from the [_Gaia_](https://www.cosmos.esa.int/web/gaia/home) space mission, I revealed for the first time that some white dwarfs cool extremely slowly and that some are merger products. My work has led to two papers (click the figures below), one of which was highlighted by [astrobites](https://astrobites.org/2019/11/12/the-slowly-cooling-white-dwarfs-who-say-ne/) and [AAS Nova](https://aasnova.org/2019/11/19/the-slowly-cooling-white-dwarfs-who-say-ne/).
