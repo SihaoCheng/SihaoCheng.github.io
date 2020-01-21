@@ -16,13 +16,12 @@
     <div class="wrapper">
       <header>
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
-<!-- 	    <a href="{{ "/" | absolute_url }}"></a> -->
-        
+<!--         <a href="{{ "/" | absolute_url }}"></a> -->
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+<!--         <p>{{ site.description | default: site.github.project_tagline }}</p> -->
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
@@ -42,7 +41,8 @@
 	      
         <nav id="nav">
           <ul class="container">
-            <li><a href="#Research">Research</a></li>
+            <li><a href="https://sihaocheng.github.io/">Home</a></li>
+            <li><a href="https://sihaocheng.github.io/#Research">Research</a></li>
 	    <li><a href="https://sihaocheng.github.io/CV.pdf">CV</a></li>
             <li><a href="https://sihaocheng.github.io/Personal">Personal</a></li>
             <li><a href="https://sihaocheng.github.io/Chinese">中文</a></li>
