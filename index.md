@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: project_page
 ---
 
 <img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/SihaoCheng.jpg?raw=true" width="200" />
