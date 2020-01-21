@@ -80,6 +80,68 @@ a:hover small {
   color:#777;
 }
 
+
+#nav {
+	background-color: #282828;
+	text-align: center;
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 100%;
+	z-index: 10000;
+	cursor: default;
+	height: 3.5em;
+	line-height: 3.5em;
+
+	ul {
+		margin-bottom: 0;
+		list-style: none;
+		padding-left: 0;
+	}
+
+	li {
+		display: inline-block;
+		padding-left: 0;
+	}
+
+	a {
+		@include vendor('transition', 'background-color .2s ease-in-out');
+		position: relative;
+		display: block;
+		color: #fff;
+		text-decoration: none;
+		outline: 0;
+		font-weight: 600;
+		border-radius: 8px;
+		color: #fff;
+		height: 2.5em;
+		line-height: 2.5em;
+		padding: 0 1.25em;
+
+		&:hover {
+			color: #fff !important;
+			background: #383838;
+		}
+
+		&.active {
+			background: #484848;
+
+			&:before {
+				content: '';
+				display: block;
+				position: absolute;
+				bottom: -0.6em;
+				left: 50%;
+				margin-left: -0.75em;
+				border-left: solid 0.75em transparent;
+				border-right: solid 0.75em transparent;
+				border-top: solid 0.6em #282828;
+			}
+		}
+	}
+}
+
+
 .wrapper {
   width:860px; // 660px
   margin:0 auto;
