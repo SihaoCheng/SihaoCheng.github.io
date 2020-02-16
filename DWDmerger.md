@@ -14,17 +14,17 @@ From Gaia Data Release 2 data, we select a 250 pc sample of high-mass, hot white
 ## Velocity distribution
 The distribution of transverse velocity distribution from Gaia data. If the fraction of double-WD merger (f_m) is 0 %, then the distribution should follow the black, dashed curves. The observed excess (data points with error bars) can be used to estimate f_m.
 <br>
-<img src="https://pages.jh.edu/~scheng40/DWDmerger/images/GOF_0813.png" width="500" />
+<img src="https://pages.jh.edu/~scheng40/DWDmerger/images/GOF_0813_Feb16.png" width="500" />
 
 ## Fraction of double-WD merger products (fm)
 Using the velocity distribution, we estimate fm in five mass bins.
 <br>
-<img src="https://pages.jh.edu/~scheng40/DWDmerger/images/f_merger.png" width="500" />
+<img src="https://pages.jh.edu/~scheng40/DWDmerger/images/f_merger_Jan28.png" width="500" />
 
 ## Merger rates
 Then, we calculate the double-WD merger rate as a function of the total mass of the two white dwarfs. Our estimates add significant precision and mass resolution to our knowledge of the merger rate.
 <br>
-<img src="https://pages.jh.edu/~scheng40/DWDmerger/images/merger_rate_Oct18.png" width="100%" />
+<img src="https://pages.jh.edu/~scheng40/DWDmerger/images/merger_rate_Jan28.png" width="100%" />
 
 ## Contacts
 s.cheng@jhu.edu
