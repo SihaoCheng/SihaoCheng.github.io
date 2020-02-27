@@ -12,7 +12,7 @@ From Gaia Data Release 2 data, we select a 250 pc sample of high-mass, hot white
 <img src="https://pages.jh.edu/~scheng40/DWDmerger/images/WD_HR_Oct17.png" width="500" />
 
 ## Velocity distribution
-The distribution of transverse velocity distribution from Gaia data. If the fraction of double-WD merger (f_m) is 0 %, then the distribution should follow the black, dashed curves. The observed excess (data points with error bars) can be used to estimate f_m.
+The distribution of transverse velocity distribution from Gaia data. If there is no double-WD merger products (f_m = 0), then the distribution should follow the black, dashed curves. The observed excess (data points with error bars) can be used to estimate f_m.
 <br>
 <img src="https://pages.jh.edu/~scheng40/DWDmerger/images/GOF_0813_Feb16.png" width="500" />
 
