@@ -14,7 +14,7 @@ layout: default
 <a href="https://sihaocheng.github.io/Qbranch/"><img src="https://pages.jh.edu/~scheng40/Qbranch/images/WD_HR.png" width="315" /></a>
 <a href="https://sihaocheng.github.io/DWDmerger"><img src="https://pages.jh.edu/~scheng40/DWDmerger/images/merger_rate1.png" width="300" /></a>
 
-白矮星的项目我写了I built a publically available package [`WD_models`](https://github.com/SihaoCheng/WD_models) in python for transformation between white dwarf photometry and physical properties. 
+我还写了一个python小工具[`WD_models`](https://github.com/SihaoCheng/WD_models)可以把白矮星的测光数据转换成其物理参数。
 
 今年我还开始涉足宇宙学。我们使用一个新的统计工具（叫做scattering transform）分析由[宇宙物质不均匀分布](https://en.wikipedia.org/wiki/Observable_universe#Large-scale_structure)造成的[弱引力透镜](https://en.wikipedia.org/wiki/Weak_gravitational_lensing)效应。这一新方法可以更有效地提取图像中的统计信息，从而更好地限制宇宙学模型中的参数。
 
