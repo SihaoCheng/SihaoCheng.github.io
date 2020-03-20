@@ -43,7 +43,7 @@ Advisor: Prof. [Eric Peng (彭逸西)](http://kiaa.pku.edu.cn/faculty/eric-peng)
 
 **Cheng, S.**, _Two delays in white dwarf evolution revealed by Gaia_, 2020, [Proceedings of IAU Symposium No. 357, in press](https://arxiv.org/abs/2001.04483)
 
-**Cheng, S.**, Cummings, J. D., Ménard, B., & Toonen, S., _Double White Dwarf Merger Products among High-mass White Dwarfs_, 2019, [ApJ, 891, 160](https://ui.adsabs.harvard.edu/abs/2019arXiv191009558C/abstract)
+**Cheng, S.**, Cummings, J. D., Ménard, B., & Toonen, S., _Double White Dwarf Merger Products among High-mass White Dwarfs_, 2020, [ApJ, 891, 160](https://ui.adsabs.harvard.edu/abs/2019arXiv191009558C/abstract)
 
 **Cheng, S.**, Cummings, J. D., Ménard, B., _A Cooling Anomaly of High-mass White Dwarfs_, 2019, [ApJ, 886, 100](https://ui.adsabs.harvard.edu/abs/2019ApJ...886..100C/abstract)
 
