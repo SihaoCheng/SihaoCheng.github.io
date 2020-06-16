@@ -16,7 +16,10 @@ Last year, I was mainly involved with a project about [white dwarfs](https://en.
 
 While working on white dwarfs, I built a publically available package [`WD_models`](https://github.com/SihaoCheng/WD_models) in python for transformation between white dwarf photometry and physical properties. 
 
-In addition to white dwarfs, I also work on observational cosmology. Using a new statistical tool called wavelet scattering transform to analyse the [density field of the universe](https://en.wikipedia.org/wiki/Observable_universe#Large-scale_structure) through its [weak lensing](https://en.wikipedia.org/wiki/Weak_gravitational_lensing) effect, we could probably extract more cosmological information than traditional methods.
+I also work on observational cosmology. Using a new statistical tool called the _scattering transform_ to analyse the [density field of the universe](https://en.wikipedia.org/wiki/Observable_universe#Large-scale_structure) through its [weak lensing](https://en.wikipedia.org/wiki/Weak_gravitational_lensing) effect, we may extract more cosmological information than traditional methods. 
+Click the figure below to see more about our paper.
+<a href="https://arxiv.org/abs/2006.08561"><img src="https://pages.jh.edu/~scheng40/ScatteringTransform/images/STvsPowerSpectrum.png" width="450" /></a>
+
 
 # Education
 ## [Johns Hopkins University](https://physics-astronomy.jhu.edu/)
@@ -41,7 +44,9 @@ Advisor: Prof. [Eric Peng (彭逸西)](http://kiaa.pku.edu.cn/faculty/eric-peng)
 
 # Publications
 
-**Cheng, S.**, _Two delays in white dwarf evolution revealed by Gaia_, 2020, [Proceedings of IAU Symposium No. 357, in press](https://arxiv.org/abs/2001.04483)
+**Cheng, S.**, Ting, Y., Ménard, B., & Bruna, J., _A new approach to observational cosmology using the scattering transform_, 2020, [astro-ph:2006.08561](https://arxiv.org/abs/2006.08561)
+
+**Cheng, S.**, _Two delays in white dwarf evolution revealed by Gaia_, 2020, [Proceedings of IAU Symposium No. 357, in press](https://ui.adsabs.harvard.edu/abs/2020arXiv200104483C/abstract)
 
 **Cheng, S.**, Cummings, J. D., Ménard, B., & Toonen, S., _Double White Dwarf Merger Products among High-mass White Dwarfs_, 2020, [ApJ, 891, 160](https://ui.adsabs.harvard.edu/abs/2020ApJ...891..160C/abstract)
 
