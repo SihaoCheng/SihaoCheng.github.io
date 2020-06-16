@@ -16,9 +16,9 @@ Last year, I was mainly involved with a project about [white dwarfs](https://en.
 
 While working on white dwarfs, I built a publically available package [`WD_models`](https://github.com/SihaoCheng/WD_models) in python for transformation between white dwarf photometry and physical properties. 
 
-I also work on observational cosmology. Using a new statistical tool called the _scattering transform_ to analyse the [density field of the universe](https://en.wikipedia.org/wiki/Observable_universe#Large-scale_structure) through its [weak lensing](https://en.wikipedia.org/wiki/Weak_gravitational_lensing) effect, we may extract more cosmological information than traditional methods. 
-Click the figure below to see more about our paper.
-<a href="https://arxiv.org/abs/2006.08561"><img src="https://pages.jh.edu/~scheng40/ScatteringTransform/images/STvsPowerSpectrum.png" width="450" /></a>
+I also work on observational cosmology. Using a new statistical tool called the _scattering transform_ to analyse the [density field of the universe](https://en.wikipedia.org/wiki/Observable_universe#Large-scale_structure) through its [weak lensing](https://en.wikipedia.org/wiki/Weak_gravitational_lensing) effect, we may extract more cosmological information than traditional methods. Click the figure below to see more about our paper.
+<br>
+<a href="https://arxiv.org/abs/2006.08561"><img src="https://pages.jh.edu/~scheng40/ScatteringTransform/images/STvsPowerSpectrum.png" width="400" /></a>
 
 
 # Education
