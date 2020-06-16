@@ -44,7 +44,7 @@ Advisor: Prof. [Eric Peng (彭逸西)](http://kiaa.pku.edu.cn/faculty/eric-peng)
 
 # Publications
 
-**Cheng, S.**, Ting, Y., Ménard, B., & Bruna, J., _A new approach to observational cosmology using the scattering transform_, 2020, [astro-ph:2006.08561](https://arxiv.org/abs/2006.08561)
+**Cheng, S.**, Ting, Y.-S., Ménard, B., & Bruna, J., _A new approach to observational cosmology using the scattering transform_, 2020, [astro-ph:2006.08561](https://arxiv.org/abs/2006.08561)
 
 **Cheng, S.**, _Two delays in white dwarf evolution revealed by Gaia_, 2020, [Proceedings of IAU Symposium No. 357, in press](https://ui.adsabs.harvard.edu/abs/2020arXiv200104483C/abstract)
 
