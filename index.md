@@ -7,18 +7,22 @@ layout: default
 I am a graduate student of astrophysics at the Johns Hopkins Univerisity ([JHU](https://physics-astronomy.jhu.edu)). I love physics, math, philosophy, classical music, kendo, and anime.
 
 <h1 id="Research">Research</h1>
-I like to view astrophysical problems from both perspectives of physics and statistics in survey data. I am broadly interested in stars, galactic dynamics, and cosmology.
+I like to view astrophysical problems from both perspectives of physics and statistics in survey data. I am interested in observational cosmology and astrophysics.
 
-Last year, I was mainly involved with a project about [white dwarfs](https://en.wikipedia.org/wiki/White_dwarf), the destiny of most stars in the universe. Using data from the [_Gaia_](https://www.cosmos.esa.int/web/gaia/home) space mission, I revealed for the first time that some white dwarfs cool extremely slowly and that some are merger products. My work has led to two papers (click the figures below), one of which was highlighted by [astrobites](https://astrobites.org/2019/11/12/the-slowly-cooling-white-dwarfs-who-say-ne/) and [AAS Nova](https://aasnova.org/2019/11/19/the-slowly-cooling-white-dwarfs-who-say-ne/).
+## Scattering transform: new statistics for cosmology and astrophysics
+Using a new statistical tool called the _scattering transform_ to analyse the [density field of the universe](https://en.wikipedia.org/wiki/Observable_universe#Large-scale_structure) through its [weak lensing](https://en.wikipedia.org/wiki/Weak_gravitational_lensing) effect, we may extract more cosmological information than traditional methods and on a par with state-of-the-art CNNs. The scattering transform, which non-linearly transforms the original field and yields a compact set of robust and interpretable statistics, can be used as a general tool for non-Gaussian information extraction. Click the figure below to see more about our paper.
+
+<a href="https://arxiv.org/abs/2006.08561"><img src="https://pages.jh.edu/~scheng40/ScatteringTransform/images/STvsPowerSpectrum.png" width="350" /></a>
+
+
+## Discoveries about white dwarfs from _Gaia_ satellite
+I also work on several projects about [white dwarfs](https://en.wikipedia.org/wiki/White_dwarf), the destiny of most stars in the universe. Using data from the [_Gaia_](https://www.cosmos.esa.int/web/gaia/home) space mission, I revealed that some white dwarfs cool extremely slowly and that some are merger products. My work has led to two papers (click the figures below), one of which was highlighted by [astrobites](https://astrobites.org/2019/11/12/the-slowly-cooling-white-dwarfs-who-say-ne/) and [AAS Nova](https://aasnova.org/2019/11/19/the-slowly-cooling-white-dwarfs-who-say-ne/).
 <br>
 <a href="https://sihaocheng.github.io/Qbranch/"><img src="https://pages.jh.edu/~scheng40/Qbranch/images/WD_HR.png" width="315" /></a>
 <a href="https://sihaocheng.github.io/DWDmerger"><img src="https://pages.jh.edu/~scheng40/DWDmerger/images/merger_rate1.png" width="300" /></a>
 
-While working on white dwarfs, I built a publically available package [`WD_models`](https://github.com/SihaoCheng/WD_models) in python for transformation between white dwarf photometry and physical properties. 
+While working on white dwarfs, I built a publically available package [`WD_models`](https://github.com/SihaoCheng/WD_models) in python for transformation between white dwarf photometry and physical properties.
 
-I also work on observational cosmology. Using a new statistical tool called the _scattering transform_ to analyse the [density field of the universe](https://en.wikipedia.org/wiki/Observable_universe#Large-scale_structure) through its [weak lensing](https://en.wikipedia.org/wiki/Weak_gravitational_lensing) effect, we may extract more cosmological information than traditional methods. Click the figure below to see more about our paper.
-
-<a href="https://arxiv.org/abs/2006.08561"><img src="https://pages.jh.edu/~scheng40/ScatteringTransform/images/STvsPowerSpectrum.png" width="350" /></a>
 
 
 # Education
