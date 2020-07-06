@@ -48,6 +48,8 @@ Advisor: Prof. [Eric Peng (彭逸西)](http://kiaa.pku.edu.cn/faculty/eric-peng)
 
 # Publications
 
+## First author:
+
 **Cheng, S.**, Ting, Y.-S., Ménard, B., & Bruna, J., _A new approach to observational cosmology using the scattering transform_, 2020, [arxiv:2006.08561](https://arxiv.org/abs/2006.08561)
 
 **Cheng, S.**, _Two delays in white dwarf evolution revealed by Gaia_, 2020, [Proceedings of IAU Symposium No. 357, in press](https://ui.adsabs.harvard.edu/abs/2020arXiv200104483C/abstract)
@@ -57,6 +59,11 @@ Advisor: Prof. [Eric Peng (彭逸西)](http://kiaa.pku.edu.cn/faculty/eric-peng)
 **Cheng, S.**, Cummings, J. D., Ménard, B., _A Cooling Anomaly of High-mass White Dwarfs_, 2019, [ApJ, 886, 100](https://ui.adsabs.harvard.edu/abs/2019ApJ...886..100C/abstract)
 
 **Cheng, S.**, Cheng, S., _Meteor spectral observation with DSLR, normal lens and prism_, 2011, [JIMO, 39, 39](https://ui.adsabs.harvard.edu/abs/2011JIMO...39...39C/abstract)
+
+## Others: 
+
+Marigo, P., Cummings, J. D., **et al.**, _Carbon star formation as seen through the non-monotonic initial–final mass relation_, 2020, [Nature Astronomy](https://doi.org/10.1038/s41550-020-1132-1)
+
 
 <h1 id="Contacts">Contacts</h1>
 s.cheng@jhu.edu
