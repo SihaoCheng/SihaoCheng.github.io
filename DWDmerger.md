@@ -2,7 +2,7 @@
 layout: project_page
 ---
 
-# Double-White-Dwarf Merger Products
+# Merger Products among White Dwarfs
 
 A double-WD merger may produce a new white dwarf with a higher mass. Compared to other high-mass white dwarfs, these merger products have higher velocity dispersion because they are older and according to the age--velocity-dispersion relation of the Milky-Way disc, older stars have higher velocity dispersion. We make use of this kinematic signature of double-WD merger products to estimate their amount. We also translate the amount of merger products into merger rate of double-WD systems, which has implication for the progenitor problem of type-Ia supernovae. [Our paper](https://ui.adsabs.harvard.edu/abs/2020ApJ...891..160C/abstract) has been published on ApJ.
 
