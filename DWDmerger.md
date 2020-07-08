@@ -4,7 +4,9 @@ layout: project_page
 
 # Merger Products among White Dwarfs
 
-Two white dwarfs (WDs) may merge and produce a new white dwarf with a higher mass. Compared to other high-mass white dwarfs, these merger products have higher velocity dispersion because they are older (older stars have higher velocity dispersion in the Milky-Way disc). We make use of this kinematic signature of double-WD merger products to estimate the number of them. This number can then be translate into the merger rate of WD binaries, which has implication for the progenitor problem of type-Ia supernovae. [Our paper](https://ui.adsabs.harvard.edu/abs/2020ApJ...891..160C/abstract) has been published on ApJ.
+Two white dwarfs (WDs) may merge and produce a new white dwarf with a higher mass. Compared to other high-mass white dwarfs, these merger products have higher velocity dispersion because they are older (older stars have higher velocity dispersion in the Milky-Way disc). We make use of this kinematic signature of double-WD merger products to estimate the number of them. This number can then be translate into the merger rate of WD binaries, which has implication for the progenitor problem of type-Ia supernovae. We show that this observed merger rate agrees well with that from binary simulations.
+
+[Our paper](https://ui.adsabs.harvard.edu/abs/2020ApJ...891..160C/abstract) has been published on ApJ.
 
 ## High-mass white dwarfs
 From Gaia Data Release 2, we select a 250 pc sample of high-mass, hot white dwarfs, avoiding those on the 'Q branch' [(see here)](https://sihaocheng.github.io/Qbranch). In total we have got 1395 objects for our kinematic analysis.
