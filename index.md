@@ -13,7 +13,7 @@ I like to view astrophysical problems from both perspectives of physics and stat
 Using a new statistical tool called the _scattering transform_ to analyse the [density field of the universe](https://en.wikipedia.org/wiki/Observable_universe#Large-scale_structure) through its [weak lensing](https://en.wikipedia.org/wiki/Weak_gravitational_lensing) effect, we show that more cosmological information can be extracted than using traditional methods, and its performance is on a par with state-of-the-art CNNs. The scattering transform can also be used as a general tool for non-Gaussian fields and 1D (time-series or spectroscopic) signals. It iteratively and non-linearly transforms the input field and yields a compact set of robust and interpretable statistics. Click the figure below to see more about our paper.
 
 <a href="https://arxiv.org/abs/2006.08561"><img src="https://pages.jh.edu/~scheng40/ScatteringTransform/images/STvsPowerSpectrum.png" width="330" /></a>
-<a href="https://arxiv.org/abs/2006.08561"><img src="https://pages.jh.edu/~scheng40/ScatteringTransform/images/CosmologicalConstraint.png" width="300" /></a>
+<a href="https://arxiv.org/abs/2006.08561"><img src="https://pages.jh.edu/~scheng40/ScatteringTransform/images/CosmologicalConstraint.png" width="285" /></a>
 
 
 ## Discoveries about white dwarfs from _Gaia_ satellite
