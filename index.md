@@ -43,7 +43,7 @@ Department of Astronomy
 <br>
 2012-2016, B.S.
 <br>
-Advisor: Prof. [Eric Peng (彭逸西)](http://kiaa.pku.edu.cn/faculty/eric-peng)
+Advisor: Prof. [Eric Peng (彭逸西)](http://kiaa.pku.edu.cn/info/1011/2660.htm)
 <br>
 <a href="http://astro.pku.edu.cn/"><img src="https://pages.jh.edu/~scheng40/images/PKU.png" width="400" /></a>
 
