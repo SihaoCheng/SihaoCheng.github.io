@@ -6,5 +6,8 @@ I love classical music, especially compositions by Bach, Mozart, Beethoven, Schu
 
 Some recordings I was listening recently:
 
-J. S. Bach, French Suite, Yuan Sheng (piano)
-https://youtu.be/zmEa7KX6D00
+[J. S. Bach, French Suite, Yuan Sheng (piano)](https://youtu.be/zmEa7KX6D00)
+
+[youtube](https://www.youtube.com/watch?v=zmEa7KX6D00)
+
+
