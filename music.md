@@ -4,12 +4,15 @@ I love classical music, especially compositions by Bach, Mozart, Beethoven, Schu
 <img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/yamaha_recorders.jpg?raw=true" width="400" />
 
 
-Some recordings I was listening recently:
+Below I list some recordings I was listening recently and love so much. I will update the list every month.
 
-[J. S. Bach, French Suite, Yuan Sheng (piano)](https://youtu.be/zmEa7KX6D00)
-
-[youtube](https://www.youtube.com/watch?v=zmEa7KX6D00)
-
+Bach played by a brilliant Chinese pianist (once studied with [Rosalyn Tureck](https://en.wikipedia.org/wiki/Rosalyn_Tureck) in the US):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zmEa7KX6D00" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XiG8AGn5Qz8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
 
 
