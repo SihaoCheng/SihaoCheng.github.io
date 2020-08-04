@@ -10,13 +10,13 @@ Below I list some recordings I was listening recently and love so much. I hope m
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zmEa7KX6D00" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XiG8AGn5Qz8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-Bach played by a brilliant Chinese pianist, Yuan Sheng (盛原, once studied with [Rosalyn Tureck](https://en.wikipedia.org/wiki/Rosalyn_Tureck) in the US).
+Bach played by a brilliant Chinese pianist, [Yuan Sheng](https://www.bach-cantatas.com/Bio/Sheng-Yuan.htm) (盛原, once studied with [Rosalyn Tureck](https://en.wikipedia.org/wiki/Rosalyn_Tureck) in the US).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fp5D6cVtWMw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-Beethoven piano concerto ("Emperor", No. 5) played by Glenn Gould, Leopold Stokowski, and the American Symphony Orchestra. I first listened to this recording in junior high school, and (fortunately or unfortunately) it became my stereotype of this concerto.\
+Beethoven piano concerto ("Emperor", No. 5) played by [Glenn Gould](https://en.wikipedia.org/wiki/Glenn_Gould), [Leopold Stokowski](https://en.wikipedia.org/wiki/Leopold_Stokowski), and the [American Symphony Orchestra](https://en.wikipedia.org/wiki/American_Symphony_Orchestra). I first listened to this recording in junior high school, and (fortunately or unfortunately) it became my stereotype of this concerto.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lncNcNtGkJY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-Schubert piano sonata (D.960) played by Sviatoslav Richter.
+Schubert piano sonata (D.960) played by [Sviatoslav Richter](https://en.wikipedia.org/wiki/Sviatoslav_Richter).
 
 
 
