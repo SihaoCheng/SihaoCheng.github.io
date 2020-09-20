@@ -8,6 +8,9 @@ I started to learn playing the piano at the time of primary school, and the viol
 
 Below I list some recordings I was listening recently and love so much. I hope my readers who come across this page will resonate. I will update this list regularly.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DXeBFhqViYg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Mozart's piano concerto played by Maurizio Pollini, with Karl Bohm and the Wiener Philharmoniker. I bought a CD of this performance in Japan ten years ago. I'm surprised I can find its video on youtube!
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WfdjHyciN3E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ghTitIMtTCM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Bach played by [András Schiff](https://en.wikipedia.org/wiki/András_Schiff).
