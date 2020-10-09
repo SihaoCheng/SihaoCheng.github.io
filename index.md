@@ -9,7 +9,7 @@ I am a graduate student of astrophysics at the Johns Hopkins Univerisity ([JHU](
 <h1 id="Research">Research</h1>
 I like to view astrophysical problems from both perspectives of physics and statistics in survey data. I am interested in observational cosmology and astrophysics.
 
-## Scattering transform: new statistics for cosmology and astrophysics
+## New statistics for cosmology and astrophysics
 Non-Gaussianities are ubiquitous in astronomical data, but challenging to quantify. The [scattering transform](https://arxiv.org/abs/1101.2286) provides a brand new vocabulary for describing patterns and textures in **non-Gaussian fields** (and 1D signals). It borrows ideas from convolutional neural nets ([CNNs](https://en.wikipedia.org/wiki/Convolutional_neural_network)) but yields robust and interpretable statistics in a deterministic way.
 
 On [weak lensing](https://en.wikipedia.org/wiki/Weak_gravitational_lensing) [mass maps](https://en.wikipedia.org/wiki/Observable_universe#Large-scale_structure), I show the scattering transform extracts as much cosmological information as state-of-the-art CNNs and outperforms classic statistics. Read [this astrobites blog](https://astrobites.org/2020/07/30/scattering-stat/), or click the figure below to read our paper. 
