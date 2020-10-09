@@ -53,9 +53,9 @@ Advisor: Prof. [Eric Peng (彭逸西)](http://kiaa.pku.edu.cn/info/1011/2660.htm
 
 ## First author:
 
-**Cheng, S.**, [Ting, Y.-S.](https://www.sns.ias.edu/~ting/), [Ménard, B.](https://physics-astronomy.jhu.edu/directory/brice-menard/), & [Bruna, J.](https://cims.nyu.edu/~bruna/), _A new approach to observational cosmology using the scattering transform_, 2020, [arxiv:2006.08561](https://ui.adsabs.harvard.edu/abs/2020arXiv200608561C/abstract)
+**Cheng, S.**, [Ting, Y.-S.](https://www.sns.ias.edu/~ting/), [Ménard, B.](https://physics-astronomy.jhu.edu/directory/brice-menard/), & [Bruna, J.](https://cims.nyu.edu/~bruna/), _A new approach to observational cosmology using the scattering transform_, 2020, [MNRAS, accepted](https://ui.adsabs.harvard.edu/abs/2020arXiv200608561C/abstract)
 
-**Cheng, S.**, _Two delays in white dwarf evolution revealed by Gaia_, 2020, [Proceedings of IAU Symposium No. 357, in press](https://ui.adsabs.harvard.edu/abs/2020arXiv200104483C/abstract)
+**Cheng, S.**, _Two delays in white dwarf evolution revealed by Gaia_, 2020, [Proceedings of IAU, 15(S357), 175](https://ui.adsabs.harvard.edu/abs/2020arXiv200104483C/abstract)
 
 **Cheng, S.**, [Cummings, J. D.](https://pages.jh.edu/~jcummi19/), Ménard, B., & [Toonen, S.](http://www.sr.bham.ac.uk/~toonen/), _Double White Dwarf Merger Products among High-mass White Dwarfs_, 2020, [ApJ, 891, 160](https://ui.adsabs.harvard.edu/abs/2020ApJ...891..160C/abstract)
 
@@ -69,7 +69,7 @@ Advisor: Prof. [Eric Peng (彭逸西)](http://kiaa.pku.edu.cn/info/1011/2660.htm
 
 [Bauer, E. B.](https://scholar.google.com/citations?user=GzWCQFgAAAAJ&hl=en), [Schwab, J.](https://yoshiyahu.org), [Bildsten, L.](https://www.kitp.ucsb.edu/bildsten), and **Cheng, S.**, _Multi-Gigayear White Dwarf Cooling Delays from Clustering-Enhanced Gravitational Sedimentation_, 2020, [ApJ, accepted](https://ui.adsabs.harvard.edu/abs/2020arXiv200904025B/abstract)
 
-[Camisassa, M. E.](http://evolgroup.fcaglp.unlp.edu.ar/camisassa.html), Althaus, L. G., Torres, S., Córsico, A. H., **Cheng, S.**, Rebassa-Mansergas, A., _Forever young white dwarfs: when stellar ageing stops_, 2020, submitted to Nature Communications, [arXiv:2008.03028](https://ui.adsabs.harvard.edu/abs/2020arXiv200803028C/abstract)
+[Camisassa, M. E.](http://evolgroup.fcaglp.unlp.edu.ar/camisassa.html), Althaus, L. G., Torres, S., Córsico, A. H., **Cheng, S.**, Rebassa-Mansergas, A., _Forever young white dwarfs: when stellar ageing stops_, 2020, [arXiv:2008.03028](https://ui.adsabs.harvard.edu/abs/2020arXiv200803028C/abstract)
 
 [Chandra, V.](https://vedantchandra.com/), [Hwang, H.-C.](http://www.hwang-astro.me), [Zakamska, N. L.](https://zakamska.johnshopkins.edu), **Cheng, S.**, _A Gravitational Redshift Measurement of the White Dwarf Mass–Radius Relation_, 2020, [ApJ, 899, 146](https://ui.adsabs.harvard.edu/abs/2020ApJ...899..146C/abstract)
 
