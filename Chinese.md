@@ -9,7 +9,7 @@ layout: default
 <h1 id="Research">研究</h1>
 我用统计方法分析巡天数据，并研究其中的天体物理问题。我的研究兴趣涉及宇宙学和恒星物理。
 
-## Scattering transform: 一种新统计量
+## 超越统计之路
 我使用一个新的统计工具（叫做scattering transform）分析由[宇宙物质不均匀分布](https://en.wikipedia.org/wiki/Observable_universe#Large-scale_structure)造成的[弱引力透镜](https://en.wikipedia.org/wiki/Weak_gravitational_lensing)效应。Scattering transform对输入信号反复进行“（复）小波变换+取绝对值”的操作，最后再对整个信号“取平均值”。这一新统计量借用了卷积神经网络中的运算和概念，但无需任何调试和训练。我发现这个新统计量包含的宇宙学信息远高于传统统计量（如相关函数），且使用这一新方法限制宇宙学参数可以达到与卷积神经网络相同的精度。我相信scattering transform在天体物理数据处理中（天体物理中光变曲线，星际介质密度场，等等）具有非常广阔的应用前景。
 
 <a href="https://arxiv.org/abs/2006.08561"><img src="https://pages.jh.edu/~scheng40/ScatteringTransform/images/STvsPowerSpectrum.png" width="330" /></a>
@@ -50,11 +50,11 @@ layout: default
 
 ## 第一作者文章：
 
-**Cheng, S.**, Ting, Y.-S., Ménard, B., & Bruna, J., _A new approach to observational cosmology using the scattering transform_, 2020, [arxiv:2006.08561](https://ui.adsabs.harvard.edu/abs/2020arXiv200608561C/abstract)
+**Cheng, S.**, [Ting, Y.-S.](https://www.sns.ias.edu/~ting/), [Ménard, B.](https://physics-astronomy.jhu.edu/directory/brice-menard/), & [Bruna, J.](https://cims.nyu.edu/~bruna/), _A new approach to observational cosmology using the scattering transform_, 2020, [MNRAS, accepted](https://ui.adsabs.harvard.edu/abs/2020arXiv200608561C/abstract)
 
-**Cheng, S.**, _Two delays in white dwarf evolution revealed by Gaia_, 2020, [Proceedings of IAU Symposium No. 357, in press](https://ui.adsabs.harvard.edu/abs/2020arXiv200104483C/abstract)
+**Cheng, S.**, _Two delays in white dwarf evolution revealed by Gaia_, 2020, [Proceedings of IAU, 15(S357), 175](https://ui.adsabs.harvard.edu/abs/2020arXiv200104483C/abstract)
 
-**Cheng, S.**, Cummings, J. D., Ménard, B., & Toonen, S., _Double White Dwarf Merger Products among High-mass White Dwarfs_, 2020, [ApJ, 891, 160](https://ui.adsabs.harvard.edu/abs/2020ApJ...891..160C/abstract)
+**Cheng, S.**, [Cummings, J. D.](https://pages.jh.edu/~jcummi19/), Ménard, B., & [Toonen, S.](http://www.sr.bham.ac.uk/~toonen/), _Double White Dwarf Merger Products among High-mass White Dwarfs_, 2020, [ApJ, 891, 160](https://ui.adsabs.harvard.edu/abs/2020ApJ...891..160C/abstract)
 
 **Cheng, S.**, Cummings, J. D., Ménard, B., _A Cooling Anomaly of High-mass White Dwarfs_, 2019, [ApJ, 886, 100](https://ui.adsabs.harvard.edu/abs/2019ApJ...886..100C/abstract)
 
@@ -62,9 +62,15 @@ layout: default
 
 ## 其他: 
 
-Chandra, V, Hwang, H.-C., Zakamska, N. L., **Cheng, S.**, _A Gravitational Redshift Measurement of the White Dwarf Mass–Radius Relation_, 2020, [ApJ, accepted](https://ui.adsabs.harvard.edu/abs/2020arXiv200714517C/abstract)
+[Lu, C. X.](http://www.ciceroxlu.org), [Schlaufman, K. C.](http://www.kevinschlaufman.com), **Cheng, S.**, _An Increase in Small-planet Occurrence with Metallicity for Late-type Dwarf Stars in the Kepler Field and Its Implications for Planet Formation_, 2020, [AJ, accepted](https://ui.adsabs.harvard.edu/abs/2020arXiv200906638L/abstract)
 
-Marigo, P., Cummings, J. D., **et al.**, _Carbon star formation as seen through the non-monotonic initial–final mass relation_, 2020, [Nature Astronomy](https://doi.org/10.1038/s41550-020-1132-1), [full text here](https://rdcu.be/b5r2A)
+[Bauer, E. B.](https://scholar.google.com/citations?user=GzWCQFgAAAAJ&hl=en), [Schwab, J.](https://yoshiyahu.org), [Bildsten, L.](https://www.kitp.ucsb.edu/bildsten), and **Cheng, S.**, _Multi-Gigayear White Dwarf Cooling Delays from Clustering-Enhanced Gravitational Sedimentation_, 2020, [ApJ, accepted](https://ui.adsabs.harvard.edu/abs/2020arXiv200904025B/abstract)
+
+[Camisassa, M. E.](http://evolgroup.fcaglp.unlp.edu.ar/camisassa.html), Althaus, L. G., Torres, S., Córsico, A. H., **Cheng, S.**, Rebassa-Mansergas, A., _Forever young white dwarfs: when stellar ageing stops_, 2020, [arXiv:2008.03028](https://ui.adsabs.harvard.edu/abs/2020arXiv200803028C/abstract)
+
+[Chandra, V.](https://vedantchandra.com/), [Hwang, H.-C.](http://www.hwang-astro.me), [Zakamska, N. L.](https://zakamska.johnshopkins.edu), **Cheng, S.**, _A Gravitational Redshift Measurement of the White Dwarf Mass–Radius Relation_, 2020, [ApJ, 899, 146](https://ui.adsabs.harvard.edu/abs/2020ApJ...899..146C/abstract)
+
+[Marigo, P.](http://www.astro.unipd.it/marigo/index.html), Cummings, J. D., **et al.**, _Carbon star formation as seen through the non-monotonic initial–final mass relation_, 2020, [Nature Astronomy](https://doi.org/10.1038/s41550-020-1132-1), [full text here](https://rdcu.be/b5r2A)
 
 
 <h1 id="Contacts">联系方式</h1>
