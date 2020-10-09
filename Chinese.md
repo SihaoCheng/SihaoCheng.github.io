@@ -10,7 +10,7 @@ layout: default
 我用统计方法分析巡天数据，并研究其中的天体物理问题。我的研究兴趣涉及宇宙学和恒星物理。
 
 ## Scattering transform: 一种新统计量
-我使用一个新的统计工具（叫做scattering transform）分析由[宇宙物质不均匀分布](https://en.wikipedia.org/wiki/Observable_universe#Large-scale_structure)造成的[弱引力透镜](https://en.wikipedia.org/wiki/Weak_gravitational_lensing)效应。Scattering transform对输入信号反复进行“（复）小波变换+取绝对值”的操作，最后再对整个信号“取平均值”。这一新统计量借用了卷积神经网络中的运算和概念，但无需任何调试和训练。我们发现这个新统计量包含比传统统计量（如相关函数）更多的宇宙学信息，使用这一新方法限制宇宙学参数可以达到与卷积神经网络相同的精度。Scattering transform可以广泛用于对随机场的分析，包括天体物理中光变曲线，星际介质密度场，等等。点击下图了解更多。
+我使用一个新的统计工具（叫做scattering transform）分析由[宇宙物质不均匀分布](https://en.wikipedia.org/wiki/Observable_universe#Large-scale_structure)造成的[弱引力透镜](https://en.wikipedia.org/wiki/Weak_gravitational_lensing)效应。Scattering transform对输入信号反复进行“（复）小波变换+取绝对值”的操作，最后再对整个信号“取平均值”。这一新统计量借用了卷积神经网络中的运算和概念，但无需任何调试和训练。我发现这个新统计量包含的宇宙学信息远高于传统统计量（如相关函数），且使用这一新方法限制宇宙学参数可以达到与卷积神经网络相同的精度。我相信scattering transform在天体物理数据处理中（天体物理中光变曲线，星际介质密度场，等等）具有非常广阔的应用前景。
 
 <a href="https://arxiv.org/abs/2006.08561"><img src="https://pages.jh.edu/~scheng40/ScatteringTransform/images/STvsPowerSpectrum.png" width="330" /></a>
 <a href="https://arxiv.org/abs/2006.08561"><img src="https://pages.jh.edu/~scheng40/ScatteringTransform/images/CosmologicalConstraint.png" width="285" /></a>
