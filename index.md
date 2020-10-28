@@ -4,7 +4,7 @@ layout: default
 
 <img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/SihaoCheng.jpg?raw=true" width="200" />
 
-I am a graduate student of astrophysics at the Johns Hopkins Univerisity ([JHU](https://physics-astronomy.jhu.edu)). I love physics, math, philosophy, [classical music](https://sihaocheng.github.io/music), kendo, and anime.
+I am a graduate student of astrophysics at the Johns Hopkins Univerisity ([JHU](https://physics-astronomy.jhu.edu)). I love physics, math, philosophy, [classical music](https://sihaocheng.github.io/music), kendo, and anime. Recently, I am reading an astonishing book: [*A Logical Journey: From Gödel to Philosophy*](https://mitpress.mit.edu/books/logical-journey).
 
 <h1 id="Research">Research</h1>
 I like to view astrophysical problems from both perspectives of physics and statistics in survey data. I am interested in observational cosmology and astrophysics.
