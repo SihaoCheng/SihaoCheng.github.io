@@ -67,7 +67,7 @@ Advisor: Prof. [Eric Peng (彭逸西)](http://kiaa.pku.edu.cn/info/1011/2660.htm
 
 [Lu, C. X.](http://www.ciceroxlu.org), [Schlaufman, K. C.](http://www.kevinschlaufman.com), **Cheng, S.**, _An Increase in Small-planet Occurrence with Metallicity for Late-type Dwarf Stars in the Kepler Field and Its Implications for Planet Formation_, 2020, [AJ, accepted](https://ui.adsabs.harvard.edu/abs/2020arXiv200906638L/abstract)
 
-[Bauer, E. B.](https://scholar.google.com/citations?user=GzWCQFgAAAAJ&hl=en), [Schwab, J.](https://yoshiyahu.org), [Bildsten, L.](https://www.kitp.ucsb.edu/bildsten), and **Cheng, S.**, _Multi-Gigayear White Dwarf Cooling Delays from Clustering-Enhanced Gravitational Sedimentation_, 2020, [ApJ, accepted](https://ui.adsabs.harvard.edu/abs/2020arXiv200904025B/abstract)
+[Bauer, E. B.](https://scholar.google.com/citations?user=GzWCQFgAAAAJ&hl=en), [Schwab, J.](https://yoshiyahu.org), [Bildsten, L.](https://www.kitp.ucsb.edu/bildsten), and **Cheng, S.**, _Multi-Gigayear White Dwarf Cooling Delays from Clustering-Enhanced Gravitational Sedimentation_, 2020, [ApJ, 902, 93](https://ui.adsabs.harvard.edu/abs/2020ApJ...902...93B/abstract)
 
 [Camisassa, M. E.](http://evolgroup.fcaglp.unlp.edu.ar/camisassa.html), Althaus, L. G., Torres, S., Córsico, A. H., **Cheng, S.**, Rebassa-Mansergas, A., _Forever young white dwarfs: when stellar ageing stops_, 2020, [arXiv:2008.03028](https://ui.adsabs.harvard.edu/abs/2020arXiv200803028C/abstract)
 
