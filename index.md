@@ -11,21 +11,26 @@ I like to view astrophysical problems from both perspectives of physics and stat
 
 ## New statistics for cosmology and astrophysics
 Non-Gaussianities are ubiquitous in astronomical data, but challenging to quantify. The [scattering transform](https://arxiv.org/abs/1101.2286) provides a brand new vocabulary for describing patterns and textures in **non-Gaussian fields** (and 1D signals). It borrows ideas from convolutional neural nets ([CNNs](https://en.wikipedia.org/wiki/Convolutional_neural_network)) but yields robust and interpretable statistics in a deterministic way.
-
+<br>
 On [weak lensing](https://en.wikipedia.org/wiki/Weak_gravitational_lensing) [mass maps](https://en.wikipedia.org/wiki/Observable_universe#Large-scale_structure), I show the scattering transform extracts as much cosmological information as state-of-the-art CNNs and outperforms classic statistics. Read [this astrobites blog](https://astrobites.org/2020/07/30/scattering-stat/), or click the figure below to read our paper. 
-
-<a href="https://arxiv.org/abs/2006.08561"><img src="https://pages.jh.edu/~scheng40/ScatteringTransform/images/STvsPowerSpectrum.png" width="330" /></a>
-<a href="https://arxiv.org/abs/2006.08561"><img src="https://pages.jh.edu/~scheng40/ScatteringTransform/images/CosmologicalConstraint.png" width="285" /></a>
+<br>
+<a href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.5902C/abstract"><img src="https://pages.jh.edu/~scheng40/ScatteringTransform/images/STvsPowerSpectrum.png" width="330" /></a>
+<a href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.5902C/abstract"><img src="https://pages.jh.edu/~scheng40/ScatteringTransform/images/CosmologicalConstraint.png" width="285" /></a>
 
 
 ## Discoveries about white dwarfs from _Gaia_ satellite
-I also work on several projects about [white dwarfs](https://en.wikipedia.org/wiki/White_dwarf), the destiny of most stars in the universe. Using data from the [_Gaia_](https://www.cosmos.esa.int/web/gaia/home) space mission, I revealed that some white dwarfs **cool extremely slowly** and that some are **merger products**. My work has led to two papers (click the figures below), one of which was highlighted by [astrobites](https://astrobites.org/2019/11/12/the-slowly-cooling-white-dwarfs-who-say-ne/) and [AAS Nova](https://aasnova.org/2019/11/19/the-slowly-cooling-white-dwarfs-who-say-ne/).
+I also work on [white dwarfs](https://en.wikipedia.org/wiki/White_dwarf), the destiny of most stars in the universe. Using data from the [_Gaia_](https://www.cosmos.esa.int/web/gaia/home) space mission, I discovered a new population of white dwarfs that **cool extremely slowly** and some that are **merger products**. My work has led to two papers (click the figures below), one of which was highlighted by [astrobites](https://astrobites.org/2019/11/12/the-slowly-cooling-white-dwarfs-who-say-ne/) and [AAS Nova](https://aasnova.org/2019/11/19/the-slowly-cooling-white-dwarfs-who-say-ne/).
 <br>
 <a href="https://sihaocheng.github.io/Qbranch/"><img src="https://pages.jh.edu/~scheng40/Qbranch/images/WD_HR.png" width="315" /></a>
 <a href="https://sihaocheng.github.io/DWDmerger"><img src="https://pages.jh.edu/~scheng40/DWDmerger/images/merger_rate1.png" width="300" /></a>
 
 While working on white dwarfs, I built a publically available package [`WD_models`](https://github.com/SihaoCheng/WD_models) in python for transformation between white dwarf photometry and physical properties.
 
+
+## Spectra of meteors
+When I was in high school, my twin brother (who is studying philosophy now) and I invented an efficient way to take spectra of meteors using consumer-level camera. We also designed the prism device which can be connected in front of a lens, ordered several from a factory, and sold them to other amateurs of astronomy (mainly to lower the unit price). Shown below is one spectrum of the [Geminid meteor shower](https://en.wikipedia.org/wiki/Geminids), taken in 2010. Click to see our [paper](https://ui.adsabs.harvard.edu/abs/2011JIMO...39...39C/abstract).
+<br>
+<a href="https://ui.adsabs.harvard.edu/abs/2011JIMO...39...39C/abstract"><img src="https://sihaocheng.github.io/GEM.jpg" width="400" /></a>
 
 
 # Education
@@ -65,7 +70,7 @@ Advisor: Prof. [Eric Peng (彭逸西)](http://kiaa.pku.edu.cn/info/1011/2660.htm
 
 ## Others: 
 
-[Lu, C. X.](http://www.ciceroxlu.org), [Schlaufman, K. C.](http://www.kevinschlaufman.com), **Cheng, S.**, _An Increase in Small-planet Occurrence with Metallicity for Late-type Dwarf Stars in the Kepler Field and Its Implications for Planet Formation_, 2020, [AJ, accepted](https://ui.adsabs.harvard.edu/abs/2020arXiv200906638L/abstract)
+[Lu, C. X.](http://www.ciceroxlu.org), [Schlaufman, K. C.](http://www.kevinschlaufman.com), **Cheng, S.**, _An Increase in Small-planet Occurrence with Metallicity for Late-type Dwarf Stars in the Kepler Field and Its Implications for Planet Formation_, 2020, [AJ, 160, 253](https://ui.adsabs.harvard.edu/abs/2020AJ....160..253L/abstract)
 
 [Bauer, E. B.](https://scholar.google.com/citations?user=GzWCQFgAAAAJ&hl=en), [Schwab, J.](https://yoshiyahu.org), [Bildsten, L.](https://www.kitp.ucsb.edu/bildsten), and **Cheng, S.**, _Multi-Gigayear White Dwarf Cooling Delays from Clustering-Enhanced Gravitational Sedimentation_, 2020, [ApJ, 902, 93](https://ui.adsabs.harvard.edu/abs/2020ApJ...902...93B/abstract)
 
