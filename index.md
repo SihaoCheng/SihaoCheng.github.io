@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/IMG_0039.jpg.jpg?raw=true" width="400" />
+<img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/IMG_0039.jpg?raw=true" width="400" />
 
 I am a graduate student of astrophysics at the Johns Hopkins Univerisity ([JHU](https://physics-astronomy.jhu.edu)). I love physics, math, philosophy, [classical music](https://sihaocheng.github.io/music), kendo, and anime. Recently, I am reading an astonishing book: [*A Logical Journey: From Gödel to Philosophy*](https://mitpress.mit.edu/books/logical-journey).
 
