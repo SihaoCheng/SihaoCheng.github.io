@@ -2,15 +2,15 @@
 layout: default
 ---
 
-<img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/SihaoCheng.jpg?raw=true" width="200" />
+<img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/IMG_0039.jpg?raw=true" width="400" />
 
 我是程思浩，现在在约翰霍普金斯大学([JHU](https://physics-astronomy.jhu.edu))读天体物理学博士. 我对物理、数学、哲学、古典音乐、剑道、动漫都很感兴趣。
 
 <h1 id="Research">研究</h1>
 我用统计方法分析巡天数据，并研究其中的天体物理问题。我的研究兴趣涉及宇宙学和恒星物理。
 
-## 超越统计之路
-我使用一个新的统计工具（叫做scattering transform）分析由[宇宙物质不均匀分布](https://en.wikipedia.org/wiki/Observable_universe#Large-scale_structure)造成的[弱引力透镜](https://en.wikipedia.org/wiki/Weak_gravitational_lensing)效应。Scattering transform对输入信号反复进行“（复）小波变换+取绝对值”的操作，最后再对整个信号“取平均值”。这一新统计量借用了卷积神经网络中的运算和概念，但无需任何调试和训练。我发现这个新统计量包含的宇宙学信息远高于传统统计量（如相关函数），且使用这一新方法限制宇宙学参数可以达到与卷积神经网络相同的精度。我相信scattering transform在天体物理数据处理中（天体物理中光变曲线，星际介质密度场，等等）具有非常广阔的应用前景。
+## 宇宙学新统计量
+我使用一个新的统计工具（叫做“散射变换”）分析由[宇宙物质不均匀分布](https://en.wikipedia.org/wiki/Observable_universe#Large-scale_structure)造成的[弱引力透镜](https://en.wikipedia.org/wiki/Weak_gravitational_lensing)效应。“散射变换”对输入信号反复进行“小波卷积+取绝对值”的操作，最后再对变换后的信号“取平均值”作为统计量。这一新统计量借用了卷积神经网络中的运算和概念，但同时拥有传统统计量的优势，无需调试或训练。我发现它包含的宇宙学信息远高于传统统计量（如相关函数）而与卷积神经网络相近。我相信这一新统计量在天体物理数据处理中将有广泛的应用。
 
 <a href="https://arxiv.org/abs/2006.08561"><img src="https://pages.jh.edu/~scheng40/ScatteringTransform/images/STvsPowerSpectrum.png" width="330" /></a>
 <a href="https://arxiv.org/abs/2006.08561"><img src="https://pages.jh.edu/~scheng40/ScatteringTransform/images/CosmologicalConstraint.png" width="285" /></a>
@@ -24,7 +24,7 @@ layout: default
 我还写了一个python小工具[`WD_models`](https://github.com/SihaoCheng/WD_models)，用来转换白矮星的测光数据和物理参数。
 
 ## 流星光谱
-在高中，我和弟弟程思淼找到了一个用数码相机拍摄[流星](https://en.wikipedia.org/wiki/Meteoroid#Meteors)[光谱](https://en.wikipedia.org/wiki/Spectrum)的方法. 我们设计了一个[棱镜](https://en.wikipedia.org/wiki/Prism)装置接在相机镜头前，联系工厂订做了若干件并卖给了其他天文爱好者（主要为了减低单价）。下图是我们2010年冬天拍摄的[双子座流星](https://en.wikipedia.org/wiki/Geminids)的光谱。
+在高中，我和弟弟程思淼找到了一个用数码相机拍摄[流星](https://en.wikipedia.org/wiki/Meteoroid#Meteors)[光谱](https://en.wikipedia.org/wiki/Spectrum)的方法. 我们设计了一个[棱镜](https://en.wikipedia.org/wiki/Prism)装置接在相机镜头前，联系工厂订做了若干件并卖给了其他天文爱好者（主要为了减低单价，最后控制在六七百元左右）。下图是我们2010年冬天拍摄的[双子座流星](https://en.wikipedia.org/wiki/Geminids)的光谱。我们正在准备做一批新棱镜。如果您感兴趣请联系我们！
 <br>
 <a href="https://ui.adsabs.harvard.edu/abs/2011JIMO...39...39C/abstract"><img src="https://sihaocheng.github.io/GEM.jpg" width="400" /></a>
 
