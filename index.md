@@ -7,12 +7,12 @@ layout: default
 I am a graduate student of astrophysics at the Johns Hopkins Univerisity ([JHU](https://physics-astronomy.jhu.edu)). I love physics, math, philosophy, [classical music](https://sihaocheng.github.io/music), kendo, and anime. Recently, I am reading an astonishing book: [*A Logical Journey: From Gödel to Philosophy*](https://mitpress.mit.edu/books/logical-journey).
 
 <h1 id="Research">Research</h1>
-I like to view astrophysical problems from both perspectives of physics and statistics in survey data. I am interested in observational cosmology and astrophysics.
+I like to view astrophysical problems from both perspectives of physics and statistics using survey data. My interests range from the evolution of universe to stars and planets.
 
 ## New statistics for cosmology and astrophysics
-Non-Gaussianities are ubiquitous in astronomical data, but challenging to quantify. The [scattering transform](https://arxiv.org/abs/1101.2286) provides a brand new vocabulary for describing patterns and textures in **non-Gaussian fields** (and 1D signals). It borrows ideas from convolutional neural nets ([CNNs](https://en.wikipedia.org/wiki/Convolutional_neural_network)) but yields robust and interpretable statistics in a deterministic way.
+Textures and patterns are ubiquitous in astronomical data but challenging to quantify. The [scattering transform](https://arxiv.org/abs/1101.2286) provides a brand new vocabulary of non-Gaussian textures in a field / time series. It borrows ideas from convolutional neural nets ([CNNs](https://en.wikipedia.org/wiki/Convolutional_neural_network)), but also shares advantages of traditional statistics.
 <br>
-On [weak lensing](https://en.wikipedia.org/wiki/Weak_gravitational_lensing) [mass maps](https://en.wikipedia.org/wiki/Observable_universe#Large-scale_structure), I show the scattering transform extracts as much cosmological information as state-of-the-art CNNs and outperforms classic statistics. Read [this astrobites blog](https://astrobites.org/2020/07/30/scattering-stat/), or click the figure below to read our paper, which won the 2020 Outstanding Paper [Award](http://iaa.mi.oa-brera.inaf.it/IAA/awards.html) from IAA. 
+I show on [weak lensing](https://en.wikipedia.org/wiki/Weak_gravitational_lensing) [mass maps](https://en.wikipedia.org/wiki/Observable_universe#Large-scale_structure) that the scattering transform extracts similar amount of information as state-of-the-art CNNs. Read [this astrobites blog](https://astrobites.org/2020/07/30/scattering-stat/), or click the figures below to read our paper, which won the 2020 Outstanding Paper [Award](http://iaa.mi.oa-brera.inaf.it/IAA/awards.html) from the International Astrostatistics Association. 
 <br>
 <a href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.5902C/abstract"><img src="https://pages.jh.edu/~scheng40/ScatteringTransform/images/STvsPowerSpectrum.png" width="330" /></a>
 <a href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.5902C/abstract"><img src="https://pages.jh.edu/~scheng40/ScatteringTransform/images/CosmologicalConstraint.png" width="285" /></a>
