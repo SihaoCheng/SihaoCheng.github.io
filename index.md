@@ -18,7 +18,7 @@ In a recent paper (which won an [award](http://iaa.mi.oa-brera.inaf.it/IAA/award
 
 
 ## Discoveries about white dwarfs from _Gaia_ satellite
-I also work on [white dwarfs](https://en.wikipedia.org/wiki/White_dwarf), the destiny of most stars in the universe. Using data from the [_Gaia_](https://www.cosmos.esa.int/web/gaia/home) space mission, I discovered a new population of white dwarfs that **cool extremely slowly** and some that are **merger products**. My work has led to two papers (click the figures below), one of which was highlighted by [astrobites](https://astrobites.org/2019/11/12/the-slowly-cooling-white-dwarfs-who-say-ne/) and [AAS Nova](https://aasnova.org/2019/11/19/the-slowly-cooling-white-dwarfs-who-say-ne/).
+I also work on [white dwarfs](https://en.wikipedia.org/wiki/White_dwarf), the destiny of most stars in the universe. Using data from the [_Gaia_](https://www.cosmos.esa.int/web/gaia/home) space mission, I discovered a new population of white dwarfs that **cool extremely slowly** and some others that are **merger products**. My work has led to two papers (click the figures below), one of which was highlighted by [astrobites](https://astrobites.org/2019/11/12/the-slowly-cooling-white-dwarfs-who-say-ne/) and [AAS Nova](https://aasnova.org/2019/11/19/the-slowly-cooling-white-dwarfs-who-say-ne/).
 <br>
 <a href="https://sihaocheng.github.io/Qbranch/"><img src="https://pages.jh.edu/~scheng40/Qbranch/images/WD_HR.png" width="315" /></a>
 <a href="https://sihaocheng.github.io/DWDmerger"><img src="https://pages.jh.edu/~scheng40/DWDmerger/images/merger_rate1.png" width="300" /></a>
