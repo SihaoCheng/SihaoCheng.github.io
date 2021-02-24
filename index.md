@@ -79,7 +79,6 @@ Advisor: Prof. [Eric Peng (彭逸西)](http://kiaa.pku.edu.cn/info/1011/2660.htm
 
 [Marigo, P.](http://www.astro.unipd.it/marigo/index.html), Cummings, J. D., **et al.**, _Carbon star formation as seen through the non-monotonic initial–final mass relation_, 2020, [Nature Astronomy](https://doi.org/10.1038/s41550-020-1132-1), [full text here](https://rdcu.be/b5r2A)
 
-
 <h1 id="Contacts">Contacts</h1>
 s.cheng@jhu.edu
 <br>
@@ -90,3 +89,19 @@ Bloomberg 506
 3400 N. Charles St., Johns Hopkins University
 <br>
 Baltimore, MD21218, USA
+
+
+<h1 id="skymap">Sky Altas (Aladin)</h1>
+
+<!-- include Aladin Lite CSS file in the head section of your page -->
+<link rel="stylesheet" href="https://aladin.u-strasbg.fr/AladinLite/api/v2/latest/aladin.min.css" />
+ 
+<!-- you can skip the following line if your page already integrates the jQuery library -->
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.12.1.min.js" charset="utf-8"></script>
+ 
+<!-- insert this snippet where you want Aladin Lite viewer to appear and after the loading of jQuery -->
+<div id="aladin-lite-div" style="width:600px;height:400px;"></div>
+<script type="text/javascript" src="https://aladin.u-strasbg.fr/AladinLite/api/v2/latest/aladin.min.js" charset="utf-8"></script>
+<script type="text/javascript">
+    var aladin = A.aladin('#aladin-lite-div', {survey: "P/DSS2/color", fov:1, target: "20 45 38.000 +30 42 30.00"});
+</script>
