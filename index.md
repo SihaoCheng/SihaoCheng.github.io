@@ -92,7 +92,7 @@ Baltimore, MD21218, USA
 
 
 <h1 id="skymap">Sky Altas (Aladin)</h1>
-
+<!-- you can find more information about this cool embedded sky altas on http://aladin.u-strasbg.fr/AladinLite/doc/#embedding -->
 <!-- include Aladin Lite CSS file in the head section of your page -->
 <link rel="stylesheet" href="https://aladin.u-strasbg.fr/AladinLite/api/v2/latest/aladin.min.css" />
  
