@@ -57,13 +57,15 @@ Advisor: Prof. [Eric Peng (彭逸西)](http://kiaa.pku.edu.cn/info/1011/2660.htm
 
 ## First author:
 
+**Cheng, S.** & [Ménard, B.](https://physics-astronomy.jhu.edu/directory/brice-menard/), _Weak lensing scattering transform: dark energy and neutrino mass sensitivity_, 2021, [arXiv:2103.09247](https://ui.adsabs.harvard.edu/abs/2021arXiv210309247C/abstract)
+
 **Cheng, S.**, [Ting, Y.-S.](https://www.sns.ias.edu/~ting/), [Ménard, B.](https://physics-astronomy.jhu.edu/directory/brice-menard/), & [Bruna, J.](https://cims.nyu.edu/~bruna/), _A new approach to observational cosmology using the scattering transform_, 2020, [MNRAS, 499, 5902](https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.5902C/abstract)
 
-**Cheng, S.**, [Cummings, J. D.](https://pages.jh.edu/~jcummi19/), Ménard, B., & [Toonen, S.](http://www.sr.bham.ac.uk/~toonen/), _Double White Dwarf Merger Products among High-mass White Dwarfs_, 2020, [ApJ, 891, 160](https://ui.adsabs.harvard.edu/abs/2020ApJ...891..160C/abstract)
+**Cheng, S.**, [Cummings, J. D.](https://pages.jh.edu/~jcummi19/), [Ménard, B.](https://physics-astronomy.jhu.edu/directory/brice-menard/), & [Toonen, S.](http://www.sr.bham.ac.uk/~toonen/), _Double White Dwarf Merger Products among High-mass White Dwarfs_, 2020, [ApJ, 891, 160](https://ui.adsabs.harvard.edu/abs/2020ApJ...891..160C/abstract)
 
 **Cheng, S.**, _Two delays in white dwarf evolution revealed by Gaia_, 2019, [Proceedings of IAU, 15(S357), 175](https://ui.adsabs.harvard.edu/abs/2020arXiv200104483C/abstract)
 
-**Cheng, S.**, Cummings, J. D., Ménard, B., _A Cooling Anomaly of High-mass White Dwarfs_, 2019, [ApJ, 886, 100](https://ui.adsabs.harvard.edu/abs/2019ApJ...886..100C/abstract)
+**Cheng, S.**, [Cummings, J. D.](https://pages.jh.edu/~jcummi19/), [Ménard, B.](https://physics-astronomy.jhu.edu/directory/brice-menard/), _A Cooling Anomaly of High-mass White Dwarfs_, 2019, [ApJ, 886, 100](https://ui.adsabs.harvard.edu/abs/2019ApJ...886..100C/abstract)
 
 **Cheng, S.**, Cheng, S., _Meteor spectral observation with DSLR, normal lens and prism_, 2011, [JIMO, 39, 39](https://ui.adsabs.harvard.edu/abs/2011JIMO...39...39C/abstract)
 
@@ -77,7 +79,7 @@ Advisor: Prof. [Eric Peng (彭逸西)](http://kiaa.pku.edu.cn/info/1011/2660.htm
 
 [Chandra, V.](https://vedantchandra.com/), [Hwang, H.-C.](http://www.hwang-astro.me), [Zakamska, N. L.](https://zakamska.johnshopkins.edu), **Cheng, S.**, _A Gravitational Redshift Measurement of the White Dwarf Mass–Radius Relation_, 2020, [ApJ, 899, 146](https://ui.adsabs.harvard.edu/abs/2020ApJ...899..146C/abstract)
 
-[Marigo, P.](http://www.astro.unipd.it/marigo/index.html), Cummings, J. D., **et al.**, _Carbon star formation as seen through the non-monotonic initial–final mass relation_, 2020, [Nature Astronomy](https://doi.org/10.1038/s41550-020-1132-1), [full text here](https://rdcu.be/b5r2A)
+[Marigo, P.](http://www.astro.unipd.it/marigo/index.html), [Cummings, J. D.](https://pages.jh.edu/~jcummi19/), **et al.**, _Carbon star formation as seen through the non-monotonic initial–final mass relation_, 2020, [Nature Astronomy](https://doi.org/10.1038/s41550-020-1132-1), [full text here](https://rdcu.be/b5r2A)
 
 <h1 id="Contacts">Contacts</h1>
 s.cheng@jhu.edu
