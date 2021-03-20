@@ -36,9 +36,7 @@ In high school, my twin brother (who is studying philosophy now) and I found an 
 ## [Johns Hopkins University](https://physics-astronomy.jhu.edu/)
 Department of Physics and Astronomy
 <br>
-2019-present, Ph.D. candidate
-<br>
-2017-2019, M.A.
+2017-2021(expected), M.A., Ph.D.
 <br>
 Advisor: Prof. [Brice Ménard](https://physics-astronomy.jhu.edu/directory/brice-menard/)
 <br>
