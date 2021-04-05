@@ -14,10 +14,8 @@ Textures and patterns are ubiquitous in astronomical data but challenging to qua
 In two recent papers ([[1]](https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.5902C/abstract), [[2]](https://ui.adsabs.harvard.edu/abs/2021arXiv210309247C/abstract)), I discussed in depth **how to intuitively understand this new statistic** which is still unfamiliar to most physicists, and I showed that on [weak lensing](https://en.wikipedia.org/wiki/Weak_gravitational_lensing) [mass maps](https://en.wikipedia.org/wiki/Observable_universe#Large-scale_structure) it **outperforms classic statistics** and is on a par with CNNs. The first paper [won an award of astrostatistics](http://iaa.mi.oa-brera.inaf.it/IAA/awards.html)) and was reported by [this astrobites blog](https://astrobites.org/2020/07/30/scattering-stat/).
 
 <br>
-<a href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.5902C/abstract"><img src="https://pages.jh.edu/~scheng40/ScatteringTransform/images/STvsPowerSpectrum.png" width="300" /></a>
-<a href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.5902C/abstract"><img src="https://pages.jh.edu/~scheng40/ScatteringTransform/images/CosmologicalConstraint.png" width="260" /></a>
-<br>
-<a href="https://ui.adsabs.harvard.edu/abs/2021arXiv210309247C/abstract"><img src="https://github.com/SihaoCheng/scattering_transform/blob/master/image_generation.png?raw=true" width="550" /></a>
+<a href="https://sihaocheng.github.io/scattering_transform/"><img src="https://pages.jh.edu/~scheng40/ScatteringTransform/images/STvsPowerSpectrum.png" width="300" /></a>
+<a href="https://sihaocheng.github.io/scattering_transform/"><img src="https://pages.jh.edu/~scheng40/ScatteringTransform/images/CosmologicalConstraint.png" width="285" /></a>
 
 
 
@@ -25,7 +23,7 @@ In two recent papers ([[1]](https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.5902
 I also work on [white dwarfs](https://en.wikipedia.org/wiki/White_dwarf), the destiny of most stars in the universe. Using data from the [_Gaia_](https://www.cosmos.esa.int/web/gaia/home) space mission, I discovered a new population of white dwarfs that **cool extremely slowly** and some others that are **merger products**. My work has led to two papers (click the figures below), one of which was highlighted by [astrobites](https://astrobites.org/2019/11/12/the-slowly-cooling-white-dwarfs-who-say-ne/) and [AAS Nova](https://aasnova.org/2019/11/19/the-slowly-cooling-white-dwarfs-who-say-ne/).
 <br>
 <a href="https://sihaocheng.github.io/Qbranch/"><img src="https://pages.jh.edu/~scheng40/Qbranch/images/WD_HR.png" width="315" /></a>
-<a href="https://sihaocheng.github.io/DWDmerger"><img src="https://pages.jh.edu/~scheng40/DWDmerger/images/merger_rate1.png" width="300" /></a>
+<a href="https://sihaocheng.github.io/DWDmerger/"><img src="https://pages.jh.edu/~scheng40/DWDmerger/images/merger_rate1.png" width="300" /></a>
 
 While working on white dwarfs, I built a publically available package [`WD_models`](https://github.com/SihaoCheng/WD_models) in python for transformation between white dwarf photometry and physical properties.
 
