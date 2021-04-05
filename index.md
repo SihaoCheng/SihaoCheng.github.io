@@ -17,7 +17,7 @@ In two recent papers ([[1]](https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.5902
 <a href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.5902C/abstract"><img src="https://pages.jh.edu/~scheng40/ScatteringTransform/images/STvsPowerSpectrum.png" width="300" /></a>
 <a href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.5902C/abstract"><img src="https://pages.jh.edu/~scheng40/ScatteringTransform/images/CosmologicalConstraint.png" width="260" /></a>
 <br>
-<a href="https://ui.adsabs.harvard.edu/abs/2021arXiv210309247C/abstract"><img src="https://github.com/SihaoCheng/scattering_transform/blob/master/image_generation.png?raw=true" width="500" /></a>
+<a href="https://ui.adsabs.harvard.edu/abs/2021arXiv210309247C/abstract"><img src="https://github.com/SihaoCheng/scattering_transform/blob/master/image_generation.png?raw=true" width="550" /></a>
 
 
 
