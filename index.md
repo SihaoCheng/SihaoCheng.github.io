@@ -10,11 +10,14 @@ I am a graduate student of astrophysics at the Johns Hopkins Univerisity ([JHU](
 I like to view astrophysical problems from both perspectives of physics and statistics using survey data. My interests range from the evolution of universe to stars and planets.
 
 ## New statistics for cosmology and astrophysics
-Textures and patterns are ubiquitous in astronomical data but challenging to quantify. The [scattering transform](https://arxiv.org/abs/1101.2286) provides a brand new vocabulary of non-Gaussian textures in a field / time series. It borrows ideas from convolutional neural nets ([CNNs](https://en.wikipedia.org/wiki/Convolutional_neural_network)), but shares advantages of traditional statistics.
-In a recent paper (which won an [award](http://iaa.mi.oa-brera.inaf.it/IAA/awards.html) from the International Astrostatistics Association), I provided intuitive understandings of this method and showed that it outperforms classic statistics and extracts similar information to CNNs from [weak lensing](https://en.wikipedia.org/wiki/Weak_gravitational_lensing) [mass maps](https://en.wikipedia.org/wiki/Observable_universe#Large-scale_structure). Read [this astrobites blog](https://astrobites.org/2020/07/30/scattering-stat/) or click the figures below for details.
+Textures and patterns are ubiquitous in astronomical data but challenging to quantify. The [scattering transform](https://arxiv.org/abs/1101.2286) provides a new powerful statistic for these features. It borrows ideas from convolutional neural nets ([CNNs](https://en.wikipedia.org/wiki/Convolutional_neural_network)), but shares advantages of traditional statistics.
+In two recent papers ([[1]](https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.5902C/abstract), [[2]](https://ui.adsabs.harvard.edu/abs/2021arXiv210309247C/abstract)), I discussed in depth how to intuitively understand this new statistic which is still unfamiliar to most physicists, and I showed that on [weak lensing](https://en.wikipedia.org/wiki/Weak_gravitational_lensing) [mass maps](https://en.wikipedia.org/wiki/Observable_universe#Large-scale_structure) it outperforms classic statistics and is on a par with CNNs. The first paper [won an award of astrostatistics](http://iaa.mi.oa-brera.inaf.it/IAA/awards.html)) and was reported by [this astrobites blog](https://astrobites.org/2020/07/30/scattering-stat/).
+
 <br>
-<a href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.5902C/abstract"><img src="https://pages.jh.edu/~scheng40/ScatteringTransform/images/STvsPowerSpectrum.png" width="330" /></a>
-<a href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.5902C/abstract"><img src="https://pages.jh.edu/~scheng40/ScatteringTransform/images/CosmologicalConstraint.png" width="285" /></a>
+<a href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.5902C/abstract"><img src="https://pages.jh.edu/~scheng40/ScatteringTransform/images/STvsPowerSpectrum.png" width="300" /></a>
+<a href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.5902C/abstract"><img src="https://pages.jh.edu/~scheng40/ScatteringTransform/images/CosmologicalConstraint.png" width="260" /></a>
+
+
 
 
 ## Discoveries about white dwarfs from _Gaia_ satellite
