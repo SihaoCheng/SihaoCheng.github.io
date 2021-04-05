@@ -8,6 +8,7 @@ I am a graduate student of astrophysics at the Johns Hopkins Univerisity ([JHU](
 
 <h1 id="Research">Research</h1>
 I like to view astrophysical problems from both perspectives of physics and statistics using survey data. My interests range from the evolution of universe to stars and planets.
+<br>
 
 ## New statistics for cosmology and astrophysics
 Textures and patterns are ubiquitous in astronomical data but challenging to quantify. The [scattering transform](https://arxiv.org/abs/1101.2286) provides a new powerful statistic for these features. It borrows ideas from convolutional neural nets ([CNNs](https://en.wikipedia.org/wiki/Convolutional_neural_network)), but shares advantages of traditional statistics.
@@ -15,16 +16,17 @@ In two recent papers ([[1]](https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.5902
 <br>
 <a><img src="https://pages.jh.edu/~scheng40/ScatteringTransform/images/STvsPowerSpectrum.png" width="300" /></a>
 <a><img src="https://pages.jh.edu/~scheng40/ScatteringTransform/images/CosmologicalConstraint.png" width="285" /></a>
-
+<br>
 
 
 ## Discoveries about white dwarfs from _Gaia_ satellite
 I also work on [white dwarfs](https://en.wikipedia.org/wiki/White_dwarf), the destiny of most stars in the universe. Using data from the [_Gaia_](https://www.cosmos.esa.int/web/gaia/home) space mission, I discovered a new population of white dwarfs that **cool extremely slowly** and some others that are **merger products**. My work has led to two papers (click the figures below), one of which was highlighted by [astrobites](https://astrobites.org/2019/11/12/the-slowly-cooling-white-dwarfs-who-say-ne/) and [AAS Nova](https://aasnova.org/2019/11/19/the-slowly-cooling-white-dwarfs-who-say-ne/).
+
+To make white dwarf research easier, I also built a publically available package [`WD_models`](https://github.com/SihaoCheng/WD_models) in python for transformation between white dwarf photometry and physical properties.
 <br>
 <a href="https://sihaocheng.github.io/Qbranch/"><img src="https://pages.jh.edu/~scheng40/Qbranch/images/WD_HR.png" width="315" /></a>
 <a href="https://sihaocheng.github.io/DWDmerger/"><img src="https://pages.jh.edu/~scheng40/DWDmerger/images/merger_rate1.png" width="300" /></a>
-
-While working on white dwarfs, I built a publically available package [`WD_models`](https://github.com/SihaoCheng/WD_models) in python for transformation between white dwarf photometry and physical properties.
+<br>
 
 
 ## Spectra of meteors
