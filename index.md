@@ -12,11 +12,11 @@ I like to view astrophysical problems from both perspectives of physics and stat
 
 ## New statistics for cosmology and astrophysics
 <!-- <a href="s22.html"><img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/s22.png?raw=true" width="450" /></a> -->
-<a><img src="https://github.com/SihaoCheng/scattering_transform/blob/master/image_generation.png?raw=true" width="580" /></a>
+<a href="https://ui.adsabs.harvard.edu/abs/2021MNRAS.507.1012C/abstract"><img src="https://github.com/SihaoCheng/scattering_transform/blob/master/image_generation.png?raw=true" width="580" /></a>
 <br>
 
 Textures and patterns are ubiquitous in astronomical data but challenging to quantify. The [scattering transform](https://arxiv.org/abs/1101.2286) provides a new powerful statistic for these features. It borrows ideas from convolutional neural nets ([CNNs](https://en.wikipedia.org/wiki/Convolutional_neural_network)), but shares advantages of traditional statistics.
-In two recent papers ([[1]](https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.5902C/abstract), [[2]](https://ui.adsabs.harvard.edu/abs/2021arXiv210309247C/abstract)), I discussed in depth **how to intuitively understand this new statistic** which is still unfamiliar to most physicists, and I showed that on [weak lensing](https://en.wikipedia.org/wiki/Weak_gravitational_lensing) [mass maps](https://en.wikipedia.org/wiki/Observable_universe#Large-scale_structure) it outperforms classic statistics and is **on a par with CNNs**. The first paper [won an award of astrostatistics](http://iaa.mi.oa-brera.inaf.it/IAA/awards.html) and was reported by [this astrobites blog](https://astrobites.org/2020/07/30/scattering-stat/).
+In two recent papers ([[1]](https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.5902C/abstract), [[2]](https://ui.adsabs.harvard.edu/abs/2021MNRAS.507.1012C/abstract)), I discussed in depth **how to intuitively understand this new statistic** which is still unfamiliar to most physicists, and I showed that on [weak lensing](https://en.wikipedia.org/wiki/Weak_gravitational_lensing) [mass maps](https://en.wikipedia.org/wiki/Observable_universe#Large-scale_structure) it outperforms classic statistics and is **on a par with CNNs**. The first paper [won an award of astrostatistics](http://iaa.mi.oa-brera.inaf.it/IAA/awards.html) and was reported by [this astrobites blog](https://astrobites.org/2020/07/30/scattering-stat/).
 <br>
 <a><img src="https://pages.jh.edu/~scheng40/ScatteringTransform/images/STvsPowerSpectrum.png" width="300" /></a>
 <a><img src="https://pages.jh.edu/~scheng40/ScatteringTransform/images/CosmologicalConstraint.png" width="285" /></a>
