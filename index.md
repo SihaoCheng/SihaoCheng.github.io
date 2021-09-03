@@ -35,7 +35,7 @@ To make white dwarf research easier, I also built a publically available package
 
 
 ## Spectra of meteors
-In high school, my twin brother (who is studying philosophy now) and I found an efficient way to take [spectra](https://en.wikipedia.org/wiki/Spectrum) of [meteors](https://en.wikipedia.org/wiki/Meteoroid#Meteors) with digital camera. We designed a [prism](https://en.wikipedia.org/wiki/Prism) device that can screw in front of a lens. We ordered several from a factory, and sold them to other amateurs of astronomy. Shown below is one spectrum of the [Geminid meteor shower](https://en.wikipedia.org/wiki/Geminids), taken in 2010. We have made a new batch of such prism devices with a cost of around 200 dollars each. If you are interested, please contact us or buy it [here](https://www.ebay.com/itm/144142982226)!
+In high school, my twin brother (who is studying philosophy now) and I found an efficient way to take [spectra](https://en.wikipedia.org/wiki/Spectrum) of [meteors](https://en.wikipedia.org/wiki/Meteoroid#Meteors) with digital camera. We designed a [prism](https://en.wikipedia.org/wiki/Prism) device that can screw in front of a lens. We ordered several from a factory, and sold them to other amateurs of astronomy. Shown below is one spectrum of the [Geminid meteor shower](https://en.wikipedia.org/wiki/Geminids), taken in 2010. We have made a new batch of such prism devices with a cost of less than 200 dollars each. If you are interested, please contact us or buy it [here](https://www.ebay.com/itm/144142982226)!
 <br>
 <a href="https://ui.adsabs.harvard.edu/abs/2011JIMO...39...39C/abstract"><img src="https://sihaocheng.github.io/GEM.jpg" width="400" /></a>
 
