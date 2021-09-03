@@ -4,10 +4,11 @@ layout: default
 
 <img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/IMG_0039.jpg?raw=true" width="400" />
 
-I am a graduate student of astrophysics at the Johns Hopkins Univerisity ([JHU](https://physics-astronomy.jhu.edu)). I love physics, math, philosophy, [classical music](https://sihaocheng.github.io/music), kendo, and anime. Recently, I am reading an astonishing book: [*A Logical Journey: From Gödel to Philosophy*](https://mitpress.mit.edu/books/logical-journey).
+I am a postdoc researcher of astrophysics at the Johns Hopkins Univerisity ([JHU](https://physics-astronomy.jhu.edu)). I love physics, math, philosophy, [classical music](https://sihaocheng.github.io/music), kendo, and anime.
+<!-- Recently, I am reading an astonishing book: [*A Logical Journey: From Gödel to Philosophy*](https://mitpress.mit.edu/books/logical-journey). -->
 
 <h1 id="Research">Research</h1>
-I like to view astrophysical problems from both perspectives of physics and statistics using survey data. My interests range from the evolution of universe to stars and planets.
+I am interested in using statistical analysis to understand our Universe. My interests range from observational cosmology to stellar physics and planets.
 <br>
 
 ## New statistics for cosmology and astrophysics
