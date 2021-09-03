@@ -8,7 +8,7 @@ I am a postdoc researcher of astrophysics at the Johns Hopkins Univerisity ([JHU
 <!-- Recently, I am reading an astonishing book: [*A Logical Journey: From Gödel to Philosophy*](https://mitpress.mit.edu/books/logical-journey). -->
 
 <h1 id="Research">Research</h1>
-I am interested in using statistical analysis to understand our Universe. My interests range from observational cosmology to stellar physics and planets.
+I am interested in using statistical analysis to understand our Universe. My interests range from observational cosmology to stellar physics and planets. My work led to the discovery of special stars that shine out of gravitational sedimentation and the cosmological applications of a new statistic that borrows ideas from convolutional neural networks.
 <br>
 
 ## New statistics for cosmology and astrophysics
