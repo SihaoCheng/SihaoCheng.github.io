@@ -46,7 +46,7 @@ In high school, my twin brother (who is studying philosophy now) and I found an 
 ## [Johns Hopkins University](https://physics-astronomy.jhu.edu/)
 Department of Physics and Astronomy
 <br>
-2017-2021(expected), M.A., Ph.D.
+2017-2021(expected), M.A., Ph.D. ([Thesis](https://pages.jh.edu/scheng40/Dissertation_SihaoCheng.pdf))
 <br>
 Advisor: Prof. [Brice Ménard](https://physics-astronomy.jhu.edu/directory/brice-menard/)
 <br>
