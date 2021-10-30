@@ -8,6 +8,9 @@ I started to learn playing the piano at the time of primary school, and the viol
 
 Below, I list some recordings I was listening recently and love so much. I hope my readers who come across this page will resonate. I will update this list regularly.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YV-a_ixphQs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Wow! This is amazing! Mozart string quartets by Juilliard SQ. The phrasing, tone, colour, rythms, and harmony, everything is performed so convincing and so much like Mozart speaking to me!
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z5dbLM9a4-U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Finally, I started to listen to Brahms, as I found this performance by master Schiff and a light and transparent orchestra. 
 
