@@ -32,7 +32,7 @@ I also work on [white dwarfs](https://en.wikipedia.org/wiki/White_dwarf), the de
 To make white dwarf research easier, I also built a publically available package [`WD_models`](https://github.com/SihaoCheng/WD_models) in python for transformation between white dwarf photometry and physical properties.
 <br>
 <a href="https://sihaocheng.github.io/Qbranch/"><img src="https://pages.jh.edu/~scheng40/Qbranch/images/WD_HR.png" width="315" /></a>
-<a href="https://sihaocheng.github.io/DWDmerger/"><img src="https://pages.jh.edu/~scheng40/DWDmerger/images/merger_rate1.png" width="300" /></a>
+<a href="https://sihaocheng.github.io/DWDmerger"><img src="https://pages.jh.edu/~scheng40/DWDmerger/images/merger_rate1.png" width="300" /></a>
 <br>
 
 
