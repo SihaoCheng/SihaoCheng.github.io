@@ -2,11 +2,14 @@
 
 Music is a magic. I love classical music, especially compositions by Bach, Mozart, Beethoven, Schubert, and Chopin. I tried to expand my taste, but not yet sucessfully. Perhaps that will happen naturally some day in future. By the way, I think my taste of scientific work is very similar to my musical taste.
 
-I started to learn playing the piano at the time of primary school, and the violin at high school, though I don't know for sure how much progress I have made till now. Recently I also found recorder a beautiful instrument! (the figure below is from Yamaha's website)
+I started to learn playing the piano since primary school, and the violin since high school. Recently I also found recorder a beautiful instrument! (the figure below is from Yamaha's website)
 <br> 
 <img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/yamaha_recorders.jpg?raw=true" width="400" />
 
 Below, I list some recordings I was listening recently and love so much. I hope my readers who come across this page will resonate. I will update this list regularly.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YV-a_ixphQs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Wow! This is amazing! Mozart string quartets by Juilliard SQ. The phrasing, tone, colour, rythms, and harmony, everything is performed so convincing and so much like Mozart speaking to me!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z5dbLM9a4-U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Finally, I started to listen to Brahms, as I found this performance by master Schiff and a light and transparent orchestra. 
