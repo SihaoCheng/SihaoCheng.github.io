@@ -31,6 +31,8 @@ The second-order scattering coefficients are more interesting, as they contain s
 We have two papers on its application on weak lensing cosmology, where its performance is on a par with state-of-the-art CNNs ([[1]](https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.5902C/abstract), [[2]](https://ui.adsabs.harvard.edu/abs/2021MNRAS.507.1012C/abstract)). We are also working on its application to oceanography data, where it also shows great promises. For example, by simple compressing the scattering coefficients into two numbers (averaged sparsity and shape in all scales), the sea surface temperature cutouts can be meaningfully arranged, as shown below. Interestingly, there are some the big, rare eddies in the dataset, which are easily recognized at the very bottom of this scattering transform representation, but missed by a CNN + normalizing flow outlier detector in another analysis.
 <br>
 <img src="https://github.com/SihaoCheng/scattering_transform/blob/master/figures/fig10.png?raw=true" width="600" />
+<br>
+<img src="https://github.com/SihaoCheng/scattering_transform/blob/master/figures/fig11.png?raw=true" width="300" />
 
 
 <h1 id="Contacts">Contacts</h1>
