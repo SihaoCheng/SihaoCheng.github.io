@@ -28,11 +28,22 @@ The second-order scattering coefficients are more interesting, as they contain s
 <img src="https://github.com/SihaoCheng/scattering_transform/blob/master/figures/fig8.png?raw=true" width="300" />
 
 ## Applications
-We have two papers on its application on weak lensing cosmology, where its performance is on a par with state-of-the-art CNNs ([[1]](https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.5902C/abstract), [[2]](https://ui.adsabs.harvard.edu/abs/2021MNRAS.507.1012C/abstract)). We are also working on its application to oceanography data, where it also shows great promises. For example, by simple compressing the scattering coefficients into two numbers (averaged sparsity and shape in all scales), the sea surface temperature cutouts can be meaningfully arranged, as shown below. Interestingly, there are some the big, rare eddies in the dataset, which are easily recognized at the very bottom of this scattering transform representation, but missed by a CNN + normalizing flow outlier detector in another analysis.
+
+Given the vocabulary and data representation provided by the scattering transform, one can use it in a wide variety of applications, from data exploration (outlier detection, similarity estimate, etc) to classifications and parameter inference. 
+
+For data exploration, we are working on its application to oceanography data, where it shows great promises. For example, by simple compressing the scattering coefficients into two numbers (averaged sparsity and shape in all scales), the sea surface temperature cutouts can be meaningfully arranged, as shown below. Interestingly, there are some the big, rare eddies in the dataset, which are easily recognized at the very bottom of this scattering transform representation, but missed by a CNN + normalizing flow outlier detector in another analysis.
 <br>
 <img src="https://github.com/SihaoCheng/scattering_transform/blob/master/figures/fig10.png?raw=true" width="600" />
 <br>
 <img src="https://github.com/SihaoCheng/scattering_transform/blob/master/figures/fig11.png?raw=true" width="300" />
+
+For classifications, one possible application in astronomy is on galaxy morphology.
+<br>
+<img src="https://github.com/SihaoCheng/scattering_transform/blob/master/figures/fig12.png?raw=true" width="300" />
+
+For parameter inference, we have two papers on cosmological parameter inference, where its performance is on a par with state-of-the-art CNNs ([[1]](https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.5902C/abstract), [[2]](https://ui.adsabs.harvard.edu/abs/2021MNRAS.507.1012C/abstract)). 
+<br>
+<img src="https://pages.jh.edu/~scheng40/ScatteringTransform/images/CosmologicalConstraint.png" width="285" />
 
 
 <h1 id="Contacts">Contacts</h1>
