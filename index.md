@@ -13,7 +13,7 @@ I am interested in using statistical analysis to understand our Universe. My int
 
 ## New statistics for cosmology and astrophysics
 <!-- <a href="s22.html"><img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/s22.png?raw=true" width="450" /></a> -->
-<a href="https://sihaocheng.github.io/scattering_transform/"><img src="https://github.com/SihaoCheng/scattering_transform/blob/master/figures/image_generation.png?raw=true" width="580" /></a>
+<a href="https://sihaocheng.github.io/scattering_transform"><img src="https://github.com/SihaoCheng/scattering_transform/blob/master/figures/image_generation.png?raw=true" width="580" /></a>
 <br>
 
 Textures and patterns are ubiquitous in astronomical data but challenging to quantify. The [scattering transform](https://arxiv.org/abs/1101.2286) provides a new powerful statistic for these features. It borrows ideas from convolutional neural nets ([CNNs](https://en.wikipedia.org/wiki/Convolutional_neural_network)), but shares advantages of traditional statistics.
