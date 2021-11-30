@@ -35,11 +35,11 @@ For data exploration, we are working on its application to oceanography data, wh
 <br>
 <img src="https://github.com/SihaoCheng/scattering_transform/blob/master/figures/fig10.png?raw=true" width="600" />
 <br>
-<img src="https://github.com/SihaoCheng/scattering_transform/blob/master/figures/fig11.png?raw=true" width="300" />
+<img src="https://github.com/SihaoCheng/scattering_transform/blob/master/figures/fig11.png?raw=true" width="400" />
 
 For classifications, one possible application in astronomy is on galaxy morphology.
 <br>
-<img src="https://github.com/SihaoCheng/scattering_transform/blob/master/figures/fig12.png?raw=true" width="300" />
+<img src="https://github.com/SihaoCheng/scattering_transform/blob/master/figures/fig12.png?raw=true" width="600" />
 
 For parameter inference, we have two papers on cosmological parameter inference, where its performance is on a par with state-of-the-art CNNs ([[1]](https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.5902C/abstract), [[2]](https://ui.adsabs.harvard.edu/abs/2021MNRAS.507.1012C/abstract)). 
 <br>
