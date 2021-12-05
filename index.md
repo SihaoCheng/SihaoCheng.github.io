@@ -48,7 +48,7 @@ The Centre for Sciences of Data
 <br>
 2021- now, visiting fellow
 <br>
-<a href="https://csd.ens.psl.eu/"><img src="https://csd.ens.psl.eu/local/cache-vignettes/L640xH189/ens-snow-5a969.jpg" width="400" /></a>
+<a href="https://csd.ens.psl.eu/"><img src="https://csd.ens.psl.eu/local/cache-vignettes/L640xH189/ens-snow-5a969.jpg?1625123058" width="400" /></a>
 
 
 ## [Johns Hopkins University](https://physics-astronomy.jhu.edu/)
