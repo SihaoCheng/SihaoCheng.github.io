@@ -25,9 +25,9 @@ The scattering transform has very interesting visual interpretation. The first-o
 
 The second-order scattering coefficients are more interesting, as they contain substantial non-Gaussian information and can also be interpreted. After a further reduction, these coefficients can represent the sparsity and shape of features in the field:
 <br>
-<img src="https://github.com/SihaoCheng/scattering_transform/blob/master/figures/fig7.png?raw=true" width="400" />
+<img src="https://github.com/SihaoCheng/scattering_transform/blob/master/figures/fig7.png?raw=true" width="450" />
 <br>
-<img src="https://github.com/SihaoCheng/scattering_transform/blob/master/figures/fig8.png?raw=true" width="300" />
+<img src="https://github.com/SihaoCheng/scattering_transform/blob/master/figures/fig8.png?raw=true" width="400" />
 
 ## Applications
 
@@ -37,7 +37,7 @@ For data exploration, we are working on its application to oceanography data, wh
 <br>
 <img src="https://github.com/SihaoCheng/scattering_transform/blob/master/figures/fig10.png?raw=true" width="600" />
 <br>
-<img src="https://github.com/SihaoCheng/scattering_transform/blob/master/figures/fig11.png?raw=true" width="500" />
+<img src="https://github.com/SihaoCheng/scattering_transform/blob/master/figures/fig11.png?raw=true" width="400" />
 
 For classifications, one possible application in astronomy is on galaxy morphology.
 <br>
