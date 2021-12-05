@@ -66,7 +66,7 @@ Advisor: Prof. [Eric Peng (彭逸西)](http://kiaa.pku.edu.cn/info/1011/2660.htm
 
 ## First author:
 
-**Cheng, S.** & [Ménard, B.](https://physics-astronomy.jhu.edu/directory/brice-menard/), _How to quantify fields and textures? A guide to the scattering transoform_, 2021, on [arxiv](https://pages.jh.edu/scheng40/Draft_SihaoCheng/) tomorrow
+**Cheng, S.** & [Ménard, B.](https://physics-astronomy.jhu.edu/directory/brice-menard/), _How to quantify fields and textures? A guide to the scattering transoform_, 2021, [arXiv:2112.01288](https://ui.adsabs.harvard.edu/abs/2021arXiv211201288C/abstract)
 
 <!-- **Cheng, S.**, _Cosmology and Astrophysics with the Scattering Transform_, 2021, [Ph.D. Thesis at Johns Hopkins University](https://pages.jh.edu/scheng40/Dissertation_SihaoCheng.pdf) -->
 
