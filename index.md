@@ -56,7 +56,7 @@ Advisor: Prof. [Stéphane Mallat](https://www.di.ens.fr/~mallat/mallat.html)
 ## [Johns Hopkins University](https://physics-astronomy.jhu.edu/)
 Department of Physics and Astronomy
 <br>
-2021- now, postdoc
+2021- now, postdoc fellow
 <br>
 2017-2021, M.A., Ph.D. ([Thesis](https://pages.jh.edu/scheng40/Dissertation_SihaoCheng.pdf))
 <br>
