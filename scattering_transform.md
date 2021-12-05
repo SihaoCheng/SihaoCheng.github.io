@@ -2,6 +2,8 @@
 layout: default
 ---
 
+This page is a minimal version of our paper [arxiv:2112.01288](https://arxiv.org/abs/2112.01288).
+
 ## How to quantify textures?
 To extract information from a stochastic field, we need some vocabulary to describe its statistical properties, i.e., the textures in the field. However, quantifying textures is in general challenging. The most widely used vocabulary -- the power spectrum -- is concise and easy to use, but has limited ability to characterize complex strucutres, as shown in the figure below. Recently, convolutional neural networks (CNN) have shown impressive ability to perform this task. However, training a CNN involves optimization of millions to billions of parameters and a large training dataset. It also face interpretability and transparency problems, which is crucial for scientific research. What makes CNN so powerful? Is it possible to combine the advantages of both analytical statistics and CNNs? 
 <br>
@@ -35,7 +37,7 @@ For data exploration, we are working on its application to oceanography data, wh
 <br>
 <img src="https://github.com/SihaoCheng/scattering_transform/blob/master/figures/fig10.png?raw=true" width="600" />
 <br>
-<img src="https://github.com/SihaoCheng/scattering_transform/blob/master/figures/fig11.png?raw=true" width="400" />
+<img src="https://github.com/SihaoCheng/scattering_transform/blob/master/figures/fig11.png?raw=true" width="500" />
 
 For classifications, one possible application in astronomy is on galaxy morphology.
 <br>
