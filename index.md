@@ -4,7 +4,7 @@ layout: default
 
 <img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/IMG_0039.jpg?raw=true" width="400" />
 
-I am a postdoc researcher at the Johns Hopkins Univerisity ([JHU](https://physics-astronomy.jhu.edu)) and now visiting the École Normale Supérieure in Paris ([ENS Paris](https://www.ens.psl.eu/en)). I just got my Ph.D. in astrophysics this summer at JHU. I love physics, math, philosophy, [classical music](https://sihaocheng.github.io/music), kendo, and anime.
+I am a postdoc researcher at the Johns Hopkins Univerisity ([JHU](https://physics-astronomy.jhu.edu)) and now visiting the École Normale Supérieure in Paris ([ENS Paris](https://csd.ens.psl.eu/)). I just got my Ph.D. in astrophysics this summer at JHU. I love physics, math, philosophy, [classical music](https://sihaocheng.github.io/music), kendo, and anime.
 <!-- Recently, I am reading an astonishing book: [*A Logical Journey: From Gödel to Philosophy*](https://mitpress.mit.edu/books/logical-journey). -->
 
 <h1 id="Research">Research</h1>
@@ -42,10 +42,19 @@ In high school, my twin brother (who is studying philosophy now) and I found an 
 <a href="https://ui.adsabs.harvard.edu/abs/2011JIMO...39...39C/abstract"><img src="https://sihaocheng.github.io/GEM.jpg" width="400" /></a>
 
 
-# Education
+# C.V.
+## [École Normale Supérieure, Paris]()
+The Centre for Sciences of Data
+<br>
+2021- now, visiting fellow
+<br>
+<a href="https://csd.ens.psl.eu/"><img src="https://csd.ens.psl.eu/local/cache-vignettes/L640xH189/ens-snow-5a969.jpg" width="400" /></a>
+
+
 ## [Johns Hopkins University](https://physics-astronomy.jhu.edu/)
 Department of Physics and Astronomy
 <br>
+2021- now, postdoc
 2017-2021, M.A., Ph.D. ([Thesis](https://pages.jh.edu/scheng40/Dissertation_SihaoCheng.pdf))
 <br>
 Advisor: Prof. [Brice Ménard](https://physics-astronomy.jhu.edu/directory/brice-menard/)
