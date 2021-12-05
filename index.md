@@ -4,7 +4,7 @@ layout: default
 
 <img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/IMG_0039.jpg?raw=true" width="400" />
 
-I am a postdoc researcher at the Johns Hopkins Univerisity ([JHU](https://physics-astronomy.jhu.edu)) and now visiting the École Normale Supérieure in Paris ([ENS Paris](https://csd.ens.psl.eu/)). I just got my Ph.D. in astrophysics this summer at JHU. I love physics, math, philosophy, [classical music](https://sihaocheng.github.io/music), kendo, and anime.
+I am a postdoc researcher at the Johns Hopkins Univerisity ([JHU](https://physics-astronomy.jhu.edu)) and now visiting the École Normale Supérieure, Paris ([ENS](https://csd.ens.psl.eu/)). I just got my Ph.D. in astrophysics this summer at JHU. I love physics, math, philosophy, [classical music](https://sihaocheng.github.io/music), kendo, and anime.
 <!-- Recently, I am reading an astonishing book: [*A Logical Journey: From Gödel to Philosophy*](https://mitpress.mit.edu/books/logical-journey). -->
 
 <h1 id="Research">Research</h1>
@@ -48,7 +48,7 @@ The Centre for Sciences of Data
 <br>
 2021- now, visiting fellow
 <br>
-<a href="https://csd.ens.psl.eu/"><img src="https://csd.ens.psl.eu/local/cache-vignettes/L640xH189/ens-snow-5a969.jpg?1625123058" width="400" /></a>
+<a href="https://csd.ens.psl.eu/"><img src="https://sihaocheng.github.io/ens-snow-5a969.jpg" width="400" /></a>
 
 
 ## [Johns Hopkins University](https://physics-astronomy.jhu.edu/)
