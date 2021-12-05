@@ -11,7 +11,7 @@ I am a postdoc researcher at the Johns Hopkins Univerisity ([JHU](https://physic
 I am interested in using statistical analysis to understand our Universe. My interests range from observational cosmology to stellar physics and planets. My work led to the discovery of special stars that shine out of gravitational sedimentation and the cosmological applications of a new statistic that borrows ideas from convolutional neural networks.
 <br>
 
-## How to quantify fields or textures? A new statistic for cosmology and beyond
+## How to quantify fields or textures?
 <!-- <a href="s22.html"><img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/s22.png?raw=true" width="450" /></a> -->
 <a href="https://sihaocheng.github.io/scattering_transform"><img src="https://github.com/SihaoCheng/scattering_transform/blob/master/figures/image_generation.png?raw=true" width="580" /></a>
 <br>
