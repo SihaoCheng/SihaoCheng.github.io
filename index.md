@@ -48,6 +48,8 @@ The Centre for Sciences of Data
 <br>
 2021- now, visiting fellow
 <br>
+Advisor: Prof. [Stéphane Mallat](https://www.di.ens.fr/~mallat/mallat.html)
+<br>
 <a href="https://csd.ens.psl.eu/"><img src="https://sihaocheng.github.io/ens-snow-5a969.jpg" width="400" /></a>
 
 
@@ -55,6 +57,7 @@ The Centre for Sciences of Data
 Department of Physics and Astronomy
 <br>
 2021- now, postdoc
+<br>
 2017-2021, M.A., Ph.D. ([Thesis](https://pages.jh.edu/scheng40/Dissertation_SihaoCheng.pdf))
 <br>
 Advisor: Prof. [Brice Ménard](https://physics-astronomy.jhu.edu/directory/brice-menard/)
