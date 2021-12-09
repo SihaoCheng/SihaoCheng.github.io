@@ -28,6 +28,8 @@ The second-order scattering coefficients are more interesting, as they contain s
 <img src="https://github.com/SihaoCheng/scattering_transform/blob/master/figures/fig7.png?raw=true" width="450" />
 <br>
 <img src="https://github.com/SihaoCheng/scattering_transform/blob/master/figures/fig8.png?raw=true" width="400" />
+<br>
+More visualization can be found [here](https://pages.jh.edu/~scheng40/s22.html).
 
 ## Applications
 
