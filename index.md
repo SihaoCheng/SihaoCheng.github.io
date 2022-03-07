@@ -43,12 +43,21 @@ In high school, my twin brother (who is studying philosophy now) and I found an 
 
 
 # C.V.
-## [École Normale Supérieure, Paris]()
+## [Institute for Advanced Study, Princeton](https://www.ias.edu/sns/astrophysics)
+<!-- and [Perimeter Institute, Waterloo] (https://perimeterinstitute.ca) -->
+School of Natural Science, Astrophysics Group
+<br>
+2022-, member
+<br>
+<a href="https://cdn.vox-cdn.com/thumbor/5URaeEd4Y14GAgSDA1LiuQWHj0A=/0x5:1020x579/1600x900/cdn.vox-cdn.com/assets/3334065/campus1020.jpg" width="400" /></a>
+
+
+## [École Normale Supérieure, Paris](https://csd.ens.psl.eu)
 The Centre for Sciences of Data
 <br>
-2021- now, visiting fellow
+2021-2022, visiting fellow
 <br>
-Advisor: Prof. [Stéphane Mallat](https://www.di.ens.fr/~mallat/mallat.html)
+Advisor: Prof. [Brice Ménard](https://physics-astronomy.jhu.edu/directory/brice-menard/), Prof. [Stéphane Mallat](https://www.di.ens.fr/~mallat/mallat.html)
 <br>
 <a href="https://csd.ens.psl.eu/"><img src="https://sihaocheng.github.io/ens-snow-5a969.jpg" width="400" /></a>
 
@@ -56,7 +65,7 @@ Advisor: Prof. [Stéphane Mallat](https://www.di.ens.fr/~mallat/mallat.html)
 ## [Johns Hopkins University](https://physics-astronomy.jhu.edu/)
 Department of Physics and Astronomy
 <br>
-2021- now, postdoc fellow
+2021-2022, postdoc fellow
 <br>
 2017-2021, M.A., Ph.D. ([Thesis](https://pages.jh.edu/scheng40/Dissertation_SihaoCheng.pdf))
 <br>
