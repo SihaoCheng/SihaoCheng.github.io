@@ -49,8 +49,14 @@ School of Natural Science, Astrophysics Group
 <br>
 2022-, member
 <br>
-<a href="https://cdn.vox-cdn.com/thumbor/5URaeEd4Y14GAgSDA1LiuQWHj0A=/0x5:1020x579/1600x900/cdn.vox-cdn.com/assets/3334065/campus1020.jpg" width="400" /></a>
+<a href="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/campus1020.jpg?raw=true" width="400" /></a>
 
+## [Perimeter Institute, Waterloo](https://perimeterinstitute.ca/)
+<!-- and [Perimeter Institute, Waterloo] (https://perimeterinstitute.ca) -->
+<br>
+2022-, visiting fellow
+<!-- <br> -->
+<!-- <a href="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/campus1020.jpg?raw=true" width="400" /></a> -->
 
 ## [École Normale Supérieure, Paris](https://csd.ens.psl.eu)
 The Centre for Sciences of Data
