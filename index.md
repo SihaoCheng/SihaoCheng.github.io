@@ -51,8 +51,6 @@ School of Natural Science, Astrophysics Group
 <img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/campus1020.jpg?raw=true" width="400" />
 
 ## [Perimeter Institute](https://perimeterinstitute.ca/)
-<!-- and [Perimeter Institute, Waterloo] (https://perimeterinstitute.ca) -->
-<br>
 2022-, visiting fellow
 <!-- <br> -->
 <!-- <a href="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/campus1020.jpg?raw=true" width="400" /></a> -->
