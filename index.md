@@ -43,15 +43,14 @@ In high school, my twin brother (who is studying philosophy now) and I found an 
 
 
 # C.V.
-## [Institute for Advanced Study, Princeton](https://www.ias.edu/sns/astrophysics)
-<!-- and [Perimeter Institute, Waterloo] (https://perimeterinstitute.ca) -->
+## [Institute for Advanced Study](https://www.ias.edu/sns/astrophysics)
 School of Natural Science, Astrophysics Group
 <br>
 2022-, member
 <br>
-<a href="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/campus1020.jpg?raw=true" width="400" /></a>
+<img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/campus1020.jpg?raw=true" width="400" />
 
-## [Perimeter Institute, Waterloo](https://perimeterinstitute.ca/)
+## [Perimeter Institute](https://perimeterinstitute.ca/)
 <!-- and [Perimeter Institute, Waterloo] (https://perimeterinstitute.ca) -->
 <br>
 2022-, visiting fellow
