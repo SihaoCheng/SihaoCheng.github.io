@@ -8,6 +8,9 @@ I started to learn playing the piano since primary school, and the violin since 
 
 Below, I list some recordings I was listening recently and love so much. I hope my readers who come across this page will resonate. I will update this list regularly.
 
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/hrz_KMQz4FE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Fou Ts'ong's Chopin Nocturnes! Finally I started to listen to Chopin carefully, thanks to a masterclass video of Fou Ts'ong. -->
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YV-a_ixphQs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Wow! This is amazing! Mozart string quartets by Juilliard SQ. The phrasing, tone, colour, rythms, and harmony, everything is performed so convincing and so much like Mozart speaking to me!
 
