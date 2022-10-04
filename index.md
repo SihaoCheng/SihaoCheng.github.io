@@ -4,7 +4,7 @@ layout: default
 
 <img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/IMG_0039.jpg?raw=true" width="400" />
 
-I am a postdoc researcher at the Johns Hopkins Univerisity ([JHU](https://physics-astronomy.jhu.edu)) and now visiting the École Normale Supérieure, Paris ([ENS](https://csd.ens.psl.eu/)). I just got my Ph.D. in astrophysics this summer at JHU. I love physics, math, philosophy, [classical music](https://sihaocheng.github.io/music), kendo, and anime.
+I am a postdoc member of the Institute for Advanced Study [IAS](https://www.ias.edu/sns/astrophysics) at Princeton. I got my Ph.D. in astrophysics in 2021 at ([JHU](https://physics-astronomy.jhu.edu)). I love physics, math, philosophy, [classical music](https://sihaocheng.github.io/music), kendo, and anime.
 <!-- Recently, I am reading an astonishing book: [*A Logical Journey: From Gödel to Philosophy*](https://mitpress.mit.edu/books/logical-journey). -->
 
 <h1 id="Research">Research</h1>
