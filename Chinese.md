@@ -4,24 +4,23 @@ layout: default
 
 <img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/IMG_0039.jpg?raw=true" width="400" />
 
-我是程思浩，现在在普林斯顿高等研究院([IAS](https://www.ias.edu))做天体物理博士后研究. 我对物理、数学、哲学、古典音乐、剑道、动漫都很感兴趣。
+我是程思浩，现在在普林斯顿高等研究院([IAS](https://www.ias.edu))做天体物理博士后研究. 之前我在约翰霍普金斯大学([JHU](https://physics-astronomy.jhu.edu))获得博士学位并在巴黎高师([ENS](https://csd.ens.psl.eu/))访问一年。我对物理、数学、哲学、古典音乐、剑道、动漫都很感兴趣。
 
 <h1 id="Research">研究</h1>
 我用统计方法分析巡天数据，并研究其中的天体物理问题。我的研究兴趣涉及宇宙学、恒星物理、系外行星。我过去的工作包括发现了一类靠引力发光的特殊星体，以及将一种受神经网络启发而设计的新统计量应用到宇宙学中。 
+<br>
 
 ## 如何统计地描述一个图片/物理场的形态？
+<a href="https://sihaocheng.github.io/scattering_transform"><img src="https://github.com/SihaoCheng/scattering_transform/blob/master/figures/image_generation.png?raw=true" width="580" /></a>
+<br>
 
-从星云的照片到星系的网状分布，天文学中常常遇到需要对图像/物理场的结构进行统计的描述。，“散射变换”为这类问题提供了一个新方法。这一新统计量借用了卷积神经网络中的运算和概念，但同时拥有传统统计量的优势，无需调试或训练。它对输入图像反复进行“小波卷积+取绝对值”的操作，最后再对变换后的信号“取平均值”作为统计量。我首先将它应用在宇宙学中，分析了由[宇宙物质不均匀分布](https://en.wikipedia.org/wiki/Observable_universe#Large-scale_structure)造成的[弱引力透镜](https://en.wikipedia.org/wiki/Weak_gravitational_lensing)效应。我发现它包含的宇宙学信息远高于传统统计量（如相关函数）而与卷积神经网络相近([1], [2], [3])。我在文章中还仔细讨论了如何直观理解这一新统计量。我相信它在天体物理以及其他科学数据的处理中将会有广泛的应用。
+从星云的照片到星系的网状分布，天文学中常常遇到需要对图像/物理场的结构进行统计的描述。，“散射变换”为这类问题提供了一个新方法。这一新统计量借用了卷积神经网络([CNNs](https://en.wikipedia.org/wiki/Convolutional_neural_network))中的运算和概念，但同时拥有传统统计量的优势，无需调试或训练。它对输入图像反复进行“小波卷积+取绝对值”的操作，最后再对变换后的信号“取平均值”作为统计量。我首先将它应用在宇宙学中，分析了由[宇宙物质不均匀分布](https://en.wikipedia.org/wiki/Observable_universe#Large-scale_structure)造成的[弱引力透镜](https://en.wikipedia.org/wiki/Weak_gravitational_lensing)效应。我发现它包含的宇宙学信息远高于传统统计量（如相关函数）而与卷积神经网络相近([[1]](https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.5902C/abstract), [[2]](https://ui.adsabs.harvard.edu/abs/2021MNRAS.507.1012C/abstract), [[3]](https://arxiv.org/abs/2112.01288))。我在文章中还仔细讨论了[**如何直观理解这一新统计量**](https://arxiv.org/abs/2112.01288)。我的文章[获得了国际天文统计奖](http://iaa.mi.oa-brera.inaf.it/IAA/awards.html)。我相信它在天体物理以及其他科学数据的处理中将会有广泛的应用。
 
-为了方便更多人使用，我写了一个python模块ST.py，可供自由下载使用。
-To advocate the use of the scattering transform, I also wrote a publicly available module ST.py based on pytorch, which can implement 1D and 2D scattering transform in a fast and transparent way. 
-
-<a href="https://arxiv.org/abs/2006.08561"><img src="https://pages.jh.edu/~scheng40/ScatteringTransform/images/STvsPowerSpectrum.png" width="330" /></a>
-<a href="https://arxiv.org/abs/2006.08561"><img src="https://pages.jh.edu/~scheng40/ScatteringTransform/images/CosmologicalConstraint.png" width="285" /></a>
-
-
-
-
+为了方便更多人使用，我写了一个python模块[`ST.py`](https://github.com/SihaoCheng/scattering_transform)，可供自由下载使用。
+<br>
+<a><img src="https://pages.jh.edu/~scheng40/ScatteringTransform/images/STvsPowerSpectrum.png" width="300" /></a>
+<a><img src="https://pages.jh.edu/~scheng40/ScatteringTransform/images/CosmologicalConstraint.png" width="285" /></a>
+<br>
 
 ## Gaia数据中的新发现
 去年我主要在研究[白矮星](https://en.wikipedia.org/wiki/White_dwarf)。白矮星是宇宙中大多数恒星的最终归宿。我用“盖亚”（[_Gaia_](https://www.cosmos.esa.int/web/gaia/home)）巡天卫星的数据发现（1）一些白矮星有异常慢的冷却速度；（2）有些大质量白矮星是两颗小白矮星融合的产物（点击下图可以查看文章）。这一工作还被天文博客[astrobites](https://astrobites.org/2019/11/12/the-slowly-cooling-white-dwarfs-who-say-ne/)和[AAS Nova](https://aasnova.org/2019/11/19/the-slowly-cooling-white-dwarfs-who-say-ne/)报道.
@@ -32,16 +31,40 @@ To advocate the use of the scattering transform, I also wrote a publicly availab
 我还写了一个python小工具[`WD_models`](https://github.com/SihaoCheng/WD_models)，用来转换白矮星的测光数据和物理参数。
 
 ## 流星光谱
-在高中，我和弟弟程思淼找到了一个用数码相机拍摄[流星](https://en.wikipedia.org/wiki/Meteoroid#Meteors)[光谱](https://en.wikipedia.org/wiki/Spectrum)的方法. 我们设计了一个[棱镜](https://en.wikipedia.org/wiki/Prism)装置接在相机镜头前，联系工厂订做了若干件并卖给了其他天文爱好者（主要为了减低单价，最后控制在六七百元左右）。下图是我们2010年冬天拍摄的[双子座流星](https://en.wikipedia.org/wiki/Geminids)的光谱。我们正在准备做一批新棱镜。如果您感兴趣请联系我们！
+在高中，我和弟弟程思淼找到了一个用数码相机拍摄[流星](https://en.wikipedia.org/wiki/Meteoroid#Meteors)[光谱](https://en.wikipedia.org/wiki/Spectrum)的方法. 我们设计了一个[棱镜](https://en.wikipedia.org/wiki/Prism)装置接在相机镜头前，联系工厂订做了若干件并卖给了其他天文爱好者。下图是我们2010年冬天拍摄的[双子座流星](https://en.wikipedia.org/wiki/Geminids)的光谱。2021年我们重新优化并做了一批新棱镜，价格在1000元人民币左右。如果您感兴趣请联系我们！
 <br>
 <a href="https://ui.adsabs.harvard.edu/abs/2011JIMO...39...39C/abstract"><img src="https://sihaocheng.github.io/GEM.jpg" width="400" /></a>
 
 
-# 学习经历
+# 学习/工作经历
+## [普林斯顿高等研究院](https://www.ias.edu/sns/astrophysics)
+自然科学学院
+<br>
+2022-现在, 博士后研究员
+<br>
+<img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/campus1020.jpg?raw=true" width="400" />
+
+## [圆周研究所](https://perimeterinstitute.ca/)
+2022-现在, 访问研究员
+<br>
+<img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/PI.jpg?raw=true" width="400" />
+
+## [巴黎高师](https://csd.ens.psl.eu)
+数据科学中心
+<br>
+2021-2022, 访问研究员
+<br>
+导师: Prof. [Brice Ménard](https://physics-astronomy.jhu.edu/directory/brice-menard/), Prof. [Stéphane Mallat](https://www.di.ens.fr/~mallat/mallat.html)
+<br>
+<a href="https://csd.ens.psl.eu/"><img src="https://sihaocheng.github.io/ens-snow-5a969.jpg" width="400" /></a>
+
+
 ## [约翰霍普金斯大学](https://physics-astronomy.jhu.edu/)
 物理与天文学系
 <br>
-2019-现在, 博士候选人
+2021-2022, 博士后研究员
+<br>
+2019-2021, 获博士学位
 <br>
 2017-2019, 获硕士学位
 <br>
@@ -58,9 +81,16 @@ To advocate the use of the scattering transform, I also wrote a publicly availab
 <br>
 <a href="http://astro.pku.edu.cn/"><img src="https://pages.jh.edu/~scheng40/images/PKU.png" width="400" /></a>
 
+
 # 发表文章
 
 ## 第一作者文章：
+
+**Cheng, S.** & [Ménard, B.](https://physics-astronomy.jhu.edu/directory/brice-menard/), _How to quantify fields and textures? A guide to the scattering transoform_, 2021, [arXiv:2112.01288](https://arxiv.org/abs/2112.01288)
+
+<!-- **Cheng, S.**, _Cosmology and Astrophysics with the Scattering Transform_, 2021, [Ph.D. Thesis at Johns Hopkins University](https://pages.jh.edu/scheng40/Dissertation_SihaoCheng.pdf) -->
+
+**Cheng, S.** & [Ménard, B.](https://physics-astronomy.jhu.edu/directory/brice-menard/), _Weak lensing scattering transform: dark energy and neutrino mass sensitivity_, 2021, [MNRAS, 507, 1012](https://ui.adsabs.harvard.edu/abs/2021MNRAS.507.1012C/abstract)
 
 **Cheng, S.**, [Ting, Y.-S.](https://www.sns.ias.edu/~ting/), [Ménard, B.](https://physics-astronomy.jhu.edu/directory/brice-menard/), & [Bruna, J.](https://cims.nyu.edu/~bruna/), _A new approach to observational cosmology using the scattering transform_, 2020, [MNRAS, 499, 5902](https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.5902C/abstract)
 
@@ -74,11 +104,11 @@ To advocate the use of the scattering transform, I also wrote a publicly availab
 
 ## 其他: 
 
+[Camisassa, M.](http://evolgroup.fcaglp.unlp.edu.ar/camisassa.html), **et al.**, _Forever young white dwarfs: when stellar ageing stops_, 2021, [A&A Letters, 649, 7](https://ui.adsabs.harvard.edu/abs/2021A%26A...649L...7C/abstract)
+
 [Lu, C. X.](http://www.ciceroxlu.org), [Schlaufman, K. C.](http://www.kevinschlaufman.com), **Cheng, S.**, _An Increase in Small-planet Occurrence with Metallicity for Late-type Dwarf Stars in the Kepler Field and Its Implications for Planet Formation_, 2020, [AJ, 160, 253](https://ui.adsabs.harvard.edu/abs/2020AJ....160..253L/abstract)
 
 [Bauer, E. B.](https://scholar.google.com/citations?user=GzWCQFgAAAAJ&hl=en), [Schwab, J.](https://yoshiyahu.org), [Bildsten, L.](https://www.kitp.ucsb.edu/bildsten), and **Cheng, S.**, _Multi-Gigayear White Dwarf Cooling Delays from Clustering-Enhanced Gravitational Sedimentation_, 2020, [ApJ, accepted](https://ui.adsabs.harvard.edu/abs/2020arXiv200904025B/abstract)
-
-[Camisassa, M. E.](http://evolgroup.fcaglp.unlp.edu.ar/camisassa.html), Althaus, L. G., Torres, S., Córsico, A. H., **Cheng, S.**, Rebassa-Mansergas, A., _Forever young white dwarfs: when stellar ageing stops_, 2020, [arXiv:2008.03028](https://ui.adsabs.harvard.edu/abs/2020arXiv200803028C/abstract)
 
 [Chandra, V.](https://vedantchandra.com/), [Hwang, H.-C.](http://www.hwang-astro.me), [Zakamska, N. L.](https://zakamska.johnshopkins.edu), **Cheng, S.**, _A Gravitational Redshift Measurement of the White Dwarf Mass–Radius Relation_, 2020, [ApJ, 899, 146](https://ui.adsabs.harvard.edu/abs/2020ApJ...899..146C/abstract)
 
@@ -96,3 +126,18 @@ Bloomberg 506
 <br>
 Baltimore, MD21218, USA
 
+
+<h1 id="skymap">Sky Altas (Aladin)</h1>
+<!-- you can find more information about this cool embedded sky altas on http://aladin.u-strasbg.fr/AladinLite/doc/#embedding -->
+<!-- include Aladin Lite CSS file in the head section of your page -->
+<link rel="stylesheet" href="https://aladin.u-strasbg.fr/AladinLite/api/v2/latest/aladin.min.css" />
+ 
+<!-- you can skip the following line if your page already integrates the jQuery library -->
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.12.1.min.js" charset="utf-8"></script>
+ 
+<!-- insert this snippet where you want Aladin Lite viewer to appear and after the loading of jQuery -->
+<div id="aladin-lite-div" style="width:600px;height:400px;"></div>
+<script type="text/javascript" src="https://aladin.u-strasbg.fr/AladinLite/api/v2/latest/aladin.min.js" charset="utf-8"></script>
+<script type="text/javascript">
+    var aladin = A.aladin('#aladin-lite-div', {survey: "P/DSS2/color", fov:1, target: "20 45 38.000 +30 42 30.00"});
+</script>
