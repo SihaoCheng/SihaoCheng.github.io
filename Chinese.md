@@ -4,16 +4,24 @@ layout: default
 
 <img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/IMG_0039.jpg?raw=true" width="400" />
 
-我是程思浩，现在在约翰霍普金斯大学([JHU](https://physics-astronomy.jhu.edu))读天体物理学博士. 我对物理、数学、哲学、古典音乐、剑道、动漫都很感兴趣。
+我是程思浩，现在在普林斯顿高等研究院([IAS](https://www.ias.edu))做天体物理博士后研究. 我对物理、数学、哲学、古典音乐、剑道、动漫都很感兴趣。
 
 <h1 id="Research">研究</h1>
-我用统计方法分析巡天数据，并研究其中的天体物理问题。我的研究兴趣涉及宇宙学、恒星物理、系外行星。
+我用统计方法分析巡天数据，并研究其中的天体物理问题。我的研究兴趣涉及宇宙学、恒星物理、系外行星。我过去的工作包括发现了一类靠引力发光的特殊星体，以及将一种受神经网络启发而设计的新统计量应用到宇宙学中。 
 
-## 宇宙学新统计量
-我使用一个新的统计工具（叫做“散射变换”）分析由[宇宙物质不均匀分布](https://en.wikipedia.org/wiki/Observable_universe#Large-scale_structure)造成的[弱引力透镜](https://en.wikipedia.org/wiki/Weak_gravitational_lensing)效应。“散射变换”对输入信号反复进行“小波卷积+取绝对值”的操作，最后再对变换后的信号“取平均值”作为统计量。这一新统计量借用了卷积神经网络中的运算和概念，但同时拥有传统统计量的优势，无需调试或训练。我发现它包含的宇宙学信息远高于传统统计量（如相关函数）而与卷积神经网络相近。我相信这一新统计量在天体物理数据处理中将有广泛的应用。
+## 如何统计地描述一个图片/物理场的形态？
+
+从星云的照片到星系的网状分布，天文学中常常遇到需要对图像/物理场的结构进行统计的描述。，“散射变换”为这类问题提供了一个新方法。这一新统计量借用了卷积神经网络中的运算和概念，但同时拥有传统统计量的优势，无需调试或训练。它对输入图像反复进行“小波卷积+取绝对值”的操作，最后再对变换后的信号“取平均值”作为统计量。我首先将它应用在宇宙学中，分析了由[宇宙物质不均匀分布](https://en.wikipedia.org/wiki/Observable_universe#Large-scale_structure)造成的[弱引力透镜](https://en.wikipedia.org/wiki/Weak_gravitational_lensing)效应。我发现它包含的宇宙学信息远高于传统统计量（如相关函数）而与卷积神经网络相近([1], [2], [3])。我在文章中还仔细讨论了如何直观理解这一新统计量。我相信它在天体物理以及其他科学数据的处理中将会有广泛的应用。
+
+为了方便更多人使用，我写了一个python模块ST.py，可供自由下载使用。
+To advocate the use of the scattering transform, I also wrote a publicly available module ST.py based on pytorch, which can implement 1D and 2D scattering transform in a fast and transparent way. 
 
 <a href="https://arxiv.org/abs/2006.08561"><img src="https://pages.jh.edu/~scheng40/ScatteringTransform/images/STvsPowerSpectrum.png" width="330" /></a>
 <a href="https://arxiv.org/abs/2006.08561"><img src="https://pages.jh.edu/~scheng40/ScatteringTransform/images/CosmologicalConstraint.png" width="285" /></a>
+
+
+
+
 
 ## Gaia数据中的新发现
 去年我主要在研究[白矮星](https://en.wikipedia.org/wiki/White_dwarf)。白矮星是宇宙中大多数恒星的最终归宿。我用“盖亚”（[_Gaia_](https://www.cosmos.esa.int/web/gaia/home)）巡天卫星的数据发现（1）一些白矮星有异常慢的冷却速度；（2）有些大质量白矮星是两颗小白矮星融合的产物（点击下图可以查看文章）。这一工作还被天文博客[astrobites](https://astrobites.org/2019/11/12/the-slowly-cooling-white-dwarfs-who-say-ne/)和[AAS Nova](https://aasnova.org/2019/11/19/the-slowly-cooling-white-dwarfs-who-say-ne/)报道.
