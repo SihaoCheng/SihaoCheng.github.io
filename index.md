@@ -4,7 +4,7 @@ layout: default
 
 <img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/IMG_0039.jpg?raw=true" width="400" />
 
-I am a postdoc member at the [Institute for Advanced Study](https://www.ias.edu/sns/astrophysics) at Princeton and [Perimeter Institute](https://perimeterinstitute.ca/) in Canada. I got my Ph.D. in astrophysics in 2021 at ([JHU](https://physics-astronomy.jhu.edu)). I love physics, math, philosophy, [classical music](https://sihaocheng.github.io/music), kendo, and anime.
+I am a postdoc member at the [Institute for Advanced Study](https://www.ias.edu/sns/astrophysics) at Princeton and [Perimeter Institute](https://perimeterinstitute.ca/) in Canada. I got my Ph.D. in astrophysics in 2021 at [Johns Hopkins University](https://physics-astronomy.jhu.edu). I love physics, math, philosophy, [classical music](https://sihaocheng.github.io/music), kendo, and anime.
 <!-- Recently, I am reading an astonishing book: [*A Logical Journey: From Gödel to Philosophy*](https://mitpress.mit.edu/books/logical-journey). -->
 
 <h1 id="Research">Research</h1>
