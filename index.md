@@ -109,7 +109,7 @@ Advisor: Prof. [Eric Peng (彭逸西)](http://kiaa.pku.edu.cn/info/1011/2660.htm
 
 ## Others: 
 
-Liu, D. Z., **et al.**, _Potential scientific synergies in weak lensing studies between the CSST and Euclid space probes_, 2022, [arXiv:2210.16341](https://ui.adsabs.harvard.edu/abs/2022arXiv221016341L/abstract), accepted for A&A
+Liu, D. Z., **et al.**, _Potential scientific synergies in weak lensing studies between the CSST and Euclid space probes_, 2022, [A&A, 669, A128](https://ui.adsabs.harvard.edu/abs/2023A%26A...669A.128L/abstract)
 
 [Camisassa, M.](http://evolgroup.fcaglp.unlp.edu.ar/camisassa.html), **et al.**, _Forever young white dwarfs: when stellar ageing stops_, 2021, [A&A Letters, 649, 7](https://ui.adsabs.harvard.edu/abs/2021A%26A...649L...7C/abstract)
 
