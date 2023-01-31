@@ -109,7 +109,7 @@ Advisor: Prof. [Eric Peng (彭逸西)](http://kiaa.pku.edu.cn/info/1011/2660.htm
 
 ## Others: 
 
-Euclid Collaboration, **et al.**, _Euclid Preparation XXIX: Forecasts for 10 different higher-order weak lensing statistics_, 2023, arXiv: [2301.12890](https://arxiv.org/abs/2301.12890)
+Euclid Collaboration, **et al.**, _Euclid Preparation XXIX: Forecasts for 10 different higher-order weak lensing statistics_, 2023, [arXiv:2301.12890](https://arxiv.org/abs/2301.12890)
 
 Liu, D. Z., **et al.**, _Potential scientific synergies in weak lensing studies between the CSST and Euclid space probes_, 2023, [A&A, 669, A128](https://ui.adsabs.harvard.edu/abs/2023A%26A...669A.128L/abstract)
 
