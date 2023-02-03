@@ -109,6 +109,8 @@ Advisor: Prof. [Eric Peng (彭逸西)](http://kiaa.pku.edu.cn/info/1011/2660.htm
 
 ## Others: 
 
+Ren, L., **et al.**, _A Systematic Search for Short-period Close White Dwarf Binary Candidates Based on Gaia EDR3 Catalog and Zwicky Transient Facility Data_, 2023, [ApJS, 264, 39](https://iopscience.iop.org/article/10.3847/1538-4365/aca09e)
+
 Euclid Collaboration, **et al.**, _Euclid Preparation XXIX: Forecasts for 10 different higher-order weak lensing statistics_, 2023, [arXiv:2301.12890](https://arxiv.org/abs/2301.12890)
 
 Liu, D. Z., **et al.**, _Potential scientific synergies in weak lensing studies between the CSST and Euclid space probes_, 2023, [A&A, 669, A128](https://ui.adsabs.harvard.edu/abs/2023A%26A...669A.128L/abstract)
@@ -128,7 +130,7 @@ scheng@ias.edu
 <br>
 +1 443 207 1532
 <br>
-Bloomberg 150
+Bloomberg Hall 150
 <br>
 1 Einstein Dr, Institute for Advanced Study
 <br>
