@@ -99,7 +99,7 @@ Advisor: Prof. [Eric Peng (彭逸西)](http://kiaa.pku.edu.cn/info/1011/2660.htm
 
 **Cheng, S.** & [Ménard, B.](https://physics-astronomy.jhu.edu/directory/brice-menard/), _Weak lensing scattering transform: dark energy and neutrino mass sensitivity_, 2021, [MNRAS, 507, 1012](https://ui.adsabs.harvard.edu/abs/2021MNRAS.507.1012C/abstract)
 
-**Cheng, S.**, [Ting, Y.-S.](https://www.sns.ias.edu/~ting/), [Ménard, B.](https://physics-astronomy.jhu.edu/directory/brice-menard/), & [Bruna, J.](https://cims.nyu.edu/~bruna/), _A new approach to observational cosmology using the scattering transform_, 2020, [MNRAS, 499, 5902](https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.5902C/abstract)
+**Cheng, S.**, [Ting, Y.-S.](https://www.mso.anu.edu.au/~yting/), [Ménard, B.](https://physics-astronomy.jhu.edu/directory/brice-menard/), & [Bruna, J.](https://cims.nyu.edu/~bruna/), _A new approach to observational cosmology using the scattering transform_, 2020, [MNRAS, 499, 5902](https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.5902C/abstract)
 
 **Cheng, S.**, [Cummings, J. D.](https://pages.jh.edu/~jcummi19/), [Ménard, B.](https://physics-astronomy.jhu.edu/directory/brice-menard/), & [Toonen, S.](http://www.sr.bham.ac.uk/~toonen/), _Double White Dwarf Merger Products among High-mass White Dwarfs_, 2020, [ApJ, 891, 160](https://ui.adsabs.harvard.edu/abs/2020ApJ...891..160C/abstract)
 
@@ -110,6 +110,10 @@ Advisor: Prof. [Eric Peng (彭逸西)](http://kiaa.pku.edu.cn/info/1011/2660.htm
 **Cheng, S.**, [Cheng, S.](https://www.researchgate.net/profile/Simiao-Cheng-2), _Meteor spectral observation with DSLR, normal lens and prism_, 2011, [JIMO, 39, 39](https://ui.adsabs.harvard.edu/abs/2011JIMO...39...39C/abstract)
 
 ## Others: 
+
+[Hwang, H.-C.](http://www.hwang-astro.me), [Ting, Y.-S.](https://www.mso.anu.edu.au/~yting/), **Cheng, S.**, [Speagle, J](https://joshspeagle.com), _Dynamical masses across the Hertzsprung-Russell diagram_, 2023, [arXiv:2308.08584](https://arxiv.org/abs/2308.08584)
+
+[Marques, G. A.](https://kavlicosmo.uchicago.edu/people/profile/gabriela-a-marques/) **et al.**, _Cosmology from weak lensing peaks and minima with Subaru Hyper Suprime-Cam survey first-year data_, 2023, [arXiv:2308.10866](https://arxiv.org/abs/2308.10866)
 
 Ren, L., **et al.**, _A Systematic Search for Short-period Close White Dwarf Binary Candidates Based on Gaia EDR3 Catalog and Zwicky Transient Facility Data_, 2023, [ApJS, 264, 39](https://ui.adsabs.harvard.edu/abs/2023ApJS..264...39R/abstract)
 
