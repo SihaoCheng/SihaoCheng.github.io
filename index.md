@@ -91,7 +91,7 @@ Advisor: Prof. [Eric Peng (彭逸西)](http://kiaa.pku.edu.cn/info/1011/2660.htm
 
 ## First author:
 
-**Cheng, S.**, [Morel, R.](https://www.di.ens.fr/rudy.morel/), [Allys, E.](http://www.lra.ens.fr/~allys/index.html), [Ménard, B.](https://physics-astronomy.jhu.edu/directory/brice-menard/) & [Mallat, S.](https://www.di.ens.fr/~mallat/), _Scattering Spectra for Physics_, 2023, [arXiv:2306.17210](https://arxiv.org/abs/2306.17210)
+**Cheng, S.**, [Morel, R.](https://www.di.ens.fr/rudy.morel/), [Allys, E.](http://www.lra.ens.fr/~allys/index.html), [Ménard, B.](https://physics-astronomy.jhu.edu/directory/brice-menard/) & [Mallat, S.](https://www.di.ens.fr/~mallat/), _Scattering Spectra for Physics_, 2024, [accepted to PNAS Nexus](https://arxiv.org/abs/2306.17210)
 
 **Cheng, S.** & [Ménard, B.](https://physics-astronomy.jhu.edu/directory/brice-menard/), _How to quantify fields and textures? A guide to the scattering transoform_, 2021, [arXiv:2112.01288](https://arxiv.org/abs/2112.01288)
 
@@ -111,7 +111,9 @@ Advisor: Prof. [Eric Peng (彭逸西)](http://kiaa.pku.edu.cn/info/1011/2660.htm
 
 ## Others: 
 
-[Hwang, H.-C.](http://www.hwang-astro.me), [Ting, Y.-S.](https://www.mso.anu.edu.au/~yting/), **Cheng, S.**, [Speagle, J](https://joshspeagle.com), _Dynamical masses across the Hertzsprung-Russell diagram_, 2023, [arXiv:2308.08584](https://arxiv.org/abs/2308.08584)
+[Bédard, A.](https://warwick.ac.uk/fac/sci/physics/research/astro/people/antoinebedard/), [Blouin, S.](https://www.sblouin.com/), **Cheng, S.**, _Buoyant crystals halt the cooling of white dwarf stars_, 2024, accepted to Nature
+
+[Hwang, H.-C.](http://www.hwang-astro.me), [Ting, Y.-S.](https://www.mso.anu.edu.au/~yting/), **Cheng, S.**, [Speagle, J](https://joshspeagle.com), _Dynamical masses across the Hertzsprung-Russell diagram_, 2024, [MNRAS, 528, 4272](https://ui.adsabs.harvard.edu/abs/2024MNRAS.528.4272H/abstract)
 
 [Marques, G. A.](https://kavlicosmo.uchicago.edu/people/profile/gabriela-a-marques/) **et al.**, _Cosmology from weak lensing peaks and minima with Subaru Hyper Suprime-Cam survey first-year data_, 2023, [arXiv:2308.10866](https://arxiv.org/abs/2308.10866)
 
