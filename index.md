@@ -115,7 +115,7 @@ Advisor: Prof. [Eric Peng (彭逸西)](http://kiaa.pku.edu.cn/info/1011/2660.htm
 
 [Hwang, H.-C.](http://www.hwang-astro.me), [Ting, Y.-S.](https://www.mso.anu.edu.au/~yting/), **Cheng, S.**, [Speagle, J](https://joshspeagle.com), _Dynamical masses across the Hertzsprung-Russell diagram_, 2024, [MNRAS, 528, 4272](https://ui.adsabs.harvard.edu/abs/2024MNRAS.528.4272H/abstract)
 
-[Marques, G. A.](https://kavlicosmo.uchicago.edu/people/profile/gabriela-a-marques/) **et al.**, _Cosmology from weak lensing peaks and minima with Subaru Hyper Suprime-Cam survey first-year data_, 2023, [arXiv:2308.10866](https://arxiv.org/abs/2308.10866)
+[Marques, G. A.](https://kavlicosmo.uchicago.edu/people/profile/gabriela-a-marques/) **et al.**, _Cosmology from weak lensing peaks and minima with Subaru Hyper Suprime-Cam survey first-year data_, 2023, [MNRAS, 528, 4513](https://ui.adsabs.harvard.edu/abs/2024MNRAS.528.4513M/abstract)
 
 Ren, L., **et al.**, _A Systematic Search for Short-period Close White Dwarf Binary Candidates Based on Gaia EDR3 Catalog and Zwicky Transient Facility Data_, 2023, [ApJS, 264, 39](https://ui.adsabs.harvard.edu/abs/2023ApJS..264...39R/abstract)
 
