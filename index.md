@@ -111,7 +111,7 @@ Advisor: Prof. [Eric Peng (彭逸西)](http://kiaa.pku.edu.cn/info/1011/2660.htm
 
 ## Others: 
 
-[Bédard, A.](https://warwick.ac.uk/fac/sci/physics/research/astro/people/antoinebedard/), [Blouin, S.](https://www.sblouin.com/), **Cheng, S.**, _Buoyant crystals halt the cooling of white dwarf stars_, 2024, accepted to Nature
+[Bédard, A.](https://warwick.ac.uk/fac/sci/physics/research/astro/people/antoinebedard/), [Blouin, S.](https://www.sblouin.com/), **Cheng, S.**, _Buoyant crystals halt the cooling of white dwarf stars_, 2024, accepted to [Nature](https://www.nature.com/articles/s41586-024-07102-y)
 
 [Hwang, H.-C.](http://www.hwang-astro.me), [Ting, Y.-S.](https://www.mso.anu.edu.au/~yting/), **Cheng, S.**, [Speagle, J](https://joshspeagle.com), _Dynamical masses across the Hertzsprung-Russell diagram_, 2024, [MNRAS, 528, 4272](https://ui.adsabs.harvard.edu/abs/2024MNRAS.528.4272H/abstract)
 
