@@ -117,7 +117,7 @@ Advisor: Prof. [Eric Peng (彭逸西)](http://kiaa.pku.edu.cn/info/1011/2660.htm
 
 ## Others: 
 
-[Bédard, A.](https://warwick.ac.uk/fac/sci/physics/research/astro/people/antoinebedard/), [Blouin, S.](https://www.sblouin.com/), **Cheng, S.**, _Buoyant crystals halt the cooling of white dwarf stars_, 2024, accepted to [Nature](https://www.nature.com/articles/s41586-024-07102-y)
+[Bédard, A.](https://warwick.ac.uk/fac/sci/physics/research/astro/people/antoinebedard/), [Blouin, S.](https://www.sblouin.com/), **Cheng, S.**, _Buoyant crystals halt the cooling of white dwarf stars_, 2024, [Nature](https://www.nature.com/articles/s41586-024-07102-y), [(free access link)](https://www.nature.com/articles/s41586-024-07102-y.epdf?sharing_token=6Fo5MeeV6DtHr_ZPzpQPF9RgN0jAjWel9jnR3ZoTv0MUbqXY_GqhdRlxZyDGYY3HSZnFjlZb7aRNzmzancdDVzw-jIFvz6nvI2ifzDYliW4czTow3X_VpRLXsPep6FI_Ha2iFL7JG6e7Abx9Mag-sS0_HCdjjKprVvb7Dzl3_VY%3D)
 
 [Hwang, H.-C.](http://www.hwang-astro.me), [Ting, Y.-S.](https://www.mso.anu.edu.au/~yting/), **Cheng, S.**, [Speagle, J](https://joshspeagle.com), _Dynamical masses across the Hertzsprung-Russell diagram_, 2024, [MNRAS, 528, 4272](https://ui.adsabs.harvard.edu/abs/2024MNRAS.528.4272H/abstract)
 
