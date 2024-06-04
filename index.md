@@ -129,7 +129,7 @@ Advisor: Prof. [Eric Peng (彭逸西)](http://kiaa.pku.edu.cn/info/1011/2660.htm
 
 ## Others: 
 
-Grandón, D. **et al.**, _Impact of baryonic feedback on HSC Y1 weak lensing non-Gaussian statistics_, 2023, [arxiv2403.03807](https://ui.adsabs.harvard.edu/abs/2024arXiv240303807G/abstract)
+[Grandón, D.](https://www.universiteitleiden.nl/en/staffmembers/daniela-grandon-silva#tab-1) **et al.**, _Impact of baryonic feedback on HSC Y1 weak lensing non-Gaussian statistics_, 2023, [arxiv2403.03807](https://ui.adsabs.harvard.edu/abs/2024arXiv240303807G/abstract)
 
 [Hwang, H.-C.](http://www.hwang-astro.me), [Ting, Y.-S.](https://www.mso.anu.edu.au/~yting/), **Cheng, S.**, [Speagle, J](https://joshspeagle.com), _Dynamical masses across the Hertzsprung-Russell diagram_, 2024, [MNRAS, 528, 4272](https://ui.adsabs.harvard.edu/abs/2024MNRAS.528.4272H/abstract)
 
