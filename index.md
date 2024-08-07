@@ -5,7 +5,7 @@ layout: default
 <img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/IMG_0039.jpg?raw=true" width="400" />
 <a href="https://www.bilibili.com/video/BV19L4y1z7hn/?vd_source=5d944598d960afc958b9b557fb1b5bb4"><img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/miaomiao.png?raw=true" width="215" /></a>
 
-I am a postdoc member at the [Institute for Advanced Study](https://www.ias.edu/sns/astrophysics) at Princeton and [Perimeter Institute](https://perimeterinstitute.ca/) in Canada. I got my Ph.D. in astrophysics in 2021 at [Johns Hopkins University](https://physics-astronomy.jhu.edu). I love physics, math, philosophy, [classical music](https://sihaocheng.github.io/music), kendo, and anime, and my [better half](https://siyuyaogy.github.io).
+I am a postdoc member at the [Institute for Advanced Study](https://www.ias.edu/sns/astrophysics) at Princeton and jointly at [Perimeter Institute](https://perimeterinstitute.ca/) in Canada. I got my Ph.D. in astrophysics in 2021 at [Johns Hopkins University](https://physics-astronomy.jhu.edu). I love physics, math, philosophy, [classical music](https://sihaocheng.github.io/music), kendo, and anime, and my [better half](https://siyuyaogy.github.io).
 <!-- Recently, I am reading an astonishing book: [*A Logical Journey: From Gödel to Philosophy*](https://mitpress.mit.edu/books/logical-journey). -->
 
 <h1 id="Research">Research</h1>
@@ -129,7 +129,9 @@ Advisor: Prof. [Eric Peng (彭逸西)](http://kiaa.pku.edu.cn/info/1011/2660.htm
 
 ## Others: 
 
-[Grandón, D.](https://www.universiteitleiden.nl/en/staffmembers/daniela-grandon-silva#tab-1) **et al.**, _Impact of baryonic feedback on HSC Y1 weak lensing non-Gaussian statistics_, 2023, [arxiv2403.03807](https://ui.adsabs.harvard.edu/abs/2024arXiv240303807G/abstract)
+Liu, G., **et al.**, _A new code for low-resolution spectral identification of white dwarf binary candidates_, 2024, [arxiv2408.03038](https://arxiv.org/abs/2408.03038)
+
+[Grandón, D.](https://www.universiteitleiden.nl/en/staffmembers/daniela-grandon-silva#tab-1) **et al.**, _Impact of baryonic feedback on HSC Y1 weak lensing non-Gaussian statistics_, 2024, [arxiv2403.03807](https://ui.adsabs.harvard.edu/abs/2024arXiv240303807G/abstract)
 
 [Hwang, H.-C.](http://www.hwang-astro.me), [Ting, Y.-S.](https://www.mso.anu.edu.au/~yting/), **Cheng, S.**, [Speagle, J](https://joshspeagle.com), _Dynamical masses across the Hertzsprung-Russell diagram_, 2024, [MNRAS, 528, 4272](https://ui.adsabs.harvard.edu/abs/2024MNRAS.528.4272H/abstract)
 
