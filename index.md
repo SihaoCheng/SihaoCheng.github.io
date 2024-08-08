@@ -129,7 +129,7 @@ Advisor: Prof. [Eric Peng (彭逸西)](http://kiaa.pku.edu.cn/info/1011/2660.htm
 
 ## Others: 
 
-Liu, G., **et al.**, _A new code for low-resolution spectral identification of white dwarf binary candidates_, 2024, [arxiv2408.03038](https://arxiv.org/abs/2408.03038)
+Liu, G., **et al.**, _A new code for low-resolution spectral identification of white dwarf binary candidates_, 2024, [arxiv2408.03038](https://arxiv.org/abs/2408.03038), Accepted to A&A
 
 [Grandón, D.](https://www.universiteitleiden.nl/en/staffmembers/daniela-grandon-silva#tab-1) **et al.**, _Impact of baryonic feedback on HSC Y1 weak lensing non-Gaussian statistics_, 2024, [arxiv2403.03807](https://ui.adsabs.harvard.edu/abs/2024arXiv240303807G/abstract)
 
