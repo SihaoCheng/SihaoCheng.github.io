@@ -93,9 +93,9 @@ Advisor: Prof. [Eric Peng (彭逸西)](http://kiaa.pku.edu.cn/info/1011/2660.htm
 
 <!-- **Cheng, S.**, [Yavetz, T.](https://www.ias.edu/scholars/tomer-yavetz), __, in prep. -->
 
-**Cheng, S.**, [Schlaufman, K. C.](http://www.kevinschlaufman.com), & [Caiazzo, I.](https://ilariacaiazzo.com), _A giant planet candidate around a massive white dwarfs_, in prep.
+**Cheng, S.**, [Schlaufman, K. C.](http://www.kevinschlaufman.com), & [Caiazzo, I.](https://ilariacaiazzo.com), _A Candidate Giant Planet Companion to the Massive, Young White Dwarf GALEX J071816.4+373139 Informs the Occurrence of Giant Planets Orbiting B Stars_, 2024, [arxiv:2408.03985](https://ui.adsabs.harvard.edu/abs/2024arXiv240803985C/abstract)
 
-**Cheng, S.**, et al., _Cosmological constraints from weak lensing scattering transform using HSC Y1 data_, 2024, [arxiv:2404.16085](https://arxiv.org/abs/2404.16085)
+**Cheng, S.**, et al., _Cosmological constraints from weak lensing scattering transform using HSC Y1 data_, 2024, [arxiv:2404.16085](https://ui.adsabs.harvard.edu/abs/2024arXiv240416085C/abstract)
 
 **Cheng, S.**, [Morel, R.](https://www.di.ens.fr/rudy.morel/), [Allys, E.](http://www.lra.ens.fr/~allys/index.html), [Ménard, B.](https://physics-astronomy.jhu.edu/directory/brice-menard/) & [Mallat, S.](https://www.di.ens.fr/~mallat/), _Scattering Spectra for Physics_, 2024, [PNAS Nexus](https://academic.oup.com/pnasnexus/article/3/4/pgae103/7623818)
 
@@ -129,7 +129,7 @@ Advisor: Prof. [Eric Peng (彭逸西)](http://kiaa.pku.edu.cn/info/1011/2660.htm
 
 ## Others: 
 
-Liu, G., **et al.**, _A new code for low-resolution spectral identification of white dwarf binary candidates_, 2024, [arxiv2408.03038](https://arxiv.org/abs/2408.03038), Accepted to A&A
+Liu, G., **et al.**, _A new code for low-resolution spectral identification of white dwarf binary candidates_, 2024, [arxiv2408.03038](https://ui.adsabs.harvard.edu/abs/2024arXiv240803038L/abstract), Accepted to A&A
 
 [Grandón, D.](https://www.universiteitleiden.nl/en/staffmembers/daniela-grandon-silva#tab-1) **et al.**, _Impact of baryonic feedback on HSC Y1 weak lensing non-Gaussian statistics_, 2024, [arxiv2403.03807](https://ui.adsabs.harvard.edu/abs/2024arXiv240303807G/abstract)
 
