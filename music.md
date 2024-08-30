@@ -8,6 +8,10 @@ I started to learn playing the piano since primary school, and the violin since 
 
 Below, I list some recordings I was listening recently and love so much. I hope my readers who come across this page will resonate. I will update this list regularly.
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dL0JLNt_3EE?si=ZKpMetU_HQPC3A7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Arrau's beethoven sonata. So convincing! Somehow I feel there is a similarity between this one and Mozart's A minor sonata.
+
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/hrz_KMQz4FE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Fou Ts'ong's Chopin Nocturnes! Finally I started to listen to Chopin carefully, thanks to a masterclass video of Fou Ts'ong. -->
 
