@@ -9,7 +9,7 @@ I am a postdoc member at the [Institute for Advanced Study](https://www.ias.edu/
 <!-- Recently, I am reading an astonishing book: [*A Logical Journey: From Gödel to Philosophy*](https://mitpress.mit.edu/books/logical-journey). -->
 
 <h1 id="Research">Research</h1>
-I am interested in using statistical analysis to reveal beautiful physics and to understand our Universe. My interests range from observational cosmology to stellar physics and planets. My work led to cosmological applications of a new statistic that borrows ideas from deep learning, a discovery of freezing stars that shine out of gravitational sedimentation, and a "Jupiter" candidate that may open a unique window to study planets around massive stars. I am also working on a potential discovery of sharp transition of stellar distribution in our milkyway, and a search for Planet X, a hypothesized new planet in our solar system.
+I am interested in using statistical analysis to reveal beautiful physics and make discoveries. My interests range from observational cosmology to galactic dynamics, stellar physics, and planets. My work led to cosmological applications of a new statistic that borrows ideas from deep learning, a discovery of freezing stars that shine out of gravitational sedimentation, and a "Jupiter" candidate that opens a unique window to study exoplanets around massive stars. I am also working on a new method to map stellar orbit distribution in milkyway and a search for Planet X, a hypothesized new planet in our solar system.
 <br>
 
 ## How to quantify random fields or textures?
