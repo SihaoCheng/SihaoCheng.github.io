@@ -10,7 +10,7 @@ In this map, multiple new features are identified, including two shocking ones: 
 
 Click the plot below to an interactive tool of visualization.
 
-<a href="https://sihaocheng.github.io/phase_space_150_err20_jr0-5_jz0-0.2_m17.html"><img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/phase_space_marked.png?raw=true" width="800" />
+<a href="https://sihaocheng.github.io/phase_space_100_err20_0-0.05_jz0.5-_m17"><img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/phase_space_marked.png?raw=true" width="800" />
 
 Explanation of coordinates: there are in total 4D for the in-disk motions: (x, y, vx, vy), or equivalently into action-angle variables: 
 (jphi, angle phi) for guiding center motion and (jr, angle r) for the epicycle motion. 
