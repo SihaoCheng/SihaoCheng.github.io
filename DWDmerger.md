@@ -29,12 +29,10 @@ Then, we calculate the double-WD merger rate as a function of the product mass. 
 <img src="https://pages.jh.edu/~scheng40/DWDmerger/images/merger_rate_Mar2.png" width="100%" />
 
 ## Contacts
-s.cheng@jhu.edu
+scheng@ias.edu
 <br>
 +1 443 207 1532
 <br>
-Bloomberg 506
+Institute for Advanced Study
 <br>
-3400 N. Charles St., Johns Hopkins University
-<br>
-Baltimore, MD21218, USA
+Princeton, NJ 08540, USA
