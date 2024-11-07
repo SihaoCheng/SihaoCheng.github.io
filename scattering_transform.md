@@ -51,12 +51,10 @@ For parameter inference, we have two papers on cosmological parameter inference,
 
 
 <h1 id="Contacts">Contacts</h1>
-s.cheng@jhu.edu
+scheng@ias.edu
 <br>
 +1 443 207 1532
 <br>
-Bloomberg 506
+Institute for Advanced Study
 <br>
-3400 N. Charles St., Johns Hopkins University
-<br>
-Baltimore, MD21218, USA
+Princeton, NJ 08540, USA
