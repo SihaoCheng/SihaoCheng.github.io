@@ -13,10 +13,12 @@ I am interested in using statistical analysis of survey data to reveal beautiful
 <br>
 
 ## Are there planets around massive stars?
+<a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240803985C/abstract"><img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/WDPL.png?raw=true" width="300" /></a>
+<br>
 
 Despite the success in finding more than 5000 extra-solar planets, traditional methods face challenges in finding planets around stars over 3 Msun. I work on a new method by searching around massive white dwarfs -- the remnants of massive stars. In Spitzer archival data, I identified a 4-Jupiter-mass [planet candidate](https://ui.adsabs.harvard.edu/abs/2024arXiv240803985C/abstract), and I am the PI of a JWST Cycle 3 [program](https://ui.adsabs.harvard.edu/abs/2024jwst.prop.6410C/abstract) for its spectroscopic follow-up. This technique opens a new window to study planets around massive stars. Interestingly, as shown in the figure below, in these systems the giant planets (Jupiter-sized) are even larger than the host star (Earth-sized)!
 
-<a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240803985C/abstract"><img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/WDPL.png?raw=true" width="300" /></a>
+
 
 
 ## How to quantify random fields or textures?
