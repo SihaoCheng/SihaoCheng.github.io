@@ -9,7 +9,7 @@ I am a postdoc member at the [Institute for Advanced Study](https://www.ias.edu/
 <!-- Recently, I am reading an astonishing book: [*A Logical Journey: From Gödel to Philosophy*](https://mitpress.mit.edu/books/logical-journey). -->
 
 <h1 id="Research">Research</h1>
-I am interested in using statistical analysis to reveal beautiful physics and make discoveries. My interests range from observational cosmology to galactic dynamics, stellar physics, and planets. My work led to cosmological applications of a new statistic that borrows ideas from deep learning, a discovery of freezing stars that shine out of gravitational sedimentation, and a "Jupiter" candidate that opens a unique window to study exoplanets around massive stars. I am also working on [a new method](https://sihaocheng.github.io/phase_space.html) to map stellar orbit distribution in milkyway and a search for Planet X, a hypothesized new planet in our solar system.
+I am interested in using statistical analysis of survey data to reveal beautiful physics and make discoveries. In this data-rich era, we are limited less by the size of data but more by the ideas to explore it. My innovative analyses have led to several discoveries and contribution across cosmic scales, including cosmological applications of a new statistic that borrows ideas from deep learning, a discovery of freezing stars that shine out of gravitational sedimentation, the best measurement of white dwarf merger rate, and a "Jupiter" candidate that opens a unique window to study exoplanets around massive stars. I am also working on [a new method](https://sihaocheng.github.io/phase_space.html) to map stellar orbit distribution in milkyway and a search for Planet X, a hypothesized new planet in our solar system.
 <br>
 
 ## Are there planets around massive stars?
@@ -17,8 +17,6 @@ I am interested in using statistical analysis to reveal beautiful physics and ma
 Despite the success in finding more than 5000 extra-solar planets, traditional methods face challenges in finding planets around stars over 3 Msun. I work on a new method by searching around massive white dwarfs -- the remnants of massive stars. In Spitzer archival data, I identified a 4-Jupiter-mass [planet candidate](https://ui.adsabs.harvard.edu/abs/2024arXiv240803985C/abstract), and I am the PI of a JWST Cycle 3 [program](https://ui.adsabs.harvard.edu/abs/2024jwst.prop.6410C/abstract) for its spectroscopic follow-up. This technique opens a new window to study planets around massive stars. Interestingly, as shown in the figure below, in these systems the giant planets (Jupiter-sized) are even larger than the host star (Earth-sized)!
 
 <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240803985C/abstract"><img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/WDPL.png?raw=true" width="300" /></a>
-
-
 
 
 ## How to quantify random fields or textures?
