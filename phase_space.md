@@ -2,7 +2,7 @@
 layout: project_page
 ---
 
-# a clear, flat view of stellar motion with Gaia
+# a clear, flat map of stellar motion with Gaia
 
 Using two new techniques, I am mapping the phase space with unprecedented sharpness and uniformity. 
 
