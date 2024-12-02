@@ -2,11 +2,20 @@
 layout: project_page
 ---
 
-# a clear, flat view of stellar motion in Gaia
+# a clear, flat view of stellar motion with Gaia
 
-Using two new techniques, I am mapping the phase space with unprecedented sharpness and uniformity.
+Using two new techniques, I am mapping the phase space with unprecedented sharpness and uniformity. 
+
+The figure below illustrates that "slicing" the phase space provides much clearer view of the structures in the high dimension phase space, compared to the commonly used "projection" (marginalization) method.
+
+<img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/action_action.png?raw=true" width="300" />
+
 
 In this map, multiple new features are identified, including two shocking ones: 1. a tilted under-density; 2. a tilted cliff of metallicity.
+
+<img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/guiding_center.png?raw=true" width="400" />
+
+
 
 Click the plot below to an interactive tool of visualization.
 
