@@ -9,8 +9,13 @@ I am a postdoc member at the [Institute for Advanced Study](https://www.ias.edu/
 <!-- Recently, I am reading an astonishing book: [*A Logical Journey: From Gödel to Philosophy*](https://mitpress.mit.edu/books/logical-journey). -->
 
 <h1 id="Research">Research</h1>
-I am interested in using statistical analysis of survey data to reveal beautiful physics and make discoveries. In this data-rich era, we are limited less by the size of data but more by the ideas to explore it. My innovative analyses have led to several discoveries and contribution across cosmic scales, including cosmological applications of a new statistic that borrows ideas from deep learning, a discovery of freezing stars that shine out of gravitational sedimentation, the best measurement of white dwarf merger rate, and a "Jupiter" candidate that opens a unique window to study exoplanets around massive stars. I am also working on [a new method](https://sihaocheng.github.io/phase_space.html) to map stellar orbit distribution in milkyway and a search for Planet X, a hypothesized new planet in our solar system.
+I am interested in using statistical analysis of survey data to reveal beautiful physics and make discoveries. In this data-rich era, we are limited less by the size of data but more by the ideas to explore it. My innovative analyses have led to several discoveries and contribution across cosmic scales, including cosmological applications of a new statistic that borrows ideas from deep learning, a discovery of freezing stars that shine out of gravitational sedimentation, the best measurement of white dwarf merger rate, and a "Jupiter" candidate that opens a unique window to study exoplanets around massive stars. 
+
+I am also working on making [**a clear, flat map of stellar motion in milkyway**](https://sihaocheng.github.io/phase_space.html) with Gaia and a search for Planet X, a hypothesized new planet in our solar system.
 <br>
+
+<a href="https://sihaocheng.github.io/phase_space.html"><img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/guiding_center.png?raw=true" width="400" />
+
 
 ## Are there planets around massive stars?
 <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240803985C/abstract"><img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/WDPL.png?raw=true" width="300" /></a>
