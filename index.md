@@ -9,9 +9,11 @@ I am a postdoc member at the [Institute for Advanced Study](https://www.ias.edu/
 <!-- Recently, I am reading an astonishing book: [*A Logical Journey: From Gödel to Philosophy*](https://mitpress.mit.edu/books/logical-journey). -->
 
 <h1 id="Research">Research</h1>
-I am interested in using statistical analysis of survey data to reveal beautiful physics and make discoveries. In this data-rich era, we are limited less by the size of data but more by the ideas to explore it. My innovative analyses have led to several discoveries and impactful contributions across cosmic scales, including cosmological applications of a new statistic that borrows ideas from deep learning, a discovery of freezing stars that shine out of gravitational sedimentation, the best measurement of white dwarf merger rate, and a "Jupiter" candidate that opens a unique window to study exoplanets around massive stars. 
+I am interested in using statistical analysis of survey data to reveal beautiful physics and make discoveries. In this data-rich era, we are limited less by the size of data but more by the ideas to explore it. My innovative analyses have led to several discoveries and impactful contributions across cosmic scales, including 1. cosmological applications of a new statistic that borrows ideas from deep learning; 2. a discovery of freezing stars that shine out of gravitational sedimentation; 3. the best measurement of white dwarf merger rate using kinematic age; and 4. a "Jupiter" candidate that opens a unique window to study exoplanets around massive stars. 
 
-I am also working on making [**a clear, flat map of stellar motion in milkyway**](https://sihaocheng.github.io/phase_space.html) with Gaia and a search for Planet X, a hypothesized new planet in our solar system.
+
+
+I am also working on 5. [**a much better (clear and unbiased) map of the Milky Way phase space**](https://sihaocheng.github.io/phase_space.html) using Gaia data and advanced mapping techniques and 6. a search for Planet X, a hypothesized new planet in our solar system.
 <br>
 
 <a href="https://sihaocheng.github.io/phase_space.html"><img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/guiding_center.png?raw=true" width="400" />
