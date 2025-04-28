@@ -17,7 +17,9 @@ I am interested in using statistical analysis of survey data to reveal beautiful
 4. a "Jupiter" candidate that opens a unique window to study exoplanets around massive stars. 
 
 
-I am also working on 5. [**a much better (clear and unbiased) map of the Milky Way phase space**](https://sihaocheng.github.io/phase_space.html) using Gaia data and advanced mapping techniques and 6. a search for Planet X, a hypothesized new planet in our solar system.
+I am also working on 
+5. [**a much better (clear and unbiased) map of the Milky Way phase space**](https://sihaocheng.github.io/phase_space.html) using Gaia data and advanced mapping techniques and 
+6. a search for Planet X, a hypothesized new planet in our solar system.
 <br>
 
 <a href="https://sihaocheng.github.io/phase_space.html"><img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/guiding_center.png?raw=true" width="400" />
