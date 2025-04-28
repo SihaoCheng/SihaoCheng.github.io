@@ -113,7 +113,7 @@ Advisor: Prof. [Eric Peng (彭逸西)](http://kiaa.pku.edu.cn/info/1012/2660.htm
 
 **Cheng, S.**, [Schlaufman, K. C.](http://www.kevinschlaufman.com), & [Caiazzo, I.](https://ilariacaiazzo.com), _A Candidate Giant Planet Companion to the Massive, Young White Dwarf GALEX J071816.4+373139 Informs the Occurrence of Giant Planets Orbiting B Stars_, 2024, [arxiv:2408.03985](https://ui.adsabs.harvard.edu/abs/2024arXiv240803985C/abstract)
 
-**Cheng, S.**, et al., _Cosmological constraints from weak lensing scattering transform using HSC Y1 data_, 2024, [arxiv:2404.16085](https://ui.adsabs.harvard.edu/abs/2024arXiv240416085C/abstract), Accepted to JCAP
+**Cheng, S.**, et al., _Cosmological constraints from weak lensing scattering transform using HSC Y1 data_, 2025, [JCAP, 01, 006](https://ui.adsabs.harvard.edu/abs/2025JCAP...01..006C/abstract)
 
 **Cheng, S.**, [Morel, R.](https://www.di.ens.fr/rudy.morel/), [Allys, E.](http://www.lra.ens.fr/~allys/index.html), [Ménard, B.](https://physics-astronomy.jhu.edu/directory/brice-menard/) & [Mallat, S.](https://www.di.ens.fr/~mallat/), _Scattering Spectra for Physics_, 2024, [PNAS Nexus](https://academic.oup.com/pnasnexus/article/3/4/pgae103/7623818)
 
