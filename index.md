@@ -118,6 +118,8 @@ Advisor: Prof. [Eric Peng (彭逸西)](http://kiaa.pku.edu.cn/info/1012/2660.htm
 
 <!-- **Cheng, S.**, [Yavetz, T.](https://www.ias.edu/scholars/tomer-yavetz), __, in prep. -->
 
+**Cheng, S.**, [Jiaxuan Li](https://www.jiaxuanli.me/), & Eritas Yang, _Discovery of a dwarf planet candidate in an extremely wide orbit: 2017 OF201_, 2025, [arxiv:2505.15806](https://arxiv.org/abs/2505.15806)
+
 **Cheng, S.**, [Schlaufman, K. C.](http://www.kevinschlaufman.com), & [Caiazzo, I.](https://ilariacaiazzo.com), _A Candidate Giant Planet Companion to the Massive, Young White Dwarf GALEX J071816.4+373139 Informs the Occurrence of Giant Planets Orbiting B Stars_, 2024, [arxiv:2408.03985](https://ui.adsabs.harvard.edu/abs/2024arXiv240803985C/abstract)
 
 **Cheng, S.**, et al., _Cosmological constraints from weak lensing scattering transform using HSC Y1 data_, 2025, [JCAP, 01, 006](https://ui.adsabs.harvard.edu/abs/2025JCAP...01..006C/abstract)
