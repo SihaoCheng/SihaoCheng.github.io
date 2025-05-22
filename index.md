@@ -13,14 +13,15 @@ I am interested in using statistical analysis of survey data to reveal beautiful
 
 1. cosmological applications of a new statistic that borrows ideas from deep learning;
 2. a discovery of freezing stars that shine out of gravitational sedimentation;
-3. the best measurement of white dwarf merger rate using kinematic age; and
-4. a "Jupiter" candidate that opens a unique window to study exoplanets around massive stars. 
+3. the best measurement of white dwarf merger rate using kinematic age;
+4. a "Jupiter" candidate that opens a unique window to study exoplanets around massive stars;
+5. a [large object](https://ui.adsabs.harvard.edu/abs/2025arXiv250515806C/abstract) on an extremely wide orbit in our solar system.
 
 
 I am also working on 
 
-5. [**a much better (clear and unbiased) map of the Milky Way phase space**](https://sihaocheng.github.io/phase_space.html) using Gaia data and advanced mapping techniques and 
-6. a search for Planet X, a hypothesized new planet in our solar system.
+6. [**a much better (clear and unbiased) map of the Milky Way phase space**](https://sihaocheng.github.io/phase_space.html) using Gaia data and advanced mapping techniques and 
+7. a search for Planet X, a hypothesized new planet in our solar system.
 <br>
 
 <a href="https://sihaocheng.github.io/phase_space.html"><img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/guiding_center.png?raw=true" width="400" />
