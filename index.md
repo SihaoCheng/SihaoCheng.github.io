@@ -9,14 +9,16 @@ I am a postdoc member at the [Institute for Advanced Study](https://www.ias.edu/
 <!-- Recently, I am reading an astonishing book: [*A Logical Journey: From Gödel to Philosophy*](https://mitpress.mit.edu/books/logical-journey). -->
 
 <h1 id="Research">Research</h1>
+
+NEWS! I found a very large object in our solar system, on an extremely wide orbit. It is likely large enough to qualify as a dwarf planet. It's orbit is so wide that it likely originate from the inner Oort cloud, a remote region in the solar system we still know little about.  Here is [our paper](https://ui.adsabs.harvard.edu/abs/2025arXiv250515806C/abstract).  Media articles explaining this discovery can be found here: [IAS](https://www.ias.edu/news/extreme-cousin-pluto-possible-dwarf-planet-discovered-solar-systems-edge), [Princeton University](https://web.astro.princeton.edu/news/princeton-astronomers-discover-extraordinary-distant-object-solar-systems-edge), [New Scientist](https://www.newscientist.com/article/2481477-new-dwarf-planet-spotted-at-the-edge-of-the-solar-system/#:~:text=A%20potential%20dwarf%20planet%20has,Planet%209%20or%20Planet%20X), [Phys.org](https://phys.org/news/2025-05-extreme-cousin-pluto-dwarf-planet.html). 
+
+
 I am interested in using statistical analysis of survey data to reveal beautiful physics and make discoveries. In this data-rich era, we are limited less by the size of data but more by the ideas to explore it. My innovative analyses have led to several discoveries and impactful contributions across cosmic scales, including
 
 1. cosmological applications of a new statistic that borrows ideas from deep learning;
 2. a discovery of freezing stars that shine out of gravitational sedimentation;
 3. the best measurement of white dwarf merger rate using kinematic age;
 4. a "Jupiter" candidate that opens a unique window to study exoplanets around massive stars;
-5. a [large object](https://ui.adsabs.harvard.edu/abs/2025arXiv250515806C/abstract) on an extremely wide orbit in our solar system.
-
 
 I am also working on 
 
