@@ -5,7 +5,7 @@ layout: default
 <img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/IMG_0039.jpg?raw=true" width="400" />
 <a href="https://www.bilibili.com/video/BV19L4y1z7hn/?vd_source=5d944598d960afc958b9b557fb1b5bb4"><img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/miaomiao.png?raw=true" width="215" /></a>
 
-I am a postdoc member at the [Institute for Advanced Study](https://www.ias.edu/sns/astrophysics) at Princeton and a visiting fellow at [Perimeter Institute](https://perimeterinstitute.ca/) in Canada. I got my Ph.D. in astrophysics in 2021 at [Johns Hopkins University](https://physics-astronomy.jhu.edu). I love physics, math, philosophy, [classical music](https://sihaocheng.github.io/music), kendo, and anime, and my [better half](https://siyuyaogy.github.io).
+I am a postdoc member at the [Institute for Advanced Study](https://www.ias.edu/sns/astrophysics) in Princeton and a visiting fellow at [Perimeter Institute](https://perimeterinstitute.ca/) in Canada. I got my Ph.D. in astrophysics in 2021 at [Johns Hopkins University](https://physics-astronomy.jhu.edu). I love physics, math, philosophy, [classical music](https://sihaocheng.github.io/music), kendo, and anime, and my [better half](https://siyuyaogy.github.io).
 <!-- Recently, I am reading an astonishing book: [*A Logical Journey: From Gödel to Philosophy*](https://mitpress.mit.edu/books/logical-journey). -->
 
 <h1 id="Research">Research</h1>
