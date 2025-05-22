@@ -22,6 +22,7 @@ I am interested in using statistical analysis of survey data to reveal beautiful
 2. a discovery of freezing stars that shine out of gravitational sedimentation;
 3. the best measurement of white dwarf merger rate using kinematic age;
 4. a "Jupiter" candidate that opens a unique window to study exoplanets around massive stars;
+5. a dwarf planet candidate in an extremely wide orbit around the Sun.
 
 I am also working on 
 
