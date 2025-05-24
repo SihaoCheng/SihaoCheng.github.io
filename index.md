@@ -165,9 +165,11 @@ Advisor: Prof. [Eric Peng (彭逸西)](http://kiaa.pku.edu.cn/info/1012/2660.htm
 
 ## Others: 
 
-Liu, G., **et al.**, _A new code for low-resolution spectral identification of white dwarf binary candidates_, 2024, [A&A, 690, A29](https://ui.adsabs.harvard.edu/abs/2024A%26A...690A..29L/abstract)
+Novaes, C., **et al.**, _Cosmology from HSC Y1 Weak Lensing with Combined Higher-Order Statistics and Simulation-based Inference_, 2025, [PRD, 111, 083510](https://ui.adsabs.harvard.edu/abs/2025PhRvD.111h3510N/abstract)
 
-[Grandón, D.](https://www.universiteitleiden.nl/en/staffmembers/daniela-grandon-silva#tab-1) **et al.**, _Impact of baryonic feedback on HSC Y1 weak lensing non-Gaussian statistics_, 2024, [PRD, 110, 103539](https://ui.adsabs.harvard.edu/abs/2024arXiv240303807G/abstract)  
+[Grandón, D.](https://www.universiteitleiden.nl/en/staffmembers/daniela-grandon-silva#tab-1) **et al.**, _Impact of baryonic feedback on HSC Y1 weak lensing non-Gaussian statistics_, 2024, [PRD, 110, 103539](https://ui.adsabs.harvard.edu/abs/2024PhRvD.110j3539G/abstract)  
+
+Liu, G., **et al.**, _A new code for low-resolution spectral identification of white dwarf binary candidates_, 2024, [A&A, 690, A29](https://ui.adsabs.harvard.edu/abs/2024A%26A...690A..29L/abstract)
 
 [Hwang, H.-C.](http://www.hwang-astro.me), [Ting, Y.-S.](https://www.mso.anu.edu.au/~yting/), **Cheng, S.**, [Speagle, J](https://joshspeagle.com), _Dynamical masses across the Hertzsprung-Russell diagram_, 2024, [MNRAS, 528, 4272](https://ui.adsabs.harvard.edu/abs/2024MNRAS.528.4272H/abstract)
 
