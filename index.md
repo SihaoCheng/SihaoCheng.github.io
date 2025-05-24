@@ -21,10 +21,10 @@ NEWS! While searching for [Planet X/Planet 9](https://en.wikipedia.org/wiki/Plan
 I am interested in using statistical analysis of survey data to reveal beautiful physics and make discoveries. In this data-rich era, we are limited less by the size of data but more by the ideas to explore it. My innovative analyses have led to several discoveries and impactful contributions across cosmic scales, including
 
 1. cosmological applications of a new statistic that borrows ideas from deep learning;
-2. a discovery of freezing stars that shine out of gravitational sedimentation;
+2. discovery of freezing stars that shine out of gravitational sedimentation;
 3. the best measurement of white dwarf merger rate using kinematic age;
-4. a "Jupiter" candidate that opens a unique window to study exoplanets around massive stars;
-5. a dwarf planet candidate in an extremely wide orbit around the Sun.
+4. discovery of a "Jupiter" candidate that opens a unique window to study exoplanets around massive stars;
+5. discovery of a dwarf planet candidate in an extremely wide orbit around the Sun.
 
 I am also working on 
 
