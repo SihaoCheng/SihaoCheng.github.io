@@ -4,11 +4,45 @@ layout: default
 
 <img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/IMG_0039.jpg?raw=true" width="400" />
 
-我是程思浩，现在在普林斯顿高等研究院([IAS](https://www.ias.edu))做天体物理博士后研究. 之前我在约翰霍普金斯大学([JHU](https://physics-astronomy.jhu.edu))获得博士学位并在巴黎高师([ENS](https://csd.ens.psl.eu/))访问一年。我对物理、数学、哲学、古典音乐、剑道、动漫都很感兴趣。
+我是程思浩，现在在普林斯顿高等研究院([IAS](https://www.ias.edu))做天体物理博士后研究. 之前我在[北京大学](http://astro.pku.edu.cn/)本科毕业，然后在约翰霍普金斯大学([JHU](https://physics-astronomy.jhu.edu))获得博士学位并在巴黎高师([ENS](https://csd.ens.psl.eu/))访问一年。我之前是一名天文爱好者。
+<!--我对物理、数学、哲学、古典音乐、剑道、动漫都很感兴趣。-->
 
 <h1 id="Research">研究</h1>
-我用统计方法分析巡天数据，并研究其中的天体物理问题。我的研究兴趣涉及宇宙学、恒星物理、系外行星。我过去的工作包括发现了一类靠引力发光的特殊星体，以及将一种受神经网络启发而设计的新统计量应用到宇宙学中。 
+
+NEWS! 在寻找[第九行星/行星X](https://en.wikipedia.org/wiki/Planet_Nine)时，我偶然发现了一个[轨道古怪的遥远天体](https://www.ias.edu/news/extreme-cousin-pluto-possible-dwarf-planet-discovered-solar-systems-edge), 小行星中心的临时编号是[2017 OF201](https://en.wikipedia.org/wiki/2017_OF201)。由于足够大，它大概率可以满足[**矮行星**](https://en.wikipedia.org/wiki/Dwarf_planet)的标准，同时他的轨道延伸到**非常远**，很可能来自太阳系中神秘的[奥尔特云](https://en.wikipedia.org/wiki/Hills_cloud)区域。它的轨道参数还对第九行星的假说造成了挑战。[这里](https://ui.adsabs.harvard.edu/abs/2025arXiv250515806C/abstract)可以查看我们的学术文章。以下是一些媒体的报道: [IAS](https://www.ias.edu/news/extreme-cousin-pluto-possible-dwarf-planet-discovered-solar-systems-edge), [Princeton University](https://web.astro.princeton.edu/news/princeton-astronomers-discover-extraordinary-distant-object-solar-systems-edge), and [其他](https://www.ias.edu/news/featured-story/304516). 非常感谢我的合作者[李嘉轩](https://www.jiaxuanli.me/)和[杨晴](https://web.astro.princeton.edu/people/eritas-yang)付出的努力。
+
+
+<img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/tno2.png?raw=true" width="500" />
+<img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/tno.png?raw=true" width="500" />
+
+===========================
+
+我用统计方法分析巡天数据，并研究其中的天体物理问题。我的研究兴趣涉及宇宙学、恒星物理、动力学、(系外)行星。
+
+我过去的工作成果包括：
+
+1. 展现了一种受神经网络启发而设计的统计量在宇宙学中的应用前景
+2. 发现了一类古怪的恒星，它们内部正在结晶并且依靠引力能发光
+3. 得到了最精确的双白矮星合并频率的测量
+4. 发现了一颗“木星候选体“，为研究大质量恒星旁的行星开启了新窗口
+5. 在太阳系中发现了一个古怪的矮行星候选体，有可能挑战第九行星的假说
 <br>
+
+我现在正在进行的工作包括：
+
+6. 用新方法绘制第一幅银河系相空间的清晰且平整的[**地图**](https://sihaocheng.github.io/phase_space.html)
+7. 搜索太阳系内可能存在的未知行星（第九行星/行星X）
+<br>
+
+<a href="https://sihaocheng.github.io/phase_space.html"><img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/guiding_center.png?raw=true" width="400" />
+
+
+## 大质量恒星身旁也有行星吗?
+<a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240803985C/abstract"><img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/WDPL.png?raw=true" width="300" /></a>
+<br>
+
+传统方法很难发现大质量恒星旁的行星，因此，尽管人们已经发现了超过5000颗系外行星，却几乎没有一例在大质量恒星系统中。不过，大质量恒星“死去”后会演化成白矮星，在这样的系统中发现行星就容易很多了。我在斯皮策太空望远镜的数据库中找到一颗4倍木星质量的[行星候选体](https://ui.adsabs.harvard.edu/abs/2024arXiv240803985C/abstract), 并成功申请到了詹姆斯韦伯太空望远镜的[观测时间](https://ui.adsabs.harvard.edu/abs/2024jwst.prop.6410C/abstract)来进行光谱观测。这种新方法为研究大质量恒星旁的行星打开了新的窗口。同时，这种系统很有意思的一点是，其中的行星（类似木星大小）比宿主星还要大很多，因为这些宿主是白矮星（约地球大小）!
+
 
 ## 如何统计地描述一个图片/物理场的形态？
 <a href="https://sihaocheng.github.io/scattering_transform"><img src="https://github.com/SihaoCheng/scattering_transform/blob/master/figures/image_generation.png?raw=true" width="580" /></a>
