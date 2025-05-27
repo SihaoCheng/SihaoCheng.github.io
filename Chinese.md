@@ -4,7 +4,7 @@ layout: default
 
 <img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/IMG_0039.jpg?raw=true" width="400" />
 
-我是程思浩，现在在普林斯顿高等研究院([IAS](https://www.ias.edu))做天体物理博士后研究. 之前我在[北京大学](http://astro.pku.edu.cn/)本科毕业，然后在约翰霍普金斯大学([JHU](https://physics-astronomy.jhu.edu))获得博士学位并在巴黎高师([ENS](https://csd.ens.psl.eu/))访问一年。我之前是一名天文爱好者。
+我是程思浩，现在在普林斯顿高等研究院([IAS](https://www.ias.edu))做天体物理博士后研究. 之前我在[北京大学](http://astro.pku.edu.cn/)本科毕业，然后在约翰霍普金斯大学([JHU](https://physics-astronomy.jhu.edu))获得博士学位并在巴黎高师([ENS](https://csd.ens.psl.eu/))访问一年。我在称为专业天文学家之前是一名天文爱好者。
 <!--我对物理、数学、哲学、古典音乐、剑道、动漫都很感兴趣。-->
 
 <h1 id="Research">研究</h1>
