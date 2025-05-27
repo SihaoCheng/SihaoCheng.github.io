@@ -122,11 +122,13 @@ NEWS! 在寻找[第九行星/行星X](https://en.wikipedia.org/wiki/Planet_Nine)
 
 <!-- **Cheng, S.**, [Yavetz, T.](https://www.ias.edu/scholars/tomer-yavetz), __, in prep. -->
 
-**Cheng, S.**, [Schlaufman, K. C.](http://www.kevinschlaufman.com), & [Caiazzo, I.](https://ilariacaiazzo.com), _A giant planet candidate around a massive white dwarfs_, submit soon
+**Cheng, S.**, [Jiaxuan Li](https://www.jiaxuanli.me/), & [Eritas Yang](https://web.astro.princeton.edu/people/eritas-yang), _Discovery of a dwarf planet candidate in an extremely wide orbit: 2017 OF201_, 2025, [arxiv:2505.15806](https://arxiv.org/abs/2505.15806)
 
-**Cheng, S.**, et al., _Weak lensing scattering transform using HSC Y1 data_, submit soon
+**Cheng, S.**, [Schlaufman, K. C.](http://www.kevinschlaufman.com), & [Caiazzo, I.](https://ilariacaiazzo.com), _A Candidate Giant Planet Companion to the Massive, Young White Dwarf GALEX J071816.4+373139 Informs the Occurrence of Giant Planets Orbiting B Stars_, 2024, [arxiv:2408.03985](https://ui.adsabs.harvard.edu/abs/2024arXiv240803985C/abstract)
 
-**Cheng, S.**, [Morel, R.](https://www.di.ens.fr/rudy.morel/), [Allys, E.](http://www.lra.ens.fr/~allys/index.html), [Ménard, B.](https://physics-astronomy.jhu.edu/directory/brice-menard/) & [Mallat, S.](https://www.di.ens.fr/~mallat/), _Scattering Spectra for Physics_, 2024, [accepted to PNAS Nexus](https://arxiv.org/abs/2306.17210)
+**Cheng, S.**, et al., _Cosmological constraints from weak lensing scattering transform using HSC Y1 data_, 2025, [JCAP, 01, 006](https://ui.adsabs.harvard.edu/abs/2025JCAP...01..006C/abstract)
+
+**Cheng, S.**, [Morel, R.](https://www.di.ens.fr/rudy.morel/), [Allys, E.](http://www.lra.ens.fr/~allys/index.html), [Ménard, B.](https://physics-astronomy.jhu.edu/directory/brice-menard/) & [Mallat, S.](https://www.di.ens.fr/~mallat/), _Scattering Spectra for Physics_, 2024, [PNAS Nexus](https://academic.oup.com/pnasnexus/article/3/4/pgae103/7623818)
 
 **Cheng, S.** & [Ménard, B.](https://physics-astronomy.jhu.edu/directory/brice-menard/), _How to quantify fields and textures? A guide to the scattering transoform_, 2021, [arXiv:2112.01288](https://arxiv.org/abs/2112.01288)
 
@@ -145,7 +147,6 @@ NEWS! 在寻找[第九行星/行星X](https://en.wikipedia.org/wiki/Planet_Nine)
 **Cheng, S.**, [Cheng, S.](https://www.researchgate.net/profile/Simiao-Cheng-2), _Meteor spectral observation with DSLR, normal lens and prism_, 2011, [JIMO, 39, 39](https://ui.adsabs.harvard.edu/abs/2011JIMO...39...39C/abstract)
 
 
-
 ## 重要:
 
 [Bédard, A.](https://warwick.ac.uk/fac/sci/physics/research/astro/people/antoinebedard/), [Blouin, S.](https://www.sblouin.com/), **Cheng, S.**, _Buoyant crystals halt the cooling of white dwarf stars_, 2024, [Nature](https://www.nature.com/articles/s41586-024-07102-y), [(free access link)](https://www.nature.com/articles/s41586-024-07102-y.epdf?sharing_token=6Fo5MeeV6DtHr_ZPzpQPF9RgN0jAjWel9jnR3ZoTv0MUbqXY_GqhdRlxZyDGYY3HSZnFjlZb7aRNzmzancdDVzw-jIFvz6nvI2ifzDYliW4czTow3X_VpRLXsPep6FI_Ha2iFL7JG6e7Abx9Mag-sS0_HCdjjKprVvb7Dzl3_VY%3D)
@@ -158,7 +159,11 @@ NEWS! 在寻找[第九行星/行星X](https://en.wikipedia.org/wiki/Planet_Nine)
 
 ## 其他: 
 
-Grandón, D. **et al.**, _Impact of baryonic feedback on HSC Y1 weak lensing non-Gaussian statistics_, 2023, [arxiv2403.03807](https://ui.adsabs.harvard.edu/abs/2024arXiv240303807G/abstract)
+Novaes, C., **et al.**, _Cosmology from HSC Y1 Weak Lensing with Combined Higher-Order Statistics and Simulation-based Inference_, 2025, [PRD, 111, 083510](https://ui.adsabs.harvard.edu/abs/2025PhRvD.111h3510N/abstract)
+
+[Grandón, D.](https://www.universiteitleiden.nl/en/staffmembers/daniela-grandon-silva#tab-1) **et al.**, _Impact of baryonic feedback on HSC Y1 weak lensing non-Gaussian statistics_, 2024, [PRD, 110, 103539](https://ui.adsabs.harvard.edu/abs/2024PhRvD.110j3539G/abstract)  
+
+Liu, G., **et al.**, _A new code for low-resolution spectral identification of white dwarf binary candidates_, 2024, [A&A, 690, A29](https://ui.adsabs.harvard.edu/abs/2024A%26A...690A..29L/abstract)
 
 [Hwang, H.-C.](http://www.hwang-astro.me), [Ting, Y.-S.](https://www.mso.anu.edu.au/~yting/), **Cheng, S.**, [Speagle, J](https://joshspeagle.com), _Dynamical masses across the Hertzsprung-Russell diagram_, 2024, [MNRAS, 528, 4272](https://ui.adsabs.harvard.edu/abs/2024MNRAS.528.4272H/abstract)
 
