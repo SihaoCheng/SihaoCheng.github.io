@@ -29,7 +29,6 @@ Large jphi means high angular momentum. Large jr means more eccentric orbit.
 # My talk on YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9r2rgAeVdxg?si=o6eojHb6SGUTd6Sr&amp;start=3236" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dL0JLNt_3EE?si=ZKpMetU_HQPC3A7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Contacts
