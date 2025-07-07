@@ -9,7 +9,7 @@ I started to learn playing the piano since primary school, and the violin since 
 Below, I list some recordings I was listening recently and love so much. I hope my readers who come across this page will resonate. I will update this list regularly.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HpJMsA_nakE?si=ttorZcyj4nVL8fai" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HpJMsA_nakE?si=pv5FBhxu36eHIAOZ&amp;start=941" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 I first listened to this concerto probably in high school.  I still remember how I carefully picked the CDs during a visit to Japan.  Memories just come up to my mind suddenly, sweet and sour.  It is like talking to an old friend.  It reminds me how I was, and how I may possibly become.  It is encouraging and soothing.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dL0JLNt_3EE?si=ZKpMetU_HQPC3A7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
