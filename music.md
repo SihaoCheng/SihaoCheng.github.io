@@ -25,11 +25,30 @@ Your browser does not support the audio element.
 </audio>
 </body>
 
+excerpt of Gluck's Orfeo ed Euridice
+<body>
+<audio controls>
+  <source src="orfeo.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+</body>
 
 excerpt of Mozart's piano sonata (K310)
 <body>
 <audio controls>
   <source src="k310.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+</body>
+
+excerpt of Bach's Goldberg variations
+<body>
+<audio controls>
+  <source src="goldberg9.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+<audio controls>
+  <source src="goldberg21.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 </body>
