@@ -2,9 +2,17 @@
 
 Music is a magic. I love classical music, especially compositions by Bach, Mozart, Beethoven, Schubert, and Chopin. I tried to expand my taste, but not yet sucessfully. Perhaps that will happen naturally some day in future. By the way, I think my taste of scientific work is very similar to my musical taste.
 
-I started to learn playing the piano since primary school, and the violin since high school. Recently I also found recorder a beautiful instrument! (the figure below is from Yamaha's website)
+I started to learn playing the piano since primary school, and the violin since high school. Recently I also found recorder a beautiful instrument!
 <br> 
 <img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/yamaha_recorders.jpg?raw=true" width="400" />
+
+Here are some pieces I played. 
+<body>
+<audio controls>
+  <source src="d960.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+</body>
 
 Below, I list some recordings I was listening recently and love so much. I hope my readers who come across this page will resonate. I will update this list regularly.
 
