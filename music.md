@@ -44,13 +44,22 @@ Your browser does not support the audio element.
 excerpt of Bach's Goldberg variations
 <body>
 <audio controls>
-  <source src="goldberg9.mp3" type="audio/mpeg">
+  <source src="goldberg0.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+<audio controls>
+  <source src="goldberg1.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 <audio controls>
   <source src="goldberg21_2.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
+<audio controls>
+  <source src="goldberg9.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 </body>
 
 
