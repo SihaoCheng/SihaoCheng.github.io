@@ -7,10 +7,30 @@ I started to learn playing the piano since primary school, and the violin since 
 <img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/yamaha_recorders.jpg?raw=true" width="400" />
 
 Here are some pieces I played. 
+
+excerpt of Mozart's piano concerto (K488)
+<body>
+<audio controls>
+  <source src="k488.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+</body>
+
+
+excerpt of Schubert's piano sonata (D960)
 <body>
 <audio controls>
   <source src="d960.mp3" type="audio/mpeg">
-Schubert's piano sonata D960. 
+Your browser does not support the audio element.
+</audio>
+</body>
+
+
+excerpt of Mozart's piano sonata (K310)
+<body>
+<audio controls>
+  <source src="k310.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
 </audio>
 </body>
 
