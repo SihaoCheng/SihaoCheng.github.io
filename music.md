@@ -8,24 +8,7 @@ I started to learn playing the piano since primary school, and the violin since 
 
 Here are some pieces I played. 
 
-excerpt of Mozart's piano concerto (K488)
-<body>
-<audio controls>
-  <source src="k488.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
-</body>
-
-
-excerpt of Schubert's piano sonata (D960)
-<body>
-<audio controls>
-  <source src="d960.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
-</body>
-
-excerpt of Gluck's Orfeo ed Euridice
+excerpt from Gluck's Orfeo ed Euridice
 <body>
 <audio controls>
   <source src="orfeo.mp3" type="audio/mpeg">
@@ -33,7 +16,23 @@ Your browser does not support the audio element.
 </audio>
 </body>
 
-excerpt of Mozart's piano sonata (K310)
+excerpt from Mozart's piano concerto (K488)
+<body>
+<audio controls>
+  <source src="k488.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+</body>
+
+excerpt from Schubert's piano sonata (D960)
+<body>
+<audio controls>
+  <source src="d960.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+</body>
+
+excerpt from Mozart's piano sonata (K310)
 <body>
 <audio controls>
   <source src="k310.mp3" type="audio/mpeg">
@@ -41,7 +40,7 @@ Your browser does not support the audio element.
 </audio>
 </body>
 
-excerpt of Bach's Goldberg variations
+excerpts from Bach's Goldberg variations
 <body>
 <audio controls>
   <source src="goldberg0.mp3" type="audio/mpeg">
