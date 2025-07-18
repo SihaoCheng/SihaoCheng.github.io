@@ -32,14 +32,6 @@ Your browser does not support the audio element.
 </audio>
 </body>
 
-excerpt from Gluck's Orfeo ed Euridice
-<body>
-<audio controls>
-  <source src="orfeo.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
-</body>
-
 excerpts from Bach's Goldberg variations
 <body>
 <audio controls>
@@ -58,8 +50,25 @@ Your browser does not support the audio element.
   <source src="goldberg9.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
-
 </body>
+
+excerpt from Gluck's Orfeo ed Euridice
+<body>
+<audio controls>
+  <source src="orfeo.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+</body>
+
+excerpt from Scarlatti's sonata (k132)
+<body>
+<audio controls>
+  <source src="k132.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+</body>
+
+
 
 
 Below, I list some recordings I was listening recently and love so much. I hope my readers who come across this page will resonate. I will update this list regularly.
