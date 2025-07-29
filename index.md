@@ -176,6 +176,8 @@ Advisor: Prof. [Eric Peng (彭逸西)](http://kiaa.pku.edu.cn/info/1012/2660.htm
 
 ## Others: 
 
+Cowell, J. A., **et al.**, _First Constraints from Marked Angular Power Spectra with Subaru Hyper Suprime-Cam Survey First-Year Data_, 2025, [arxiv2507.12315](https://arxiv.org/abs/2507.12315)
+
 Çalışkan, M., Kumar, N. A., Kamionkowski, M., and **Cheng, S.**, _A Fog Over the Cosmological SGWB: Unresolved Massive Black Hole Binaries in the LISA Band_, 2025, [arxiv2506.18965](https://arxiv.org/abs/2506.18965)
 
 Novaes, C., **et al.**, _Cosmology from HSC Y1 Weak Lensing with Combined Higher-Order Statistics and Simulation-based Inference_, 2025, [PRD, 111, 083510](https://ui.adsabs.harvard.edu/abs/2025PhRvD.111h3510N/abstract)
