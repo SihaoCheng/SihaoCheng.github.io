@@ -178,9 +178,9 @@ Advisor: Prof. [Eric Peng (彭逸西)](http://kiaa.pku.edu.cn/info/1012/2660.htm
 
 Cowell, J. A., **et al.**, _First Constraints from Marked Angular Power Spectra with Subaru Hyper Suprime-Cam Survey First-Year Data_, 2025, [arxiv2507.12315](https://arxiv.org/abs/2507.12315)
 
-Çalışkan, M., Kumar, N. A., Kamionkowski, M., and **Cheng, S.**, _A Fog Over the Cosmological SGWB: Unresolved Massive Black Hole Binaries in the LISA Band_, 2025, [arxiv2506.18965](https://arxiv.org/abs/2506.18965)
+[Çalışkan, M.](https://inspirehep.net/authors/1788097?ui-citation-summary=true), [Kumar, N. A.](https://inspirehep.net/authors/2081535?ui-citation-summary=true), [Kamionkowski, M.](https://sites.krieger.jhu.edu/kamionkowski/), and **Cheng, S.**, _A Fog Over the Cosmological SGWB: Unresolved Massive Black Hole Binaries in the LISA Band_, 2025, [arxiv2506.18965](https://arxiv.org/abs/2506.18965)
 
-Novaes, C., **et al.**, _Cosmology from HSC Y1 Weak Lensing with Combined Higher-Order Statistics and Simulation-based Inference_, 2025, [PRD, 111, 083510](https://ui.adsabs.harvard.edu/abs/2025PhRvD.111h3510N/abstract)
+[Novaes, C.](https://inspirehep.net/authors/1876737?ui-citation-summary=true), **et al.**, _Cosmology from HSC Y1 Weak Lensing with Combined Higher-Order Statistics and Simulation-based Inference_, 2025, [PRD, 111, 083510](https://ui.adsabs.harvard.edu/abs/2025PhRvD.111h3510N/abstract)
 
 [Grandón, D.](https://www.universiteitleiden.nl/en/staffmembers/daniela-grandon-silva#tab-1) **et al.**, _Impact of baryonic feedback on HSC Y1 weak lensing non-Gaussian statistics_, 2024, [PRD, 110, 103539](https://ui.adsabs.harvard.edu/abs/2024PhRvD.110j3539G/abstract)  
 
@@ -198,7 +198,7 @@ Liu, D. Z., **et al.**, _Potential scientific synergies in weak lensing studies 
 
 [Camisassa, M.](http://evolgroup.fcaglp.unlp.edu.ar/camisassa.html), **et al.**, _Forever young white dwarfs: when stellar ageing stops_, 2021, [A&A Letters, 649, 7](https://ui.adsabs.harvard.edu/abs/2021A%26A...649L...7C/abstract)
 
-[Bauer, E. B.](https://scholar.google.com/citations?user=GzWCQFgAAAAJ&hl=en), [Schwab, J.](https://yoshiyahu.org), [Bildsten, L.](https://www.kitp.ucsb.edu/bildsten), and **Cheng, S.**, _Multi-Gigayear White Dwarf Cooling Delays from Clustering-Enhanced Gravitational Sedimentation_, 2020, [ApJ, 902, 93](https://ui.adsabs.harvard.edu/abs/2020ApJ...902...93B/abstract)
+[Bauer, E. B.](https://evbauer.github.io/about/), [Schwab, J.](https://yoshiyahu.org), [Bildsten, L.](https://www.kitp.ucsb.edu/bildsten), and **Cheng, S.**, _Multi-Gigayear White Dwarf Cooling Delays from Clustering-Enhanced Gravitational Sedimentation_, 2020, [ApJ, 902, 93](https://ui.adsabs.harvard.edu/abs/2020ApJ...902...93B/abstract)
 
 [Marigo, P.](http://www.astro.unipd.it/marigo/index.html), [Cummings, J. D.](https://pages.jh.edu/~jcummi19/), **et al.**, _Carbon star formation as seen through the non-monotonic initial–final mass relation_, 2020, [Nature Astronomy](https://doi.org/10.1038/s41550-020-1132-1), [full text here](https://rdcu.be/b5r2A)
 
