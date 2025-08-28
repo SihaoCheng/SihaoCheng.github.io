@@ -17,17 +17,6 @@ Beyond science, I like [classical music](https://sihaocheng.github.io/music), ke
 
 <h1 id="Research">Research</h1>
 
-NEWS! While searching for [Planet X/Planet 9](https://en.wikipedia.org/wiki/Planet_Nine), we found [**an extreme "cousin" of Pluto**](https://www.ias.edu/news/extreme-cousin-pluto-possible-dwarf-planet-discovered-solar-systems-edge), designated as [2017 OF201](https://en.wikipedia.org/wiki/2017_OF201). It is likely **large** enough to qualify as a [**dwarf planet**](https://en.wikipedia.org/wiki/Dwarf_planet), and its orbit is **extremely wide** that it should come from the [inner Oort cloud](https://en.wikipedia.org/wiki/Hills_cloud), a remote region in the solar system we still know little about. It also has interesting implications to the Planet 9 hypothesis.  Here is [our paper](https://ui.adsabs.harvard.edu/abs/2025arXiv250515806C/abstract).  Press release and media coverage can be found here: [IAS](https://www.ias.edu/news/extreme-cousin-pluto-possible-dwarf-planet-discovered-solar-systems-edge), [Princeton University](https://web.astro.princeton.edu/news/princeton-astronomers-discover-extraordinary-distant-object-solar-systems-edge), [Sky & Telescope](https://skyandtelescope.org/astronomy-news/another-dwarf-planet-in-our-solar-system/), [The New York Times](https://www.nytimes.com/2025/05/29/science/dwarf-planet-nine-discovery.html), [Reuters](https://www.reuters.com/science/possible-new-dwarf-planet-spotted-near-edge-solar-system-2025-05-30/), [Der Spiegel](https://www.spiegel.de/wissenschaft/weltall/planet-nine-neu-entdeckter-himmelskoerper-stellt-these-von-planet-9-infrage-a-74cf93ca-f271-4fc4-89ce-69e813e15e01?context=issue), [NBC News](https://www.nbcnews.com/science/space/planet-nine-not-quite-astronomers-think-spotted-new-dwarf-planet-rcna210448), and [others](https://www.ias.edu/news/featured-story/304516).
-
-<!--[1](https://www.newscientist.com/article/2481477-new-dwarf-planet-spotted-at-the-edge-of-the-solar-system/#:~:text=A%20potential%20dwarf%20planet%20has,Planet%209%20or%20Planet%20X), [2](https://www.livescience.com/space/planets/scientists-have-discovered-a-new-dwarf-planet-in-our-solar-system-far-beyond-the-orbit-of-neptune), [3](https://phys.org/news/2025-05-extreme-cousin-pluto-dwarf-planet.html), etc. -->
-<!--[4](https://www.sciencealert.com/scientists-discover-new-dwarf-planet-in-solar-system-far-beyond-pluto), -->
-<!--[5](https://www.iflscience.com/newest-member-of-the-solar-system-just-announced-and-its-in-an-extreme-orbit-79322), -->
-<!--[6](https://earthsky.org/space/new-minor-planet-found-in-the-distant-solar-system-2017-of201/), -->
-<!--[7](https://economictimes.indiatimes.com/news/international/global-trends/2017-of201-all-about-the-new-planet-found-beyond-pluto/articleshow/121382387.cms?from=mdr), -->
-
-<img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/tno2.png?raw=true" width="500" />
-<img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/tno.png?raw=true" width="500" />
-
 ===========================
 
 
@@ -46,6 +35,21 @@ I am also working on
 <br>
 
 <a href="https://sihaocheng.github.io/phase_space.html"><img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/guiding_center.png?raw=true" width="400" />
+
+
+## Far-away dwarf planet in our Solar system
+
+While searching for [Planet X/Planet 9](https://en.wikipedia.org/wiki/Planet_Nine), I found [**an extreme "cousin" of Pluto**](https://www.ias.edu/news/extreme-cousin-pluto-possible-dwarf-planet-discovered-solar-systems-edge), designated as [2017 OF201](https://en.wikipedia.org/wiki/2017_OF201). It is likely **large** enough to qualify as a [**dwarf planet**](https://en.wikipedia.org/wiki/Dwarf_planet), and its orbit is **extremely wide** that it should come from the [inner Oort cloud](https://en.wikipedia.org/wiki/Hills_cloud), a remote region in the solar system we still know little about. It also has interesting implications to the Planet 9 hypothesis.  Here is [our paper](https://ui.adsabs.harvard.edu/abs/2025arXiv250515806C/abstract).  Press release and media coverage can be found here: [IAS](https://www.ias.edu/news/extreme-cousin-pluto-possible-dwarf-planet-discovered-solar-systems-edge), [Princeton University](https://web.astro.princeton.edu/news/princeton-astronomers-discover-extraordinary-distant-object-solar-systems-edge), [Sky & Telescope](https://skyandtelescope.org/astronomy-news/another-dwarf-planet-in-our-solar-system/), [The New York Times](https://www.nytimes.com/2025/05/29/science/dwarf-planet-nine-discovery.html), [Reuters](https://www.reuters.com/science/possible-new-dwarf-planet-spotted-near-edge-solar-system-2025-05-30/), [Der Spiegel](https://www.spiegel.de/wissenschaft/weltall/planet-nine-neu-entdeckter-himmelskoerper-stellt-these-von-planet-9-infrage-a-74cf93ca-f271-4fc4-89ce-69e813e15e01?context=issue), [NBC News](https://www.nbcnews.com/science/space/planet-nine-not-quite-astronomers-think-spotted-new-dwarf-planet-rcna210448), and [others](https://www.ias.edu/news/featured-story/304516).
+
+<!--[1](https://www.newscientist.com/article/2481477-new-dwarf-planet-spotted-at-the-edge-of-the-solar-system/#:~:text=A%20potential%20dwarf%20planet%20has,Planet%209%20or%20Planet%20X), [2](https://www.livescience.com/space/planets/scientists-have-discovered-a-new-dwarf-planet-in-our-solar-system-far-beyond-the-orbit-of-neptune), [3](https://phys.org/news/2025-05-extreme-cousin-pluto-dwarf-planet.html), etc. -->
+<!--[4](https://www.sciencealert.com/scientists-discover-new-dwarf-planet-in-solar-system-far-beyond-pluto), -->
+<!--[5](https://www.iflscience.com/newest-member-of-the-solar-system-just-announced-and-its-in-an-extreme-orbit-79322), -->
+<!--[6](https://earthsky.org/space/new-minor-planet-found-in-the-distant-solar-system-2017-of201/), -->
+<!--[7](https://economictimes.indiatimes.com/news/international/global-trends/2017-of201-all-about-the-new-planet-found-beyond-pluto/articleshow/121382387.cms?from=mdr), -->
+
+<img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/tno2.png?raw=true" width="500" />
+<img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/tno.png?raw=true" width="500" />
+
 
 
 ## Are there planets around massive stars?
@@ -140,7 +144,7 @@ Advisor: Prof. [Eric Peng (彭逸西)](http://kiaa.pku.edu.cn/info/1012/2660.htm
 
 <!-- **Cheng, S.**, [Yavetz, T.](https://www.ias.edu/scholars/tomer-yavetz), __, in prep. -->
 
-**Cheng, S.**, [Li, J.](https://www.jiaxuanli.me/), & [Yang, E.](https://eritasy.github.io/), _Discovery of a dwarf planet candidate in an extremely wide orbit: 2017 OF201_, 2025, [arxiv:2505.15806](https://arxiv.org/abs/2505.15806)
+**Cheng, S.**, Li, J. & Yang, E., _Discovery of a dwarf planet candidate in an extremely wide orbit: 2017 OF201_, 2025, [arxiv:2505.15806](https://arxiv.org/abs/2505.15806)
 
 **Cheng, S.**, [Schlaufman, K. C.](http://www.kevinschlaufman.com), & [Caiazzo, I.](https://ilariacaiazzo.com), _A Candidate Giant Planet Companion to the Massive, Young White Dwarf GALEX J071816.4+373139 Informs the Occurrence of Giant Planets Orbiting B Stars_, 2024, [AJ, 170, 47](https://ui.adsabs.harvard.edu/abs/2025AJ....170...47C/abstract)
 
