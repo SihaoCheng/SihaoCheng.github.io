@@ -2,6 +2,7 @@
 layout: default
 ---
 
+<!--
 <img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/portrait.png?raw=true" width="250" />
 <!-- <img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/IMG_0039.jpg?raw=true" width="400" /> -->
 <a href="https://www.bilibili.com/video/BV19L4y1z7hn/?vd_source=5d944598d960afc958b9b557fb1b5bb4"><img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/miaomiao.png?raw=true" width="215" /></a>
@@ -209,3 +210,5 @@ Princeton, NJ08540, USA
 <script type="text/javascript">
     var aladin = A.aladin('#aladin-lite-div', {survey: "P/DSS2/color", fov:1, target: "20 45 38.000 +30 42 30.00"});
 </script>
+
+-->
