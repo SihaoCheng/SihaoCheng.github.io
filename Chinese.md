@@ -12,12 +12,6 @@ layout: default
 
 <h1 id="Research">研究</h1>
 
-NEWS! 在寻找[第九行星/行星X](https://en.wikipedia.org/wiki/Planet_Nine)时，我偶然发现了一个[轨道古怪的遥远天体](https://www.ias.edu/news/extreme-cousin-pluto-possible-dwarf-planet-discovered-solar-systems-edge), 小行星中心的临时编号是[2017 OF201](https://en.wikipedia.org/wiki/2017_OF201)。由于足够大，它大概率可以满足[**矮行星**](https://en.wikipedia.org/wiki/Dwarf_planet)的标准，同时他的轨道延伸到**非常远**，很可能来自太阳系中神秘的[奥尔特云](https://en.wikipedia.org/wiki/Hills_cloud)区域。它的轨道参数还对第九行星的假说造成了挑战。这里是我们的[学术文章](https://ui.adsabs.harvard.edu/abs/2025arXiv250515806C/abstract)和一些报道：[高等研究院](https://www.ias.edu/news/extreme-cousin-pluto-possible-dwarf-planet-discovered-solar-systems-edge)，[普林斯顿大学](https://web.astro.princeton.edu/news/princeton-astronomers-discover-extraordinary-distant-object-solar-systems-edge)，[媒体](https://www.ias.edu/news/featured-story/304516).
-
-
-<img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/tno2.png?raw=true" width="500" />
-<img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/tno.png?raw=true" width="500" />
-
 ===========================
 
 我用统计方法分析巡天数据，并研究其中的天体物理问题。我的研究兴趣涉及宇宙学、恒星物理、动力学、(系外)行星。
@@ -38,6 +32,14 @@ NEWS! 在寻找[第九行星/行星X](https://en.wikipedia.org/wiki/Planet_Nine)
 <br>
 
 <a href="https://sihaocheng.github.io/phase_space.html"><img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/guiding_center.png?raw=true" width="400" />
+
+
+## 太阳系最远的矮行星
+在寻找[第九行星/行星X](https://en.wikipedia.org/wiki/Planet_Nine)时，我偶然发现了一个[轨道古怪的遥远天体](https://www.ias.edu/news/extreme-cousin-pluto-possible-dwarf-planet-discovered-solar-systems-edge), 小行星中心的临时编号是[2017 OF201](https://en.wikipedia.org/wiki/2017_OF201)。由于足够大，它大概率可以满足[**矮行星**](https://en.wikipedia.org/wiki/Dwarf_planet)的标准，同时他的轨道延伸到**非常远**，很可能来自太阳系中神秘的[奥尔特云](https://en.wikipedia.org/wiki/Hills_cloud)区域。它的轨道参数还对第九行星的假说造成了挑战。这里是[学术文章](https://ui.adsabs.harvard.edu/abs/2025arXiv250515806C/abstract)和一些报道：[高等研究院](https://www.ias.edu/news/extreme-cousin-pluto-possible-dwarf-planet-discovered-solar-systems-edge)，[普林斯顿大学](https://web.astro.princeton.edu/news/princeton-astronomers-discover-extraordinary-distant-object-solar-systems-edge)，[媒体](https://www.ias.edu/news/featured-story/304516).
+
+
+<img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/tno2.png?raw=true" width="500" />
+<img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/tno.png?raw=true" width="500" />
 
 
 ## 大质量恒星身旁也有行星吗?
