@@ -127,7 +127,7 @@ layout: default
 
 <!-- **Cheng, S.**, [Yavetz, T.](https://www.ias.edu/scholars/tomer-yavetz), __, in prep. -->
 
-**Cheng, S.**, [Jiaxuan Li](https://www.jiaxuanli.me/), & [Eritas Yang](https://web.astro.princeton.edu/people/eritas-yang), _Discovery of a dwarf planet candidate in an extremely wide orbit: 2017 OF201_, 2025, [arxiv:2505.15806](https://arxiv.org/abs/2505.15806)
+**Cheng, S.**, Li, J., & Yang, E., _Discovery of a dwarf planet candidate in an extremely wide orbit: 2017 OF201_, 2025, [arxiv:2505.15806](https://arxiv.org/abs/2505.15806)
 
 **Cheng, S.**, [Schlaufman, K. C.](http://www.kevinschlaufman.com), & [Caiazzo, I.](https://ilariacaiazzo.com), _A Candidate Giant Planet Companion to the Massive, Young White Dwarf GALEX J071816.4+373139 Informs the Occurrence of Giant Planets Orbiting B Stars_, 2024, [arxiv:2408.03985](https://ui.adsabs.harvard.edu/abs/2024arXiv240803985C/abstract)
 
