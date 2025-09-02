@@ -9,7 +9,7 @@ layout: default
 
 <!-- useful links: light pollution map: https://djlorenz.github.io/astronomy/lp/ -->
 
-I am a postdoc member at the [Institute for Advanced Study](https://www.ias.edu/sns/astrophysics) in Princeton and a visiting fellow at [Perimeter Institute](https://perimeterinstitute.ca/) in Canada. I got my Ph.D. in astrophysics in 2021 at [Johns Hopkins University](https://physics-astronomy.jhu.edu). 
+I am a senior postdoc fellow at the [Perimeter Institute](https://perimeterinstitute.ca/) and visiting fellow at [Institute for Advanced Study](https://www.ias.edu/sns/astrophysics). I got my Ph.D. in astrophysics in 2021 at [Johns Hopkins University](https://physics-astronomy.jhu.edu). 
 Beyond science, I like [classical music](https://sihaocheng.github.io/music), kendo, and some anime.
 <!-- and my [better half](https://siyuyaogy.github.io). -->
 
@@ -95,17 +95,19 @@ In high school, my twin brother (who is studying philosophy now) and I found an 
 
 
 # C.V.
+## [Perimeter Institute](https://perimeterinstitute.ca/)
+2025-, senior postdoc fellow
+2022-2025, visiting fellow
+<br>
+<img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/PI.jpg?raw=true" width="400" />
+
 ## [Institute for Advanced Study](https://www.ias.edu/sns/astrophysics)
 School of Natural Science, Astrophysics Group
 <br>
-2022-, member
+2025-, visiting fellow
+2022-2025, member
 <br>
 <img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/campus1020.jpg?raw=true" width="400" />
-
-## [Perimeter Institute](https://perimeterinstitute.ca/)
-2022-, visiting fellow
-<br>
-<img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/PI.jpg?raw=true" width="400" />
 
 ## [École Normale Supérieure, Paris](https://csd.ens.psl.eu)
 The Centre for Sciences of Data
