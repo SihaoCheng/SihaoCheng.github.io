@@ -32,6 +32,7 @@ I am also working on
 
 6. [**a much better (clear and unbiased) map of the Milky Way phase space**](https://sihaocheng.github.io/phase_space.html) using Gaia data and advanced mapping techniques and 
 7. a search for Planet X, a hypothesized new planet in our solar system.
+8. a new scenario of magnetized black hole accetion
 <br>
 
 <a href="https://sihaocheng.github.io/phase_space.html"><img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/guiding_center.png?raw=true" width="400" />
