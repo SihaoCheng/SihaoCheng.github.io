@@ -147,7 +147,7 @@ Advisor: Prof. [Eric Peng (彭逸西)](http://kiaa.pku.edu.cn/info/1012/2660.htm
 
 <!-- **Cheng, S.**, [Yavetz, T.](https://www.ias.edu/scholars/tomer-yavetz), __, in prep. -->
 
-**Cheng, S.**, Li, J. & Yang, E., _Discovery of a dwarf planet candidate in an extremely wide orbit: 2017 OF201_, 2026, [ApJL, 998, L6] (https://arxiv.org/abs/2505.15806)
+**Cheng, S.**, Li, J. & Yang, E., _Discovery of a dwarf planet candidate in an extremely wide orbit: 2017 OF201_, 2026, [ApJL, 998, L6](https://arxiv.org/abs/2505.15806)
 
 **Cheng, S.**, [Schlaufman, K. C.](http://www.kevinschlaufman.com), & [Caiazzo, I.](https://ilariacaiazzo.com), _A Candidate Giant Planet Companion to the Massive, Young White Dwarf GALEX J071816.4+373139 Informs the Occurrence of Giant Planets Orbiting B Stars_, 2024, [AJ, 170, 47](https://ui.adsabs.harvard.edu/abs/2025AJ....170...47C/abstract)
 
@@ -185,7 +185,7 @@ Advisor: Prof. [Eric Peng (彭逸西)](http://kiaa.pku.edu.cn/info/1012/2660.htm
 
 ## Others: 
 
-Cowell, J. A., **et al.**, _First Constraints from Marked Angular Power Spectra with Subaru Hyper Suprime-Cam Survey First-Year Data_, 2025, [arxiv2507.12315](https://arxiv.org/abs/2507.12315)
+Cowell, J. A., **et al.**, _First Constraints from Marked Angular Power Spectra with Subaru Hyper Suprime-Cam Survey First-Year Data_, 2026, [MNRAS, 546, stag033](https://ui.adsabs.harvard.edu/abs/2026MNRAS.546ag033C/abstract)
 
 [Çalışkan, M.](https://inspirehep.net/authors/1788097?ui-citation-summary=true), [Kumar, N. A.](https://inspirehep.net/authors/2081535?ui-citation-summary=true), [Kamionkowski, M.](https://sites.krieger.jhu.edu/kamionkowski/), and **Cheng, S.**, _A Fog Over the Cosmological SGWB: Unresolved Massive Black Hole Binaries in the LISA Band_, 2025, [arxiv2506.18965](https://arxiv.org/abs/2506.18965)
 
