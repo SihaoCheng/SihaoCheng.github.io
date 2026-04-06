@@ -31,7 +31,7 @@ My innovative analyses have led to discoveries across cosmic scales, including
 
 I am currently exploring
 
-6. [**a much better (clear and unbiased) map of the Milky Way phase space**](https://sihaocheng.github.io/phase_space.html) using Gaia data and advanced mapping techniques and 
+6. [**a map of the Milky Way phase space**](https://sihaocheng.github.io/phase_space.html) using Gaia data and advanced mapping techniques and 
 7. a search for Planet X, a hypothesized new planet in our solar system.
 8. a new scenario of magnetized black hole accetion
 <br>
