@@ -17,10 +17,11 @@ Beyond science, I like [classical music](https://sihaocheng.github.io/music), ke
 
 <h1 id="Research">Research</h1>
 
-===========================
+I am interested in reveal beautiful physics and make discoveries from large and complex datasets. 
 
+In this data-rich era, we are less limited by the size of data but more by ideas to explore it. 
 
-I am interested in using statistical analysis of survey data to reveal beautiful physics and make discoveries. In this data-rich era, we are limited less by the size of data but more by the ideas to explore it. My innovative analyses have led to several discoveries and impactful contributions across cosmic scales, including
+My innovative analyses have led to discoveries across cosmic scales, including
 
 1. cosmological applications of a new statistic that borrows ideas from deep learning;
 2. discovery of freezing stars that shine out of gravitational sedimentation;
@@ -28,7 +29,7 @@ I am interested in using statistical analysis of survey data to reveal beautiful
 4. discovery of a "Jupiter" candidate that opens a unique window to study exoplanets around massive stars;
 5. discovery of a dwarf planet candidate in an extremely wide orbit around the Sun.
 
-I am also working on 
+I am currently exploring
 
 6. [**a much better (clear and unbiased) map of the Milky Way phase space**](https://sihaocheng.github.io/phase_space.html) using Gaia data and advanced mapping techniques and 
 7. a search for Planet X, a hypothesized new planet in our solar system.
