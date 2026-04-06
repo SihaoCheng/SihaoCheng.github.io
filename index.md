@@ -19,7 +19,7 @@ Beyond science, I like [classical music](https://sihaocheng.github.io/music), ke
 
 I am interested in reveal beautiful physics and make discoveries from large and complex datasets. 
 
-In this data-rich era, we are less limited by the size of data but more by ideas to explore it. 
+In this data-rich era, we are less limited by the size of data, but more by ideas to explore it. 
 
 My innovative analyses have led to discoveries across cosmic scales, including
 
