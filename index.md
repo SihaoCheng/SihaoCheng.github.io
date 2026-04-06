@@ -24,10 +24,10 @@ In this data-rich era, we are less limited by the size of data, but more by idea
 My innovative analyses have led to discoveries across cosmic scales, including
 
 1. cosmological applications of a new statistic that borrows ideas from deep learning;
-2. discovery of a new type of stars that shine out of "floating icebergs" inside;
+2. discovery of a new type of stars that shine out of "floating icebergs" inside them;
 3. the best measurement of white dwarf merger rate using kinematic age;
 4. discovery of a "Jupiter" candidate that opens a unique window to study exoplanets around massive stars;
-5. discovery of a dwarf planet candidate in an extremely wide orbit around the Sun.
+5. discovery of a dwarf planet with the widest orbit around the Sun.
 
 I am currently exploring
 
