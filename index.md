@@ -17,10 +17,8 @@ Beyond science, I like [classical music](https://sihaocheng.github.io/music), ke
 
 <h1 id="Research">Research</h1>
 
-I am interested in revealing beautiful physics and make discoveries from large and complex datasets. 
-
+I am interested in revealing beautiful physics and making discoveries from complex datasets. 
 In this data-rich era, we are less limited by the size of data, but more by ideas to explore it. 
-
 My innovative analyses have led to discoveries across cosmic scales, including
 
 1. cosmological applications of a new statistic that borrows ideas from deep learning;
