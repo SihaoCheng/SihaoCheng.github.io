@@ -19,25 +19,25 @@ Beyond science, I like [classical music](https://sihaocheng.github.io/music), ke
 
 I am interested in revealing beautiful physics and making discoveries from complex datasets. 
 In this data-rich era, we are less limited by the size of data, but more by ideas to explore it. 
-My innovative analyses have led to discoveries across cosmic scales, including
+My innovative analyses have led to discovery across cosmic scales, including
 
-1. cosmological applications of a new statistic that borrows ideas from deep learning;
-2. discovery of a new type of stars that shine out of "floating icebergs" inside them;
-3. the best measurement of white dwarf merger rate using kinematic age;
-4. discovery of a "Jupiter" candidate that opens a unique window to study exoplanets around massive stars;
-5. discovery of a dwarf planet with the widest orbit around the Sun.
+1. deep-learning inspired statistic and its cosmological applications;
+2. discovery of buoyant "icebergs" inside stars;
+3. discovery of a dwarf planet with the widest orbit around the Sun.
+4. merger remnants among white dwarfs;
+5. discovery of a "Jupiter" candidate that opens a unique window to study exoplanets around massive stars;
 
-I am currently exploring
+I am currently working on
 
-6. [**a map of the Milky Way phase space**](https://sihaocheng.github.io/phase_space.html) using Gaia data and advanced mapping techniques and 
-7. a search for Planet X, a hypothesized new planet in our solar system.
-8. a new scenario of magnetized black hole accetion
+6. revealing [**structures in the Milky Way phase space**](https://sihaocheng.github.io/phase_space.html) using advanced mapping techniques;
+7. a search for new planets in our Solar System;
+8. a new scenario of magnetized black hole accetion.
 <br>
 
 <a href="https://sihaocheng.github.io/phase_space.html"><img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/guiding_center.png?raw=true" width="400" />
 
 
-## Far-away dwarf planet in our Solar system
+## Distant dwarf planet in our Solar system
 
 While searching for [Planet X/Planet 9](https://en.wikipedia.org/wiki/Planet_Nine), I found [**an extreme "cousin" of Pluto**](https://www.ias.edu/news/extreme-cousin-pluto-possible-dwarf-planet-discovered-solar-systems-edge), designated as [2017 OF201](https://en.wikipedia.org/wiki/2017_OF201). It is likely **large** enough to qualify as a [**dwarf planet**](https://en.wikipedia.org/wiki/Dwarf_planet), and its orbit is **extremely wide** that it should come from the [inner Oort cloud](https://en.wikipedia.org/wiki/Hills_cloud), a remote region in the solar system we still know little about. It also has interesting implications to the Planet 9 hypothesis.  Here is [our paper](https://ui.adsabs.harvard.edu/abs/2026ApJ...998L...6C/abstract).  Press release and media coverage can be found here: [IAS](https://www.ias.edu/news/extreme-cousin-pluto-possible-dwarf-planet-discovered-solar-systems-edge), [Princeton University](https://web.astro.princeton.edu/news/princeton-astronomers-discover-extraordinary-distant-object-solar-systems-edge), [Sky & Telescope](https://skyandtelescope.org/astronomy-news/another-dwarf-planet-in-our-solar-system/), [The New York Times](https://www.nytimes.com/2025/05/29/science/dwarf-planet-nine-discovery.html), [Reuters](https://www.reuters.com/science/possible-new-dwarf-planet-spotted-near-edge-solar-system-2025-05-30/), [Der Spiegel](https://www.spiegel.de/wissenschaft/weltall/planet-nine-neu-entdeckter-himmelskoerper-stellt-these-von-planet-9-infrage-a-74cf93ca-f271-4fc4-89ce-69e813e15e01?context=issue), [NBC News](https://www.nbcnews.com/science/space/planet-nine-not-quite-astronomers-think-spotted-new-dwarf-planet-rcna210448), and [others](https://www.ias.edu/news/featured-story/304516).
 
