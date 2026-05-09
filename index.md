@@ -10,7 +10,7 @@ layout: default
 
 <!-- useful links: light pollution map: https://djlorenz.github.io/astronomy/lp/ -->
 
-I am a senior postdoc fellow at the [Perimeter Institute](https://perimeterinstitute.ca/) and visiting fellow at [Institute for Advanced Study](https://www.ias.edu/sns/astrophysics). I am joining the faculty of T.D.Lee Institute later this year. I got my Ph.D. in astrophysics in 2021 at [Johns Hopkins University](https://physics-astronomy.jhu.edu). 
+I am a senior postdoc fellow at the [Perimeter Institute](https://perimeterinstitute.ca/) and visiting fellow at [Institute for Advanced Study](https://www.ias.edu/sns/astrophysics). I am joining the faculty of [T.D.Lee Institute](https://tdli.sjtu.edu.cn/en/) later this year. I got my Ph.D. in astrophysics in 2021 at [Johns Hopkins University](https://physics-astronomy.jhu.edu). 
 Beyond science, I like [classical music](https://sihaocheng.github.io/music), kendo, and some anime.
 <!-- and my [better half](https://siyuyaogy.github.io). -->
 
