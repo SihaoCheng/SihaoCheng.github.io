@@ -213,14 +213,6 @@ Liu, D. Z., **et al.**, _Potential scientific synergies in weak lensing studies 
 
 <h1 id="Contacts">Contacts</h1>
 scheng@ias.edu
-<br>
-+1 443 207 1532
-<br>
-Bloomberg Hall 150
-<br>
-1 Einstein Dr, Institute for Advanced Study
-<br>
-Princeton, NJ08540, USA
 
 
 <h1 id="skymap">Sky Altas (Aladin)</h1>
