@@ -74,9 +74,12 @@ Your browser does not support the audio element.
 
 Below, I list some recordings I was listening recently and love so much. I hope my readers who come across this page will resonate. I will update this list regularly.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t7bjUAuO9cI?si=-4FGNNByoa7_t6JA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+The "moonlight" sonata of Beethoven, by Arrau. Many don't know that this famous "moonlight" movement is actually deeply connected to the death scene of Mozart's opera Don Giovanni. Indeed, one can hardly hear love in it, but an irresistable, inevitable, fatal pace in darkness -- peaceful, yet horrible. In the animation Detective Conan, there is a famous case called "Moonlight Sonata Murder Case", which I think is the best use of this sonata ever in films.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m0Tk3sliZ0U?si=8HAgOLk_1J-jhaQe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GaQ4L5mfku0?si=GNxH6dYDr1G_ZKNg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-In Mozart's music, there are conflict, loss, tragedy, sorrow, but it always recovers with reconciliation, acceptance, calm. How much I wish it is the same in life... TT
+In Mozart's music, there are conflict, loss, tragedy, sorrow, but it always recovers with reconciliation, acceptance, calm.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HpJMsA_nakE?si=pv5FBhxu36eHIAOZ&amp;start=941" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
